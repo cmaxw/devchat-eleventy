@@ -1,18 +1,18 @@
 ---
 layout: layouts/post.njk
 podcast: dev-ed
-title: |
-  Dev Ed 002: Staying Current in Web Development
-date: 2019-02-12T04:01:41.000Z
+title: 'Dev Ed 002: Staying Current in Web Development
+
+'
+date: 2019-02-12T04:01:41.000+00:00
 episode_number: '002'
 duration: '58:17'
-audio_url: >-
-  https://media.devchat.tv/dev-ed/Dev_Ed_Podcast_002_Staying_Current_in_Web_Development.mp3
+audio_url: https://media.devchat.tv/dev-ed/DevEd_002_Staying_Current_in_Web_Development.mp3
 tags:
-  - dev_ed
-  - podcast
----
+- dev_ed
+- podcast
 
+---
 **Panel**
 
 - [Joe Eames](https://thinkster.io/)
