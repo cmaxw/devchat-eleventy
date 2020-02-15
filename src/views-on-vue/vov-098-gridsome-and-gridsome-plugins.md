@@ -75,5 +75,5 @@ Lindsay has been working with Gridsome for a while and leads the discussion abou
 
 **Charles Max Wood:**
 
-* [The Man In the High Castle ](https://amzn.to/2tG7pND)
+* [The Man In the High Castle](https://amzn.to/2tG7pND)
 * [Magician: Apprentice](https://amzn.to/39N7qjr "Magician: Apprentice")
