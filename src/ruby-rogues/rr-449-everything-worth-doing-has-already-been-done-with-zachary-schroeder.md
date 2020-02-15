@@ -51,6 +51,13 @@ In this episode of Ruby Rogues, Zachary and the panelists speak about doing smal
 
 #### **Picks**
 
-* Dave Kimura
-* John Epperson
-* Zachary Schroeder
+**Dave Kimura:**
+
+* [Noble Chair Epic](https://www.noblechairs.com/epic-series/gaming-chair-pu-leather?attribute\[color\]=White%20/%20Black "Noble Chair Epic")
+* [Dewalt Trim Router](https://www.dewalt.com/products/power-tools/routers-planers-and-joiners/routers/20v-max-xr-brushless-cordless-compact-router/dcw600b)
+
+**John Epperson**
+
+* [Lagavulin 16 Year Old Scotch Whisky](https://www.thewhiskyexchange.com/p/3121/lagavulin-16-year-old)
+
+**Zachary Schroeder**
