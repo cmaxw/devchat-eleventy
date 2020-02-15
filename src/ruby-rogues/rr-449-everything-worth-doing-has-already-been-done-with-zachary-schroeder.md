@@ -62,3 +62,6 @@ In this episode of Ruby Rogues, Zachary and the panelists speak about doing smal
 * [Office Chair](https://www.amazon.com/gp/product/B07LD6X723/)
 
 **Zachary Schroeder**
+
+* Riding a Bike
+* [The Thermals - Live on KEXP](https://www.youtube.com/watch?v=ofmDFkcwXxA)
