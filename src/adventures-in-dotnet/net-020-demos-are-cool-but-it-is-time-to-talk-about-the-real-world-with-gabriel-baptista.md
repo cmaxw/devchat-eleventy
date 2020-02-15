@@ -22,3 +22,9 @@ answer4: ''
 
 ---
 Gabriel Baptista discusses with the panel about teaching development to students in Brazil. They also discuss security practices in the cloud vs demo projects.
+
+## **____________________________________________________________**
+
+> **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood is now available on Amazon.**[ **Get Your Copy Today!**](https://www.amazon.com/gp/product/B081MBL5C9/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=devchattv-20&linkId=9d61363241636e2546ef46abba198746&language=en_US)
+
+## **____________________________________________________________**
