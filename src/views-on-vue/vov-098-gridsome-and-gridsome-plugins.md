@@ -23,7 +23,7 @@ Lindsay has been working with Gridsome for a while and leads the discussion abou
 
 Links
 
-#### [The ultimate guide to comments for static sites – Shifter](https://www.getshifter.io/static-site-comments/	)  
+[The ultimate guide to comments for static sites – Shifter](https://www.getshifter.io/static-site-comments/ "The ultimate guide to comments for static sites – Shifter")  
   
 Picks
 
