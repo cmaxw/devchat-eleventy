@@ -40,8 +40,6 @@ Chuck and Thomas get together to discuss their favorite parts of the React Round
 
 ## **____________________________________________________________**
 
-#### **Links**
-
 #### **Picks**
 
 **Thomas Aylott:**
