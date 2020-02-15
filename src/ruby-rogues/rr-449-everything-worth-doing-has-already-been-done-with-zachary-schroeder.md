@@ -47,6 +47,7 @@ In this episode of Ruby Rogues, Zachary and the panelists speak about doing smal
 #### **Links**
 
 * [https://www.youtube.com/watch?v=taYx6Dy6dwI](https://www.youtube.com/watch?v=taYx6Dy6dwI "https://www.youtube.com/watch?v=taYx6Dy6dwI")
+* [https://github.com/robobluebird/ruby-lofi](https://github.com/robobluebird/ruby-lofi "https://github.com/robobluebird/ruby-lofi")
 * Zachary's [Github](https://github.com/robobluebird/) account
 
 #### **Picks**
