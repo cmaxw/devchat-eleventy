@@ -38,7 +38,7 @@ In this episode of Ruby Rogues, Zachary and the panelists speak about doing smal
 * [Resolve Digital](https://resolve.digital/?utm_source=rubyrogues&utm_medium=podcast&utm_campaign=rubyrogues&utm_term=sponsored-ads-ruby&utm_content=20200212-sponsor-pod-rr)
 * [RedisGreen](https://redisgreen.net/?utm_source=rubyrogues&utm_medium=podcast&utm_campaign=rubyrogues)
 
-## **________________________________________________________**
+## **____________________________________________________________**
 
 > **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood is now available on Amazon.**[ **Get Your Copy Today!**](https://www.amazon.com/gp/product/B081MBL5C9/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=devchattv-20&linkId=9d61363241636e2546ef46abba198746&language=en_US)
 
@@ -54,7 +54,7 @@ In this episode of Ruby Rogues, Zachary and the panelists speak about doing smal
 
 **Dave Kimura:**
 
-* [Noble Chair Epic](https://www.noblechairs.com/epic-series/gaming-chair-pu-leather?attribute\[color\]=White%20/%20Black "Noble Chair Epic")
+* [Noble Chair Epic](https://www.noblechairs.com/epic-series/gaming-chair-pu-leather?attribute%5Bcolor%5D=White%20/%20Black "Noble Chair Epic")
 * [Dewalt Trim Router](https://www.dewalt.com/products/power-tools/routers-planers-and-joiners/routers/20v-max-xr-brushless-cordless-compact-router/dcw600b)
 
 **John Epperson**
