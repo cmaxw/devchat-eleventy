@@ -43,3 +43,13 @@ Chuck and Thomas get together to discuss their favorite parts of the React Round
 #### **Links**
 
 #### **Picks**
+
+**Thomas Aylott:**
+
+* [Principles for Success by Ray Dalio](https://www.amazon.com/Principles-Success-Ray-Dalio/dp/1982147210 "Principles for Success by Ray Dalio")
+* [Pandemic](https://boardgamegeek.com/boardgame/30549/pandemic)
+
+**Charles Max Wood:**
+
+* [Ready, Fire, Aim by Michael Masterson]()
+* [Legendary: A Marvel Deck Building Game](https://boardgamegeek.com/boardgame/129437/legendary-marvel-deck-building-game)
