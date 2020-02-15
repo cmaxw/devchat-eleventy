@@ -30,10 +30,8 @@ Lindsay has been working with Gridsome for a while and leads the discussion abou
 * Lindsay Wardell
 * Deane Venske
 * Austin Gil
-
-#### **Guest**
-
-* Lindsay Wardell
+* Devlin Duldulao
+* Steve Edwards
 
 #### **Sponsors**
 
@@ -48,7 +46,7 @@ Lindsay has been working with Gridsome for a while and leads the discussion abou
 
 #### **Picks**
 
-**Devlin Duldulao**
+**Devlin Duldulao:**
 
 * [Octotree](https://www.octotree.io/)
 
@@ -56,21 +54,21 @@ Lindsay has been working with Gridsome for a while and leads the discussion abou
 
 * [King Kong Apparel]()
 
-**Lindsay Wardell**
+**Lindsay Wardell:**
 
 * [Magic: Legends](http://playmagiclegends.com	 "Magic: Legends")
 
-**Austin Gil**
+**Austin Gil:**
 
 * [Tailwind](https://tailwindcss.com/ "Tailwind")
 * [Particles](https://prtcls.stegosource.com/)
 * [Knife sharpener](https://smile.amazon.com/Smiths-CCKS-2-Step-Knife-Sharpener/dp/B00032S02K/)
 
-**Deane Venske**
+**Deane Venske:**
 
 * [Toggl - Free Time Tracking Software](https://toggl.com/ "Toggl")
 
-**Charles Max Wood**
+**Charles Max Wood:**
 
 * [The Man In the High Castle ](https://amzn.to/2tG7pND)
 * [Magician: Apprentice](https://amzn.to/39N7qjr "Magician: Apprentice")
