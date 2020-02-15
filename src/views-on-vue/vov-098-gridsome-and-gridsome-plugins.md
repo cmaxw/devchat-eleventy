@@ -37,10 +37,16 @@ Lindsay has been working with Gridsome for a while and leads the discussion abou
 * [Springboard | ](https://www.springboard.com/workshops/software-engineering-career-track/?utm_source=devchat&utm_medium=podcast&utm_campaign=viewsonvue)[Promo code "JABBER" gives $500 off the job-guaranteed C](https://www.springboard.com/workshops/software-engineering-career-track/?utm_source=devchat&utm_medium=podcast&utm_campaign=reactroundup)[ourse](https://www.springboard.com/workshops/software-engineering-career-track/?utm_source=devchat&utm_medium=podcast&utm_campaign=viewsonvue)
 * [Cloudways | Use promo code "DEVCHAT" for 30% off for 3 months on all plans](https://www.cloudways.com/en/?id=546951&chan=Devchat&data1=Vue-show&data2=Podcast-1)
 
+## **________________________________________________________**
+
+> **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood is now available on Amazon.**[ **Get Your Copy Today!**](https://www.amazon.com/gp/product/B081MBL5C9/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=devchattv-20&linkId=9d61363241636e2546ef46abba198746&language=en_US)
+
+## **____________________________________________________________**
+
 #### **Links**
 
-* [The ultimate guide to comments for static sites – Shifter](https://www.getshifter.io/static-site-comments/ "The ultimate guide to comments for static sites – Shifter")
-* [Views on Vue on Facebook](https://www.facebook.com/ViewsonVue)
+* The ultimate guide to comments for static sites – [Shifter](https://www.getshifter.io/static-site-comments/ "The ultimate guide to comments for static sites – Shifter")
+* Views on Vue on [Facebook](https://www.facebook.com/ViewsonVue)
 * Follow Views on Vue on Twitter [@viewsonvue](https://twitter.com/viewsonvue)
 
 #### **Picks**
