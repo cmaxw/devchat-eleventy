@@ -5,6 +5,12 @@ tags:
 - views_on_vue
 - 'Gridsome '
 - Gridsome Plugins
+- Charles Max Wood
+- Lindsay Wardell
+- Deane Venske
+- Austin Gil
+- Devlin Duldulao
+- Steve Edwards
 layout: layouts/post.njk
 title: 'VoV 098: Gridsome and Gridsome Plugins'
 date: 2020-02-18T11:00:00.000+00:00
