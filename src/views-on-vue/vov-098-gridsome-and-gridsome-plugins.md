@@ -9,7 +9,7 @@ layout: layouts/post.njk
 title: 'VoV 098: Gridsome and Gridsome Plugins'
 date: 2020-02-18T11:00:00.000+00:00
 episode_number: '098'
-audio_url: https://media.devchat.tv/viewsonvue/VoV_098_Lindsay_Wardell.mp3
+audio_url: https://media.devchat.tv/viewsonvue/VoV_098_Panel.mp3
 duration: '1:13:47'
 question1: ''
 answer1: ''
