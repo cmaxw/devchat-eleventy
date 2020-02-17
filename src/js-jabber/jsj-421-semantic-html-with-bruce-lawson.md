@@ -67,3 +67,8 @@ Bruce Lawson is an expert in and proponent of semantic HTML. After receiving som
 
 * [Alex Russell - The Mobile Web: MIA](https://www.youtube.com/watch?v=wsdPeC86OH0 "Alex Russell - The Mobile Web: MIA")
 * Bruce Lawson [Website](https://www.brucelawson.co.uk/)
+
+**Bruce Lawson:**
+
+* [Taffy]() music band
+* Follow Bruce on Twitter [@brucel](https://twitter.com/brucel?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
