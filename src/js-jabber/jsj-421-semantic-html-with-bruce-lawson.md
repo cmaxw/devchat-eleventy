@@ -30,7 +30,7 @@ Bruce Lawson is an expert in and proponent of semantic HTML. After receiving som
 #### **Sponsors**
 
 * [G2i](https://www.g2i.co/?utm_source=Javascript_Jabber&utm_medium=Podcast&utm_campaign=DevChat)
-* [Springboard | ](https://www.springboard.com/workshops/software-engineering-career-track/?utm_source=devchat&utm_medium=podcast&utm_campaign=javascriptjabber)[Promo code "JABBER" gives $500 off the job-guaranteed](https://www.springboard.com/workshops/software-engineering-career-track/?utm_source=devchat&utm_medium=podcast&utm_campaign=jsjabber)[ Course](https://www.springboard.com/workshops/software-engineering-career-track/?utm_source=devchat&utm_medium=podcast&utm_campaign=javascriptjabber)
+* [Springboard | ](https://www.springboard.com/workshops/software-engineering-career-track/?utm_source=devchat&utm_medium=podcast&utm_campaign=javascriptjabber)[Promo code "JABBER" gives $500 off the job-guaranteed](https://www.springboard.com/workshops/software-engineering-career-track/?utm_source=devchat&utm_medium=podcast&utm_campaign=javascriptjabber)[ Course](https://www.springboard.com/workshops/software-engineering-career-track/?utm_source=devchat&utm_medium=podcast&utm_campaign=javascriptjabber)
 
 ## **____________________________________________________________**
 
