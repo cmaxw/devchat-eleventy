@@ -23,8 +23,44 @@ answer4: ''
 ---
 Gabriel Baptista discusses with the panel about teaching development to students in Brazil. They also discuss security practices in the cloud vs demo projects.
 
+#### **Panel**
+
+* Shawn Clabough
+* Caleb Wells​
+* Wai Liu
+
+#### **Guest**
+
+* Gabriel Baptista
+* Follow Gabriel on Twitter [@glbaptista](https://twitter.com/glbaptista), [Github](https://github.com/gabrielbaptista), [LinkedIn](https://www.linkedin.com/in/gabriel-lara-baptista/)
+
 ## **____________________________________________________________**
 
 > **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood is now available on Amazon.**[ **Get Your Copy Today!**](https://www.amazon.com/gp/product/B081MBL5C9/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=devchattv-20&linkId=9d61363241636e2546ef46abba198746&language=en_US)
 
 ## **____________________________________________________________**
+
+#### **Links**
+
+* [https://sonarcloud.io/](https://sonarcloud.io/ "https://sonarcloud.io/")
+* [Troy Hunt: Troy Hunt](https://www.troyhunt.com/)
+* [OWASP Foundation, the Open Source Foundation for Application Security](https://www.owasp.org/ "OWASP Foundation, the Open Source Foundation for Application Security")
+* [';--have i been pwned?](https://haveibeenpwned.com/ "';--have i been pwned?")
+* Shawn's Twitter [@DotNetSuperhero](https://twitter.com/DotNetSuperhero)
+
+#### **Picks**
+
+Shawn Clabough:
+
+* [Die Hard Movie](https://www.imdb.com/title/tt0095016/ "Die Hard Movie")
+
+Caleb Wells​:
+
+* 
+
+Wai Liu:
+
+Gabriel Baptista
+
+* Follow Gabriel on Twitter [@glbaptista](https://twitter.com/glbaptista), [Github](https://github.com/gabrielbaptista), [LinkedIn](https://www.linkedin.com/in/gabriel-lara-baptista/)
+* 
