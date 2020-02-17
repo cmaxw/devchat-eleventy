@@ -61,7 +61,6 @@ Bruce Lawson is an expert in and proponent of semantic HTML. After receiving som
 **Charles Max Wood:**
 
 * [Codineer - 100 days of Vue challenge](https://www.youtube.com/watch?v=xHVHtPD63UY&list=PLJesql-aSfX4S0bC3BaOv0Gl6yEnpYKA6)
-* Restream.io
 
 **Dan Shappir:**
 
