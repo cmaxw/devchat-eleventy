@@ -57,12 +57,12 @@ In this episode of Ruby Rogues, Zachary and the panelists speak about doing smal
 * [Noble Chair Epic](https://www.noblechairs.com/epic-series/gaming-chair-pu-leather?attribute%5Bcolor%5D=White%20/%20Black "Noble Chair Epic")
 * [Dewalt Trim Router](https://www.dewalt.com/products/power-tools/routers-planers-and-joiners/routers/20v-max-xr-brushless-cordless-compact-router/dcw600b)
 
-**John Epperson**
+**John Epperson:**
 
 * [Lagavulin 16 Year Old Scotch Whisky](https://www.thewhiskyexchange.com/p/3121/lagavulin-16-year-old)
 * [Office Chair](https://www.amazon.com/gp/product/B07LD6X723/)
 
-**Zachary Schroeder**
+**Zachary Schroeder:**
 
 * Riding a Bike
 * [The Thermals - Live on KEXP](https://www.youtube.com/watch?v=ofmDFkcwXxA)
