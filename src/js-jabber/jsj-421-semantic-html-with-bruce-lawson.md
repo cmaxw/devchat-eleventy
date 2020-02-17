@@ -18,12 +18,12 @@ Bruce Lawson is an expert in and proponent of semantic HTML. After receiving som
 
 #### **Panel**
 
-* AJ O’Neal 
-* Aimee Knight 
-* Charles Max Wood 
-* J.C. Hiatt 
-* Steven Emmerich 
-* Steve Edwards 
+* AJ O’Neal
+* Aimee Knight
+* Charles Max Wood
+* J.C. Hiatt
+* Steven Emmerich
+* Steve Edwards
 * Dan Shappir
 
 #### **Guest**
@@ -43,4 +43,31 @@ Bruce Lawson is an expert in and proponent of semantic HTML. After receiving som
 
 #### **Links**
 
+* [WebAIM: Web Accessibility In Mind](https://webaim.org/)
+* <input type=["date"](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/date)>
+* [The 4 minute business case for accessible online shopping](https://www.brucelawson.co.uk/2019/the-business-case-for-accessible-online-shopping/)
+
 #### **Picks**
+
+AJ O’Neal:
+
+* [Better Mic Sound]()
+* [Canon T4i 650D](http://bit.ly/CanonT4i650D "Canon T4i 650D")
+* [Canon T5i Course](http://www.learningvideo.com/store/t5i_sales.php "Canon T5i Course")
+* [Magic Lantern](https://magiclantern.fm/ " Magic Lantern")
+* Filmic Pro & Promovie
+
+Aimee Knight:
+
+* [AddyOsmani.com - Native image lazy-loading for the web!](https://addyosmani.com/blog/lazy-loading/)
+
+Charles Max Wood:
+
+Steven Emmerich:
+
+Steve Edwards:
+
+Dan Shappir:
+
+* [Alex Russell - The Mobile Web: MIA](https://www.youtube.com/watch?v=wsdPeC86OH0 "Alex Russell - The Mobile Web: MIA")
+* Bruce Lawson [Website](https://www.brucelawson.co.uk/)
