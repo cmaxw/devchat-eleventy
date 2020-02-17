@@ -49,15 +49,15 @@ Gabriel Baptista discusses with the panel about teaching development to students
 
 #### **Picks**
 
-Shawn Clabough:
+**Shawn Clabough:**
 
 * [Die Hard Movie](https://www.imdb.com/title/tt0095016/ "Die Hard Movie")
 
-Wai Liu:
+**Wai Liu:**
 
 * [Tile](https://www.thetileapp.com/en-eu/how-it-works "Tile")
 
-Gabriel Baptista:
+**Gabriel Baptista:**
 
 * [Storytel](https://www.storytel.com/in/en/ "Storytel")
 * Follow Gabriel on Twitter [@glbaptista](https://twitter.com/glbaptista), [Github](https://github.com/gabrielbaptista), [LinkedIn](https://www.linkedin.com/in/gabriel-lara-baptista/)
