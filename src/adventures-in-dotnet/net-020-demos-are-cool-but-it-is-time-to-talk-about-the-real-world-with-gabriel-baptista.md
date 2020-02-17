@@ -26,7 +26,6 @@ Gabriel Baptista discusses with the panel about teaching development to students
 #### **Panel**
 
 * Shawn Clabough
-* Caleb Wells​
 * Wai Liu
 
 #### **Guest**
@@ -54,13 +53,12 @@ Shawn Clabough:
 
 * [Die Hard Movie](https://www.imdb.com/title/tt0095016/ "Die Hard Movie")
 
-Caleb Wells​:
-
-* 
-
 Wai Liu:
 
-Gabriel Baptista
+* [Tile](https://www.thetileapp.com/en-eu/how-it-works "Tile")
 
+Gabriel Baptista:
+
+* [Storytel](https://www.storytel.com/in/en/ "Storytel")
 * Follow Gabriel on Twitter [@glbaptista](https://twitter.com/glbaptista), [Github](https://github.com/gabrielbaptista), [LinkedIn](https://www.linkedin.com/in/gabriel-lara-baptista/)
-* 
+* Gabriels new book: [Hands-On Software Architecture with C# 8 and .NET Core 3](https://www.amazon.com/Hands-Software-Architecture-NET-Core/dp/1789800935)
