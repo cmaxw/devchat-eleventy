@@ -21,9 +21,6 @@ Bruce Lawson is an expert in and proponent of semantic HTML. After receiving som
 * AJ O’Neal
 * Aimee Knight
 * Charles Max Wood
-* J.C. Hiatt
-* Steven Emmerich
-* Steve Edwards
 * Dan Shappir
 
 #### **Guest**
@@ -49,7 +46,7 @@ Bruce Lawson is an expert in and proponent of semantic HTML. After receiving som
 
 #### **Picks**
 
-AJ O’Neal:
+**AJ O’Neal:**
 
 * [Better Mic Sound]()
 * [Canon T4i 650D](http://bit.ly/CanonT4i650D "Canon T4i 650D")
@@ -57,17 +54,13 @@ AJ O’Neal:
 * [Magic Lantern](https://magiclantern.fm/ " Magic Lantern")
 * Filmic Pro & Promovie
 
-Aimee Knight:
+**Aimee Knight:**
 
 * [AddyOsmani.com - Native image lazy-loading for the web!](https://addyosmani.com/blog/lazy-loading/)
 
-Charles Max Wood:
+**Charles Max Wood:**
 
-Steven Emmerich:
-
-Steve Edwards:
-
-Dan Shappir:
+**Dan Shappir:**
 
 * [Alex Russell - The Mobile Web: MIA](https://www.youtube.com/watch?v=wsdPeC86OH0 "Alex Russell - The Mobile Web: MIA")
 * Bruce Lawson [Website](https://www.brucelawson.co.uk/)
