@@ -59,6 +59,6 @@ Gabriel Baptista discusses with the panel about teaching development to students
 
 **Gabriel Baptista:**
 
-* [Storytel](https://www.storytel.com/in/en/ "Storytel")
 * Follow Gabriel on Twitter [@glbaptista](https://twitter.com/glbaptista), [Github](https://github.com/gabrielbaptista), [LinkedIn](https://www.linkedin.com/in/gabriel-lara-baptista/)
+* [Storytel](https://www.storytel.com/in/en/ "Storytel")
 * Gabriels new book: [Hands-On Software Architecture with C# 8 and .NET Core 3](https://www.amazon.com/Hands-Software-Architecture-NET-Core/dp/1789800935)
