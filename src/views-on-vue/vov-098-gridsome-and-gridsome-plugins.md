@@ -40,7 +40,7 @@ Lindsay has been working with Gridsome for a while and leads the discussion abou
 
 #### **Sponsors**
 
-* [Springboard | ](https://www.springboard.com/workshops/software-engineering-career-track/?utm_source=devchat&utm_medium=podcast&utm_campaign=viewsonvue)[Promo code "JABBER" gives $500 off the job-guaranteed C](https://www.springboard.com/workshops/software-engineering-career-track/?utm_source=devchat&utm_medium=podcast&utm_campaign=reactroundup)[ourse](https://www.springboard.com/workshops/software-engineering-career-track/?utm_source=devchat&utm_medium=podcast&utm_campaign=viewsonvue)
+* [Springboard | Promo code "JABBER" gives $500 off the job-guaranteed Course](https://www.springboard.com/workshops/software-engineering-career-track/?utm_source=devchat&utm_medium=podcast&utm_campaign=viewsonvue)
 * [Cloudways | Use promo code "DEVCHAT" for 30% off for 3 months on all plans](https://www.cloudways.com/en/?id=546951&chan=Devchat&data1=Vue-show&data2=Podcast-1)
 
 ## **____________________________________________________________**
