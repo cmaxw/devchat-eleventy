@@ -61,7 +61,7 @@ Lindsay has been working with Gridsome for a while and leads the discussion abou
 
 * [Octotree](https://www.octotree.io/)
 
-**Steve Edwards**
+**Steve Edwards:**
 
 * [King Kong Apparel]()
 
