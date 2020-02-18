@@ -48,7 +48,8 @@ In this episode of Ruby Rogues, Zachary and the panelists speak about doing smal
 
 * [https://www.youtube.com/watch?v=taYx6Dy6dwI](https://www.youtube.com/watch?v=taYx6Dy6dwI "https://www.youtube.com/watch?v=taYx6Dy6dwI")
 * [https://github.com/robobluebird/ruby-lofi](https://github.com/robobluebird/ruby-lofi "https://github.com/robobluebird/ruby-lofi")
-* Zachary's [Github](https://github.com/robobluebird/) account
+* [Ruby | Gosu](https://www.libgosu.org/)
+* [Ruby2d](https://www.ruby2d.com/)
 
 #### **Picks**
 
@@ -64,5 +65,6 @@ In this episode of Ruby Rogues, Zachary and the panelists speak about doing smal
 
 **Zachary Schroeder:**
 
+* Zachary's [Github](https://github.com/robobluebird/) 
 * Riding a Bike
 * [The Thermals - Live on KEXP](https://www.youtube.com/watch?v=ofmDFkcwXxA)
