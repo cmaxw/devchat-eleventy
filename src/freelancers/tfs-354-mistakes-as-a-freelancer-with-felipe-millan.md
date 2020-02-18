@@ -9,7 +9,7 @@ tags:
 - Felipe Millan
 layout: layouts/post.njk
 title: 'TFS 354: Mistakes as a Freelancer with Felipe Millan'
-date: 2020-02-18T11:00:00+0000
+date: 2020-02-18T11:00:00.000+00:00
 episode_number: '354'
 audio_url: https://media.devchat.tv/freelancers/TFS_354_Felipe_Millan.mp3
 duration: '1:11:03'
@@ -37,7 +37,7 @@ Felipe Millan joins the panel to talk about mistakes that freelancers make. The 
 
 ### **Sponsors**
 
-* [Cloudways](https://www.cloudways.com/en/)
+* [Cloudways](https://www.cloudways.com/en/?id=546951&chan=Devchat&data1=Freelancer-show&data2=Podcast-1)
 * [CacheFly](https://www.cachefly.com/)
 
 ## **____________________________________________________________**
