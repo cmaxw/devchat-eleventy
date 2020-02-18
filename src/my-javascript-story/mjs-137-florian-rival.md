@@ -7,7 +7,7 @@ tags:
 - Florian Rival
 layout: layouts/post.njk
 title: 'MJS 137: Florian Rival'
-date: 2020-02-18T11:00:00+0000
+date: 2020-02-18T11:00:00.000+00:00
 episode_number: '137'
 audio_url: https://media.devchat.tv/my-js-story/MJS_137_Florian_Rival.mp3
 duration: '28:47'
@@ -29,7 +29,7 @@ Florian Rival is a React developer who has built his own game engine. He's been 
 
 ## Sponsors
 
-* [G2i](https://www.g2i.co/?utm_source=React_Native_Radio&utm_medium=Podcast)
+* [G2i](https://www.g2i.co/?utm_source=My_Javascript_story&utm_medium=Podcast&utm_campaign=DevChat)
 * [CacheFly](https://www.cachefly.com/)
 
 ## **______________________________________**
