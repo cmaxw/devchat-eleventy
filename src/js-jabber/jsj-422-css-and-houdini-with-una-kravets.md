@@ -19,7 +19,7 @@ Una Kravets talks to the panel about CSS and its future. We dive into what Houdi
 ##### **Panel:**
 
 * Aimee Knight
-* AJ ONeal
+* AJ O’Neal
 * Charles Max Wood
 
 ##### **Guest:**
@@ -28,8 +28,7 @@ Una Kravets talks to the panel about CSS and its future. We dive into what Houdi
 
 ##### **Sponsors:**
 
-* [G2i](https://www.g2i.co/?utm_source=Javascript_Jabber&utm_medium=Podcast&utm_campaign=DevChat)
-* [Springboard | Promo code "JABBER" gives $500 off the job-guaranteed Course](https://www.springboard.com/workshops/software-engineering-career-track/?utm_source=devchat&utm_medium=podcast&utm_campaign=javascriptjabber)
+* [Split](https://on.split.io/37M1fu2)
 
 ## **____________________________________________________________**
 
@@ -52,9 +51,9 @@ Una Kravets talks to the panel about CSS and its future. We dive into what Houdi
 Aimee Knight:
 
 * [Things you can do with a browser in 2020](https://github.com/luruke/browser-2020)
-* Chilipad referral link ??
+* Chilipad referral link ???????
 
-AJ ONeal:
+AJ O’Neal:
 
 * [SD Card Wallet](https://amzn.to/38OvQYq)
 * [SP 128gb MicroSD](https://amzn.to/38XSIVr)
