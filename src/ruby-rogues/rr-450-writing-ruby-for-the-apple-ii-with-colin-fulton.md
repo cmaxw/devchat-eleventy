@@ -3,6 +3,8 @@ podcast: ruby-rogues
 tags:
 - podcast
 - ruby_rogues
+- Colin Fulton
+- Apple II
 layout: layouts/post.njk
 title: 'RR 450: Writing Ruby for the Apple II with Colin Fulton'
 date: 2020-02-25T11:00:00.000+00:00
@@ -64,6 +66,5 @@ John Epperson:
 
 Colin Fulton:
 
-* Follow Colin on Twitter - [@PeterQuines](https://twitter.com/peterquines?lang=en)
-  [GitHub](https://github.com/justcolin), email: justcolin@gmail.com
+* Follow Colin on Twitter - [@PeterQuines](https://twitter.com/peterquines?lang=en),  [GitHub](https://github.com/justcolin), email: justcolin@gmail.com
 * [PORTER-CABLE Heat Gun](https://www.amazon.com/PORTER-CABLE-PC1500HG-1500-Watt-Heat-Gun/dp/B004Q04X44/ref=sr_1_7?keywords=heat+gun&qid=1580927846&sr=8-7)
