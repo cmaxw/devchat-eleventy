@@ -11,8 +11,8 @@ title: 'RRU 101: Military Veterans, How to Learn, and With You With Me with Trav
   Ralph'
 date: 2020-02-25T11:00:00+0000
 episode_number: '101'
-audio_url: ''
-duration: ''
+audio_url: https://media.devchat.tv/reactroundup/RRU_101_Travis_Ralph.mp3
+duration: '57:57'
 question1: ''
 answer1: ''
 question2: ''
