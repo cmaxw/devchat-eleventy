@@ -20,7 +20,7 @@ question4: ''
 answer4: ''
 
 ---
-Christian walks Charles and Younes through the 10 commandments of builsing Angular applications. We talk about how to arrange Angular applications, design components, and best practices. We also talk through tools, teams, and performance.
+Christian walks Charles and Younes through the 10 commandments of building Angular applications. We talk about how to arrange Angular applications, design components, and best practices. We also talk through tools, teams, and performance.
 
 ##### **Panel:**
 
