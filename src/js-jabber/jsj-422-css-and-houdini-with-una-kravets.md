@@ -18,7 +18,13 @@ Una Kravets talks to the panel about CSS and its future. We dive into what Houdi
 
 ##### **Panel:**
 
+* Aimee Knight
+* AJ ONeal
+* Charles Max Wood
+
 ##### **Guest:**
+
+* Una Kravets
 
 ##### **Sponsors:**
 
