@@ -9,7 +9,7 @@ layout: layouts/post.njk
 title: 'RR 450: Writing Ruby for the Apple II with Colin Fulton'
 date: 2020-02-25T11:00:00.000+00:00
 episode_number: '450'
-audio_url: https://media.devchat.tv/rubyrogues/RR_450_Colin_Fulton.mp3
+audio_url: https://media.devchat.tv/ruby-rogues/RR_450_Colin_Fulton.mp3
 duration: '57:11'
 question1: ''
 answer1: ''
