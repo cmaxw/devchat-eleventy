@@ -9,8 +9,8 @@ layout: layouts/post.njk
 title: ".NET 021: Unity Game Development with C# with Jonathan Thompson"
 date: 2020-03-03T11:00:00+0000
 episode_number: '021'
-audio_url: ''
-duration: ''
+audio_url: https://media.devchat.tv/adventures-in-dotnet/NET_021_Jonathan_Thompson.mp3
+duration: '49:20'
 question1: ''
 answer1: ''
 question2: ''
