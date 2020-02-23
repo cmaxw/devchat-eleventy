@@ -24,18 +24,18 @@ answer4: ''
 ---
 The Jared Wilcurt, a prolific Vue developer leads the panelists of Views on Vue into an educational episode on writing tests in Vue. He also speaks about a library that he has been working on that solves a bunch of problems around snapshot testing in Vue.
 
-##### **Panel:**
+#### **Panel:**
 
 * Steve Edwards
 * Devlin Duldulao
 * Austin Gil
 * Deane Venske
 
-##### **Guest:**
+#### **Guest:**
 
 * The Jared Wilcurt
 
-##### **Sponsors:**
+#### **Sponsors:**
 
 * [Springboard | Click here NOW for $500 off the course](https://www.springboard.com/workshops/software-engineering-career-track/?utm_source=devchat&utm_medium=podcast&utm_campaign=viewsonvue)
 * [Cloudways | Use promo code "DEVCHAT" for 30% off for 3 months on all plans](https://www.cloudways.com/en/?id=546951&chan=Devchat&data1=Vue-show&data2=Podcast-2)
@@ -46,7 +46,7 @@ The Jared Wilcurt, a prolific Vue developer leads the panelists of Views on Vue 
 
 ## **____________________________________________________________**
 
-##### **Links:**
+#### **Links:**
 
 * [Snapshot Testing · Jest](https://jestjs.io/docs/en/snapshot-testing)
 * [jest-serializer](https://www.npmjs.com/package/jest-serializer-vue-tjw)
@@ -54,28 +54,28 @@ The Jared Wilcurt, a prolific Vue developer leads the panelists of Views on Vue 
 * [Clean Coders: Training videos. With personality. For software professionals.](https://cleancoders.com/)
 * [The Jared Wilcurt - DEV Community ](https://dev.to/TheJaredWilcurt)
 
-##### **Picks:**
+#### **Picks:**
 
-The Jared Wilcurt:
+**The Jared Wilcurt:**
 
 * Follow The Jared on Twitter [@TheJaredWilcurt](https://twitter.com/TheJaredWilcurt), [Github](https://github.com/TheJaredWilcurt), (https://TheJaredWilcurt.com)
 * [A Beautiful Day in the Neighborhood](https://www.imdb.com/title/tt3224458/)
 
-Devlin Duldulao:
+**Devlin Duldulao:**
 
 * [Calvin and Hobbes](https://www.gocomics.com/calvinandhobbes)
 
-Deane Venske:
+**Deane Venske:**
 
 * [The Witcher](https://www.netflix.com/tr-en/title/80189685)
 * [Daily - Source for Busy Developers](https://daily.dev/)
 
-Austin Gil:
+**Austin Gil:**
 
 * [@types/jest - npm](https://www.npmjs.com/package/@types/jest)
 * [eslint-plugin-vue](https://eslint.vuejs.org/)
 * [mostly-adequate-guide](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/)
 
-Steve Edwards:
+**Steve Edwards:**
 
 * [Safely Home by Randy Alcorn](https://store.epm.org/safely-home/)

@@ -23,17 +23,17 @@ question4: ''
 answer4: ''
 
 ---
-##### **Panel:**
+#### **Panel:**
 
 * Thomas Aylott
 * Carl Mungazi
 * Charles Max Wood
 
-##### **Guest:**
+#### **Guest:**
 
 * Travis Ralph
 
-##### **Sponsors:**
+#### **Sponsors:**
 
 * [Springboard | Click here NOW for $500 off the course](https://www.springboard.com/workshops/software-engineering-career-track/?utm_source=devchat&utm_medium=podcast&utm_campaign=reactroundup)
 
@@ -43,31 +43,31 @@ answer4: ''
 
 ## **____________________________________________________________**
 
-##### **Links:**
+#### **Links:**
 
 * [RRU 095: Designing Your Life](https://devchat.tv/react-round-up/rru-095-designing-your-life/)
 * [Amplify.io React & React Native Docs](https://aws-amplify.github.io/docs/js/react)
 * [Offensive Security Certified Professional](https://en.wikipedia.org/wiki/Offensive_Security_Certified_Professional)
 
-##### **Picks:**
+#### **Picks:**
 
-Thomas Aylott:
+**Thomas Aylott:**
 
 * [Watchtower Online Library](https://wol.jw.org/en/wol/h/r1/lp-e)
 
-Carl Mungazi:
+**Carl Mungazi:**
 
 * [React Libraries in 2020 - RWieruch](https://www.robinwieruch.de/react-libraries)
 * [Loupe](http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D)
 * [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 
-Charles Max Wood:
+**Charles Max Wood:**
 
 * [New Devchat.tv Podcast - Clean Coders](https://devchat.tv/clean-coders/)
 * [Interview Cake (Affiliate link)](https://interviewcake.com/?utm_source=devchattv)
 * [Hero Wars Mobile Game](https://play.google.com/store/apps/details?id=com.nexters.herowars&hl=en)
 
-Travis Ralph:
+**Travis Ralph:**
 
 * Follow Travis on Twitter - [@Wreckittr](https://twitter.com/wreckittr), [LinkedIn](https://linkedin.com/in/travis-ralph)
 * [With You With Me](https://www.withyouwithme.com/)
