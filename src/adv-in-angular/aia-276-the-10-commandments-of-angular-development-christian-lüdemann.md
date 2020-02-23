@@ -22,16 +22,16 @@ answer4: ''
 ---
 Christian walks Charles and Younes through the 10 commandments of building Angular applications. We talk about how to arrange Angular applications, design components, and best practices. We also talk through tools, teams, and performance.
 
-##### **Panel:**
+#### **Panel:**
 
 * Younes Jaaidi:
 * Charles Max Wood
 
-##### **Guest:**
+#### **Guest:**
 
 * Christian Lüdemann
 
-##### **Sponsors:**
+#### **Sponsors:**
 
 ## **____________________________________________________________**
 
@@ -39,7 +39,7 @@ Christian walks Charles and Younes through the 10 commandments of building Angul
 
 ## **____________________________________________________________**
 
-##### **Links:**
+#### **Links:**
 
 * [angular/flex-layout]()
 * [cypress.io](https://www.cypress.io/)
@@ -50,19 +50,19 @@ Christian walks Charles and Younes through the 10 commandments of building Angul
 * [Angular Architect Accelerator](https://christianlydemann.com/angular-architect-accelerator/)
 * [The Ten Commandments of Angular Development](https://christianlydemann.com/the-ten-commandments-of-angular-development)
 
-##### **Picks:**
+#### **Picks:**
 
-Younes Jaaidi:
+**Younes Jaaidi:**
 
 * [Dark](https://darklang.com/)
 
-Charles Max Wood:
+**Charles Max Wood:**
 
 * [LinkedIn](https://www.linkedin.com/)
 * [Hunter](https://hunter.io/)
 * [HubSpot](https://www.hubspot.com/)
 
-Christian Lüdemann:
+**Christian Lüdemann:**
 
 * Follow Christian on Twitter -  [@chrislydemann](https://twitter.com/chrislydemann)
 * [How Google Works: Eric Schmidt, Jonathan Rosenberg](https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582328/ref=sr_1_1?ascsubtag=1ba00-01000-org00-win10-other-nomod-us000-pcomp-feature-scomp-wm-5&keywords=how+google+works&qid=1582268994&sr=8-1)
