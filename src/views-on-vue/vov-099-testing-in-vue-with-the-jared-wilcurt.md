@@ -22,6 +22,8 @@ question4: ''
 answer4: ''
 
 ---
+The Jared Wilcurt, a prolific vue developer leads the panelists of Views on Vue into an educational episode on writing tests in Vue. He also speaks about a library that he has been working on that solves a bunch of problems around snapshot testing in Vue.
+
 ##### **Panel:**
 
 * Steve Edwards
