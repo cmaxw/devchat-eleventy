@@ -5,11 +5,12 @@ tags:
 - views_on_vue
 - The Jared Wilcurt
 - jest serializer
+- testing vue
 layout: layouts/post.njk
-title: 'VoV 099: The Jared Wilcurt'
+title: 'VoV 099: Testing in Vue with The Jared Wilcurt'
 date: 2020-02-25T11:00:00+0000
 episode_number: '099'
-audio_url: https://media.devchat.tv/viewsonvue/VoV_099_Jared_Wilcurt.mp3
+audio_url: https://media.devchat.tv/viewsonvue/VoV_099_The_Jared_Wilcurt.mp3
 duration: '1:00:33'
 question1: ''
 answer1: ''
