@@ -24,15 +24,15 @@ answer4: ''
 ---
 Michael Whatcott is a band teacher turned developer working at SmartyStreets. He talks through the processes and procedures we take for granted as software developers.
 
-##### **Panel:**
+#### **Panel:**
 
 * Charles Max Wood
 
-##### **Guest:**
+#### **Guest:**
 
 * Michael Whatcott
 
-##### **Sponsors:**
+#### **Sponsors:**
 
 ## **____________________________________________________________**
 
@@ -40,7 +40,7 @@ Michael Whatcott is a band teacher turned developer working at SmartyStreets. He
 
 ## **____________________________________________________________**
 
-##### **Links:**
+#### **Links:**
 
 * Follow Michael on Twitter - [@mdwhatcott](https://twitter.com/mdwhatcott),
   [Github](https://github.com/mdwhatcott)
