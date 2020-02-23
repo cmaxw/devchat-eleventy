@@ -23,17 +23,17 @@ answer4: ''
 ---
 Colin Fulton has written a Ruby implementation in assembly for the Apple II. He's also got a fondness for the impossible and impractical applications of software. He walks through how he approached writing a somewhat limited version of Ruby for a old and limited machine. He also talks through other ways to explore the limits of Ruby and other programming languages.
 
-##### **Panel:**
+#### **Panel:**
 
 * Charles Max Wood
 * Dave Kimura
 * John Epperson
 
-##### **Guest:**
+#### **Guest:**
 
 * Colin Fulton
 
-##### **Sponsors:**
+#### **Sponsors:**
 
 * [Resolve Digital](https://resolve.digital/?utm_source=rubyrogues&utm_medium=podcast&utm_campaign=rubyrogues&utm_term=sponsored-ads-ruby&utm_content=20200212-sponsor-pod-rr)
 
@@ -43,28 +43,28 @@ Colin Fulton has written a Ruby implementation in assembly for the Apple II. He'
 
 ## **____________________________________________________________**
 
-##### **Links:**
+#### **Links:**
 
 * [Ruby on the Apple](https://www.youtube.com/watch?v=M7LEf7-W12k&list=PLE7tQUdRKcyZDE8nFrKaqkpd-XK4huygU&index=7)
 * [That Works?! Quines and Other Delightfully Useless Programs](https://www.youtube.com/watch?v=DC-bjR6WeaM&feature=youtu.be)
 
-##### **Picks:**
+#### **Picks:**
 
-Charles Max Wood:
+**Charles Max Wood:**
 
 * New Devchat.tv Podcast - [Clean Coders](https://devchat.tv/clean-coders/)
 * [Star Trek: Picard](https://www.imdb.com/title/tt8806524/)
 
-Dave Kimura:
+**Dave Kimura:**
 
 * [Guillotine Paper Cutter](https://www.amazon.com/Swingline-Trimmer-Guillotine-Capacity-ClassicCut/dp/B016LDV41S)
 
-John Epperson:
+**John Epperson:**
 
 * [Clint's Salsa - Medium Mexican](https://www.walmart.com/ip/Clint-s-Salsa-Medium-Mexican-Case-of-6-16-oz/775283500)
 * React Native Hot Reloading
 
-Colin Fulton:
+**Colin Fulton:**
 
 * Follow Colin on Twitter - [@PeterQuines](https://twitter.com/peterquines?lang=en),  [GitHub](https://github.com/justcolin), email: justcolin@gmail.com
 * [PORTER-CABLE Heat Gun](https://www.amazon.com/PORTER-CABLE-PC1500HG-1500-Watt-Heat-Gun/dp/B004Q04X44/ref=sr_1_7?keywords=heat+gun&qid=1580927846&sr=8-7)
