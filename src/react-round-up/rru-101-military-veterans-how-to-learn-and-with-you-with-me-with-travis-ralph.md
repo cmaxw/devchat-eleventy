@@ -23,6 +23,8 @@ question4: ''
 answer4: ''
 
 ---
+Travis Ralph works with With You With Me to help veterans transition from military service to IT jobs. He discusses the process of making the move from military service to software development, why they use React as part of their curriculum, and how to learn new skills.
+
 #### **Panel:**
 
 * Thomas Aylott
