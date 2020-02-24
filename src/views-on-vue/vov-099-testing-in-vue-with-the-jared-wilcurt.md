@@ -67,7 +67,7 @@ The Jared Wilcurt, a prolific Vue developer leads the panelists of Views on Vue 
 
 **Deane Venske:**
 
-* [The Witcher](https://www.netflix.com/tr-en/title/80189685)
+* [The Witcher Series](https://www.netflix.com/tr-en/title/80189685)
 * [Daily - Source for Busy Developers](https://daily.dev/)
 
 **Austin Gil:**
