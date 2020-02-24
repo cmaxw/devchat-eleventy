@@ -58,7 +58,7 @@ The Jared Wilcurt, a prolific Vue developer leads the panelists of Views on Vue 
 
 **The Jared Wilcurt:**
 
-* Follow The Jared on Twitter [@TheJaredWilcurt](https://twitter.com/TheJaredWilcurt), [Github](https://github.com/TheJaredWilcurt), (https://TheJaredWilcurt.com)
+* Follow The Jared on Twitter [@TheJaredWilcurt](https://twitter.com/TheJaredWilcurt), [Github](https://github.com/TheJaredWilcurt), [Website](https://TheJaredWilcurt.com)
 * [A Beautiful Day in the Neighborhood](https://www.imdb.com/title/tt3224458/)
 
 **Devlin Duldulao:**
