@@ -35,7 +35,7 @@ Colin Fulton has written a Ruby implementation in assembly for the Apple II. He'
 
 #### **Sponsors:**
 
-* [Resolve Digital](https://resolve.digital/?utm_source=rubyrogues&utm_medium=podcast&utm_campaign=rubyrogues&utm_term=sponsored-ads-ruby&utm_content=20200212-sponsor-pod-rr)
+* [Resolve Digital](https://resolve.digital/?utm_source=rubyrogues&utm_medium=podcast&utm_campaign=rubyrogues&utm_term=sponsored-ads-ruby&utm_content=20200225-sponsor-pod-rr)
 
 ## **____________________________________________________________**
 
