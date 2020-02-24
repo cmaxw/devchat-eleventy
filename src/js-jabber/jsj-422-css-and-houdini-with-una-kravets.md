@@ -16,17 +16,17 @@ audio_url: https://media.devchat.tv/js-jabber/JSJ_422_Una_Kravets.mp3
 ---
 Una Kravets talks to the panel about CSS and its future. We dive into what Houdini is and how much of it is implemented in the browsers. She explains how the changes outlined in Houdini will improve the user experience on the web and developer experience for web developers.
 
-##### **Panel:**
+#### **Panel:**
 
 * Aimee Knight
 * AJ O’Neal
 * Charles Max Wood
 
-##### **Guest:**
+#### **Guest:**
 
 * Una Kravets
 
-##### **Sponsors:**
+#### **Sponsors:**
 
 * [Split](https://on.split.io/37M1fu2)
 
@@ -36,7 +36,7 @@ Una Kravets talks to the panel about CSS and its future. We dive into what Houdi
 
 ## **____________________________________________________________**
 
-##### **Links:**
+#### **Links:**
 
 * [CSS Houdini](https://developer.mozilla.org/en-US/docs/Web/Houdini)
 * [Working with the new CSS Typed Object Model](https://developers.google.com/web/updates/2018/03/cssom)
@@ -46,25 +46,25 @@ Una Kravets talks to the panel about CSS and its future. We dive into what Houdi
 * [New horizons in CSS: Houdini and the Paint API](https://blog.logrocket.com/new-horizons-in-css-houdini-and-the-paint-api-8b307cf387bb/)
 * [CSS Houdini Experiments](https://css-houdini.rocks)
 
-##### **Picks:**
+#### **Picks:**
 
-Aimee Knight:
+**Aimee Knight:**
 
 * [Things you can do with a browser in 2020](https://github.com/luruke/browser-2020)
-* Chilipad referral link ???????
 
-AJ O’Neal:
+**AJ O’Neal:**
 
 * [SD Card Wallet](https://amzn.to/38OvQYq)
 * [SP 128gb MicroSD](https://amzn.to/38XSIVr)
 * [Rocketek](https://amzn.to/3b0p8QT)
 
-Charles Max Wood:
+**Charles Max Wood:**
 
 * [Gmelius (Affiliate link)](https://gmelius.com?via=charles46)
 * [MyPillow](https://www.mypillow.com/)
+* [Chilipad (Affiliate link)](http://rwrd.io/ht0f3bi)
 
-Una Kravets:
+**Una Kravets:**
 
 * Follow Una on Twitter - [@Una](https://twitter.com/Una)
 * Una's Podcast - [Toolsday](https://spec.fm/podcasts/toolsday)
