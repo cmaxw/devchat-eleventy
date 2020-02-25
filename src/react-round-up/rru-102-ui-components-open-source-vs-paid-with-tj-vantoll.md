@@ -11,7 +11,7 @@ title: 'RRU 102: UI Components-Open Source vs. Paid with TJ VanToll'
 date: 2020-03-03T11:00:00+0000
 episode_number: '102'
 audio_url: https://media.devchat.tv/reactroundup/RRU_102_TJ_VanToll.mp3
-duration: ''
+duration: '52:15'
 question1: ''
 answer1: ''
 question2: ''
