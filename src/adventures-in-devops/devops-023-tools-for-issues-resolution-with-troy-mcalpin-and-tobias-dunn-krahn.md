@@ -3,6 +3,10 @@ podcast: adventures-in-devops
 tags:
 - podcast
 - adventures_in_devops
+- Nell Shamrell-Harrington
+- Charles Max Wood
+- Troy McAlpin
+- Tobia Dunn-Krahn
 layout: layouts/post.njk
 title: 'DevOps 023: Tools for Issues Resolution with Troy McAlpin and Tobias Dunn-Krahn'
 date: 2020-02-25T11:00:00+0000
