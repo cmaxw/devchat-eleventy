@@ -21,7 +21,7 @@ question4: ''
 answer4: ''
 
 ---
-Carl is a developer from Nigeria currently living in London. He explains how he started out as a journalist and wound up doing web development to keep track of news stories coming out in his local area. He leveled up by attending meetups and talking to other developers. He wound up working for the Guardian and the Financial Times before moving to his current position at LimeJump.
+Carl is a developer from Zimbabwe currently living in London. He explains how he started out as a journalist and wound up doing web development to keep track of news stories coming out in his local area. He leveled up by attending meetups and talking to other developers. He wound up working for the Guardian and the Financial Times before moving to his current position at LimeJump.
 
 **Host:** Charles Max Wood
 
