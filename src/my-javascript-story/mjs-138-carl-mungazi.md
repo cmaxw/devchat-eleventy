@@ -7,7 +7,7 @@ tags:
 - Carl Mungazi
 layout: layouts/post.njk
 title: 'MJS 138: Carl Mungazi'
-date: 2020-02-25T11:00:00+0000
+date: 2020-02-25T11:00:00.000+00:00
 episode_number: '138'
 audio_url: https://media.devchat.tv/my-js-story/MJS_138_Carl_Mungazi.mp3
 duration: '35:03'
@@ -21,7 +21,7 @@ question4: ''
 answer4: ''
 
 ---
-Carl is a developer from Zimbabwe currently living in London. He explains how he started out as a journalist and wound up doing web development to keep track of news stories coming out in his local area. He leveled up by attending meetups and talking to other developers. He wound up working for the Guardian and the Financial Times before moving to his current position at LimeJump.
+Carl is a developer from Zimbabwe currently living in London. He explains how he started out as a journalist and wound up doing web development to keep track of news stories coming out in his local area. He leveled up by attending meetups and talking to other developers. He currently works for LimeJump, an energy startup which is creating a virtual power plant by connecting together different power assets.
 
 **Host:** Charles Max Wood
 
