@@ -3,6 +3,10 @@ podcast: freelancers
 tags:
 - podcast
 - freelancers
+- Brad Large
+- Brooks Forsyth
+- Charles Max Wood
+- Mike Volkin
 layout: layouts/post.njk
 title: 'TFS 356: How Creative Visualization Can Skyrocket Your Business with Mike
   Volkin'
