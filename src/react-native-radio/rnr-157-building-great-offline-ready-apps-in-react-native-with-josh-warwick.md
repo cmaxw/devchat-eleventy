@@ -29,6 +29,10 @@ This week, Josh Warwick teaches us how to build applications that work offline a
 * Josh Justice
 * Charles Max Wood
 
+### **Gues**
+
+* Josh Warwick
+
 ### **Sponsors**
 
 * [G2i](https://www.g2i.co/?utm_source=React_Native_Radio&utm_medium=Podcast)
