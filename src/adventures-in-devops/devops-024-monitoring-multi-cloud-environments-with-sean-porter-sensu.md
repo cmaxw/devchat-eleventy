@@ -9,7 +9,7 @@ layout: layouts/post.njk
 title: 'DevOps 024: Monitoring Multi-Cloud Environments with Sean Porter | Sensu'
 date: 2020-03-03T11:00:00+0000
 episode_number: '24'
-audio_url: https://media.devchat.tv/adventures-in-devops/Cloud_Environments_with_Sean_Porter_from_Sensu.mp3
+audio_url: https://media.devchat.tv/adventures-in-devops/ADO_024_Monitoring_Multi-Cloud_Environments_with_Sean_Porter_Sensu.mp3
 duration: '42:05'
 question1: ''
 answer1: ''
