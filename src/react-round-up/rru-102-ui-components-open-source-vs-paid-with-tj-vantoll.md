@@ -36,7 +36,7 @@ TJ VanToll hops on the Round Up to discuss when and where it makes sense to use 
 #### **Sponsors:**
 
 * [Springboard | Click here NOW for $500 off the course](https://www.springboard.com/workshops/software-engineering-career-track/?utm_source=devchat&utm_medium=podcast&utm_campaign=reactroundup)
-* [G2i | Enjoy the luxuries of freelancing](https://www.g2i.co/?utm_source=React_Roundup&utm_medium=Podcast&utm_campaign=DevCha)t
+* [G2i | Enjoy the luxuries of freelancing](https://www.g2i.co/?utm_source=React_Roundup&utm_medium=Podcast&utm_campaign=DevCha)
 
 ## **____________________________________________________________**
 
