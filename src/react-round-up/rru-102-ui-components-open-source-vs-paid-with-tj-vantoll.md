@@ -8,7 +8,7 @@ tags:
 - Kendo UI
 layout: layouts/post.njk
 title: 'RRU 102: UI Components-Open Source vs. Paid with TJ VanToll'
-date: 2020-03-03T11:00:00+0000
+date: 2020-03-03T11:00:00.000+00:00
 episode_number: '102'
 audio_url: https://media.devchat.tv/reactroundup/RRU_102_TJ_VanToll.mp3
 duration: '52:15'
@@ -34,6 +34,9 @@ TJ VanToll hops on the Round Up to discuss when and where it makes sense to use 
 * TJ VanToll
 
 #### **Sponsors:**
+
+* [Springboard | Click here NOW for $500 off the course](https://www.springboard.com/workshops/software-engineering-career-track/?utm_source=devchat&utm_medium=podcast&utm_campaign=reactroundup)
+* [G2i | Enjoy the luxuries of freelancing](https://www.g2i.co/?utm_source=React_Roundup&utm_medium=Podcast&utm_campaign=DevCha)t
 
 ## **____________________________________________________________**
 
