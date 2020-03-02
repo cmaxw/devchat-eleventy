@@ -23,16 +23,14 @@ answer4: ''
 ---
 Jonathan Thompson discusses with the group about developing desktop and mobile games using Unity. They cover the basics as well as challenges a developer faces when developing games.
 
-##### **Panel:**
+### **Panel:**
 
 * Shawn Clabough
 * Wai Liu
 
-##### **Guest:**
+### **Guest:**
 
 * Jonathan Thompson
-
-##### **Sponsors:**
 
 ## **____________________________________________________________**
 
@@ -40,25 +38,25 @@ Jonathan Thompson discusses with the group about developing desktop and mobile g
 
 ## **____________________________________________________________**
 
-##### **Links:**
+### **Links:**
 
 * [Ludum Dare game jam](http://ldjam.com/)
 * [Online and in-person Unity courses & training](https://unity.com/learn)
 
-##### **Picks:**
+### **Picks:**
 
-Jonathan Thompson:
+**Jonathan Thompson:**
 
 * Follow Jonathan on Twitter > [@TurboMakesGames](https://twitter.com/TurboMakesGames), [YouTube](https://www.youtube.com/TurboMakesGames)
 * [Turbo Makes Games Website](https://tmg.dev/)
 * [Games Done Quick](https://gamesdonequick.com/)
 
-Shawn Clabough:
+**Shawn Clabough:**
 
 * [The Witcher | Netflix](https://www.netflix.com/tr-en/title/80189685)
 * Follow Shawn on Twitter > [@DotNetSuperhero](https://twitter.com/DotNetSuperhero)
 
-Wai Liu:
+**Wai Liu:**
 
 * [Balsamiq. Rapid, effective and fun wireframing software](https://balsamiq.com/)
 
