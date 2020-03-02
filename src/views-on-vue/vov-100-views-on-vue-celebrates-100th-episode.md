@@ -6,7 +6,7 @@ tags:
 - 100th Episode
 layout: layouts/post.njk
 title: 'VoV 100: Views on Vue Celebrates 100th Episode'
-date: 2020-03-03T11:00:00+0000
+date: 2020-03-03T11:00:00.000+00:00
 episode_number: '100'
 audio_url: https://media.devchat.tv/viewsonvue/VoV_100_Panel.mp3
 duration: '1:02:47'
@@ -20,7 +20,7 @@ question4: ''
 answer4: ''
 
 ---
-#### **Panel:**
+### **Panel:**
 
 * Steve Edwards
 * Lindsay Wardell
@@ -29,7 +29,7 @@ answer4: ''
 * Charles Max Wood
 * Devlin Duldulao
 
-#### **Sponsors:**
+### **Sponsors:**
 
 * [Springboard | Click here NOW for $500 off the course](https://www.springboard.com/workshops/software-engineering-career-track/?utm_source=devchat&utm_medium=podcast&utm_campaign=viewsonvue)
 * [Cloudways | Use promo code "DEVCHAT" for 30% off for 3 months on all plans](https://www.cloudways.com/en/?id=546951&chan=Devchat&data1=Vue-show&data2=Podcast-3)
@@ -40,7 +40,7 @@ answer4: ''
 
 ## **____________________________________________________________**
 
-#### **Links:**
+### **Links:**
 
 * [Laracasts Journey: Vue](https://laracasts.com/skills/vue)
 * [Lex Fridman - AI Podcast](https://www.youtube.com/watch?v=EYIKy_FM9x0&list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
@@ -50,7 +50,7 @@ answer4: ''
 * [Firefox Lockwise — password manager](https://www.mozilla.org/en-US/firefox/lockwise/)
 * [Buttercup](https://buttercup.pw/)
 
-#### **Picks:**
+### **Picks:**
 
 **Austin Gil:**
 
