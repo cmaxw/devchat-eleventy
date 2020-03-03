@@ -8,7 +8,7 @@ tags:
 - Kendo UI
 layout: layouts/post.njk
 title: 'RRU 102: UI Components-Open Source vs. Paid with TJ VanToll'
-date: 2020-03-03T11:00:00+0000
+date: 2020-03-03T11:00:00.000+00:00
 episode_number: '102'
 audio_url: https://media.devchat.tv/reactroundup/RRU_102_TJ_VanToll.mp3
 duration: '52:15'
@@ -24,16 +24,19 @@ answer4: ''
 ---
 TJ VanToll hops on the Round Up to discuss when and where it makes sense to use open source  UI components versus paying for them. The tradeoffs wind up being more subtle than you think. We dive into team make-up, pros and cons, and the approaches to making the right decision on which library to pick up.
 
-#### **Panel:**
+### **Panel:**
 
 * Thomas Aylott
 * Charles Max Wood
 
-#### **Guest:**
+### **Guest:**
 
 * TJ VanToll
 
-#### **Sponsors:**
+### **Sponsors:**
+
+* [Springboard | Click here NOW for $500 off the course](https://www.springboard.com/workshops/software-engineering-career-track/?utm_source=devchat&utm_medium=podcast&utm_campaign=reactroundup)
+* [G2i | Enjoy the luxuries of freelancing](https://www.g2i.co/?utm_source=React_Roundup&utm_medium=Podcast&utm_campaign=DevCha)
 
 ## **____________________________________________________________**
 
@@ -41,11 +44,11 @@ TJ VanToll hops on the Round Up to discuss when and where it makes sense to use 
 
 ## **____________________________________________________________**
 
-#### **Links:**
+### **Links:**
 
 * [Reach UI](https://reacttraining.com/reach-ui/)
 
-#### **Picks:**
+### **Picks:**
 
 **TJ VanToll:**
 

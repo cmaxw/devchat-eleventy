@@ -7,7 +7,7 @@ tags:
 - ian norris
 layout: layouts/post.njk
 title: 'RR 451: Pair Programming with Ian Norris'
-date: 2020-03-03T11:00:00+0000
+date: 2020-03-03T11:00:00.000+00:00
 episode_number: '451'
 audio_url: https://media.devchat.tv/ruby-rogues/RR_451_Ian_Norris.mp3
 duration: '56:56'
@@ -23,16 +23,16 @@ answer4: ''
 ---
 David Kimura and John Epperson talk with Ian Norris on his experiences with Pair Programming. We discuss misconceptions, when pair programming works and when it doesn’t, remote paring and different types of pair programming.
 
-#### **Panel:**
+### **Panel:**
 
 * Dave Kimura
 * John Epperson
 
-#### **Guest:**
+### **Guest:**
 
 * Ian Norris
 
-#### **Sponsors:**
+### **Sponsors:**
 
 * [Resolve Digital](https://resolve.digital/?utm_source=rubyrogues&utm_medium=podcast&utm_campaign=rubyrogues&utm_term=sponsored-ads-ruby&utm_content=20200303-sponsor-pod-rr)
 
@@ -42,13 +42,13 @@ David Kimura and John Epperson talk with Ian Norris on his experiences with Pair
 
 ## **____________________________________________________________**
 
-#### **Links:**
+### **Links:**
 
 * [Ruby by the Bay / Ruby for Good - Making the world gooder](https://rubybythebay.org/)
 * [RubyConf 2019 - Lightning Talks - Ian Norris](https://www.youtube.com/watch?v=7TrKS8ZiTyI&feature=youtu.be&list=PLE7tQUdRKcyZDE8nFrKaqkpd-XK4huygU&t=3655)
 * [BackerKit](https://www.backerkit.com/careers)
 
-#### **Picks:**
+### **Picks:**
 
 **Dave Kimura:**
 

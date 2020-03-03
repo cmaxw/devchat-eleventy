@@ -39,7 +39,7 @@ Christian walks Charles and Younes through the 10 commandments of building Angul
 
 #### **Links:**
 
-* [angular/flex-layout]()
+* [angular/flex-layout](https://github.com/angular/flex-layout)
 * [cypress.io](https://www.cypress.io/)
 * [Jest](https://jestjs.io/)
 * [Nx](https://nx.dev/)
