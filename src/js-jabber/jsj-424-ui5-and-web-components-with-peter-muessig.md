@@ -23,12 +23,10 @@ In this episode of JavaScript Jabber the panelists and guest delve into the adva
 
 ### **Guest:**
 
-* Peter Müßig 
+* Peter Müßig
 * Follow Peter on Twitter > [@pmuessig](https://twitter.com/pmuessig?lang=en), [Github](https://github.com/petermuessig)
 
-
 ## **____________________________________________________________**
-
 
 > **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood is now available on Amazon.**[ **Get Your Copy Today!**](https://www.amazon.com/gp/product/B081MBL5C9/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=devchattv-20&linkId=9d61363241636e2546ef46abba198746&language=en_US)
 
@@ -36,38 +34,33 @@ In this episode of JavaScript Jabber the panelists and guest delve into the adva
 
 ### **Links:**
 
-
 * [OpenUI5](https://openui5.org/)
-* [Home \- SAPUI5 SDK](https://sapui5.hana.ondemand.com/)
-
+* [Home - SAPUI5 SDK](https://sapui5.hana.ondemand.com/)
 
 ### **Picks:**
 
 **AJ O’Neal:**
 
-* [V]inyl Clocks](https://amzn.to/2utID49)
+* [Vinyl Clocks](https://amzn.to/2utID49)
 * [Acrylic Stand](https://amzn.to/31J9i94)
 * [AJ's YouTube Channel (AMA)](https://www.youtube.com/user/coolaj86/videos)
-
 
 **Aimee Knight:**
 
 * [Announcing Div Ops as the Slack and Reddit communities](https://www.jonathancreamer.com/announcing-div-ops/)
 
-
 **Steve Edwards:**
 
-* [Today on Pearls Before Swine \- Comics by Stephan Pastis](https://www.gocomics.com/pearlsbeforeswine)
+* [Today on Pearls Before Swine - Comics by Stephan Pastis](https://www.gocomics.com/pearlsbeforeswine)
 
 **Dan Shappir:**
 
-* [The Wixing Street Interview \| Facts about Wixing in Germany](https://www.youtube.com/watch?v=v2L4G1_eVOk)
-* [Wix\.com werbung \| versuch nicht zu lachen](https://www.youtube.com/watch?v=WaFSYPj6m4E)
+* [The Wixing Street Interview | Facts about Wixing in Germany](https://www.youtube.com/watch?v=v2L4G1_eVOk)
+* [Wix.com werbung | versuch nicht zu lachen](https://www.youtube.com/watch?v=WaFSYPj6m4E)
 * [UI5 Web Components](https://sap.github.io/ui5-webcomponents/)
 
 **Peter Müßig:**
 
 * [JavaScript Jabber](https://devchat.tv/js-jabber/)
-
 
 Follow JavaScript Jabber on Twitter > [@JSJabber](https://twitter.com/JSJabber)
