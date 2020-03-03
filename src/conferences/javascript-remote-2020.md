@@ -1,6 +1,7 @@
 ---
 title: JavaScript Remote Conf 2020
 description: Online Conference about JavaScript by JavaScript Experts
+topic: JavaScript and Front-End Development
 keywords: JavaScript, HTML, CSS, Front-End, JS, Conference, Learning, Keeping Current
 layout: layouts/conference.njk
 start_date: 2020-05-07

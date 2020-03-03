@@ -41,9 +41,9 @@
 		</ul>
 		<div class="heading-block centered-block align-center">
 			<div class="container">
-				<h5 class="heading-alt" style="margin-bottom: 8px;"><span class="fa fa-calendar-o base-clr-txt"></span>28.nov <span class="fa fa-map-marker base-clr-txt" style="margin-left: 14px;"></span>New York, NY</h5>
-				<h1 class="extra-heading">Ventcamp</h1>
-				<h6 class="thin base-font">Massive conference about <strong>web developement</strong></h6>
+				<h5 class="heading-alt" style="margin-bottom: 8px;"><span class="fa fa-calendar-o base-clr-txt"></span>{{start_date | date}} {% if start_date !== end_date %}- {{end_date | date}} {% endif %}} <span class="fa fa-map-marker base-clr-txt" style="margin-left: 14px;"></span>New York, NY</h5>
+				<h1 class="extra-heading">{{title}}</h1>
+				<h6 class="thin base-font">Massive online conference about <strong>{{topic}}</strong></h6>
 				<div class="btns-container">
 					<a href="#" class="btn btn-md" data-modal-link="email-ticket">GET TICKETS</a>
 					<a href="#" class="btn btn-outline btn-md" data-modal-link="0">VIDEO</a>
