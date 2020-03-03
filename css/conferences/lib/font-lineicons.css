@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: "line-icons";
-  src:url("../../fonts/line-icons.eot");
-  src:url("../../fonts/line-icons.eot?#iefix") format("embedded-opentype"),
-    url("../../fonts/line-icons.woff") format("woff"),
-    url("../../fonts/line-icons.ttf") format("truetype"),
-    url("../../fonts/line-icons.svg#line-icons") format("svg");
+  src:url("/fonts/conferences/line-icons.eot");
+  src:url("/fonts/conferences/line-icons.eot?#iefix") format("embedded-opentype"),
+    url("/fonts/conferences/line-icons.woff") format("woff"),
+    url("/fonts/conferences/line-icons.ttf") format("truetype"),
+    url("/fonts/conferences/line-icons.svg#line-icons") format("svg");
   font-weight: normal;
   font-style: normal;
 }
