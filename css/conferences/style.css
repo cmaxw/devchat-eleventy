@@ -23,8 +23,8 @@
  * -------------------------- */
 @font-face {
   font-family: 'FontAwesome';
-  src: url('../fonts/fontawesome-webfont.eot?v=4.3.0');
-  src: url('../fonts/fontawesome-webfont.eot?#iefix&v=4.3.0') format('embedded-opentype'), url('../fonts/fontawesome-webfont.woff2?v=4.3.0') format('woff2'), url('../fonts/fontawesome-webfont.woff?v=4.3.0') format('woff'), url('../fonts/fontawesome-webfont.ttf?v=4.3.0') format('truetype'), url('../fonts/fontawesome-webfont.svg?v=4.3.0#fontawesomeregular') format('svg');
+  src: url('/fonts/conferences/fontawesome-webfont.eot?v=4.3.0');
+  src: url('/fonts/conferences/fontawesome-webfont.eot?#iefix&v=4.3.0') format('embedded-opentype'), url('/fonts/conferences/fontawesome-webfont.woff2?v=4.3.0') format('woff2'), url('/fonts/conferences/fontawesome-webfont.woff?v=4.3.0') format('woff'), url('/fonts/conferences/fontawesome-webfont.ttf?v=4.3.0') format('truetype'), url('/fonts/conferences/fontawesome-webfont.svg?v=4.3.0#fontawesomeregular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -2421,7 +2421,7 @@ input.header.header-color .navigation-header .buy-btn,
 div.bg-low-poly,
 footer.bg-low-poly,
 section.bg-low-poly {
-  background-image: url("../img/background/low_poly_background.jpg");
+  background-image: url("/images/conferences/background/low_poly_background.jpg");
   background-repeat: no-repeat;
   background-position: center top;
 }
@@ -3834,7 +3834,7 @@ button.btn.btn-block {
   width: 24px;
   height: 11px;
   content: "";
-  background: transparent url("../img/arrow-select-24x11.png") center no-repeat;
+  background: transparent url("/images/conferences/arrow-select-24x11.png") center no-repeat;
   border: none;
 }
 .nav.nav-tabs {
@@ -6035,7 +6035,7 @@ button[type="submit"] .loading {
   background-position: center !important;
 }
 .ytp-player-background.no-video-bg {
-  background: transparent url('../img/background/low_poly_background.jpg') top center no-repeat;
+  background: transparent url('/images/conferences/background/low_poly_background.jpg') top center no-repeat;
 }
 .ytp-player-background.no-video-bg .video-conrols {
   display: none;
@@ -6058,7 +6058,7 @@ button[type="submit"] .loading {
   display: block;
   width: 56px;
   height: 82px;
-  background: transparent url('../img/icon/yt_play_big_56x82.png') center no-repeat;
+  background: transparent url('/images/conferences/icon/yt_play_big_56x82.png') center no-repeat;
   cursor: pointer;
   z-index: 999;
 }
@@ -6118,7 +6118,7 @@ button[type="submit"] .loading {
   left: 0;
   bottom: 0;
   display: block;
-  background: transparent url('../img/icon/yt_controls_40x40.png') no-repeat;
+  background: transparent url('/images/conferences/icon/yt_controls_40x40.png') no-repeat;
 }
 .ytp-player-background .controls-container .yt-play-toggle:before {
   opacity: 1;
@@ -6926,19 +6926,19 @@ button[type="submit"] .loading {
     Theme styles
 ---------------------------------------------------------------------------- */
 .bg1 {
-  background-image: url("../img/backgrounds/bg1.jpg");
+  background-image: url("/images/conferences/backgrounds/bg1.jpg");
 }
 .bg2 {
-  background-image: url("../img/backgrounds/bg2.jpg");
+  background-image: url("/images/conferences/backgrounds/bg2.jpg");
 }
 .bg3 {
-  background-image: url("../img/backgrounds/bg3.jpg");
+  background-image: url("/images/conferences/backgrounds/bg3.jpg");
 }
 .bg4 {
-  background-image: url("../img/backgrounds/bg4.jpg");
+  background-image: url("/images/conferences/backgrounds/bg4.jpg");
 }
 .bg5 {
-  background-image: url("../img/backgrounds/bg5.jpg");
+  background-image: url("/images/conferences/backgrounds/bg5.jpg");
 }
 .gradient-overlay:before {
   background: #9001a5;
@@ -6969,7 +6969,7 @@ button[type="submit"] .loading {
 .stat-section,
 .signup-section {
   padding: 50px 0 48px;
-  background-image: url("../img/stat-bg-1919x1000.jpg");
+  background-image: url("/images/conferences/stat-bg-1919x1000.jpg");
 }
 .prices-section {
   padding: 26px 0 100px;
