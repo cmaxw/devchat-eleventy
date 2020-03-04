@@ -1,49 +1,72 @@
 <!doctype html>
 <html lang="en">
-<head>
+	<head>
 
-	<meta charset="utf-8">
-	<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
-	<title>{{title}}</title>
+		<meta charset="utf-8">
+		<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/>
+		<title>{{title}}</title>
 
-	<meta name="description" content="{{description}}">
-	<meta name="keywords" content="{{keywords}}">
-	<meta name="author" content="Devchat.tv">
+		<meta name="description" content="{{description}}">
+		<meta name="keywords" content="{{keywords}}">
+		<meta name="author" content="Devchat.tv">
 
-	<link rel="shortcut icon" href="/images/favicon.ico">
-	<link rel="apple-touch-icon" href="/images/apple-touch-icon.jpg">
-	<link rel="apple-touch-icon" sizes="72x72" href="/images/apple-touch-icon-72x72.jpg">
-	<link rel="apple-touch-icon" sizes="114x114" href="/images/apple-touch-icon-114x114.jpg">
+		<link rel="shortcut icon" href="/images/favicon.ico">
+		<link rel="apple-touch-icon" href="/images/apple-touch-icon.jpg">
+		<link rel="apple-touch-icon" sizes="72x72" href="/images/apple-touch-icon-72x72.jpg">
+		<link rel="apple-touch-icon" sizes="114x114" href="/images/apple-touch-icon-114x114.jpg">
 
-	<link rel="stylesheet" type="text/css" href="/css/conferences/custom-animations.css" />
-	<link rel="stylesheet" type="text/css" href="/css/conferences/style.css" />
+		<link rel="stylesheet" type="text/css" href="/css/conferences/custom-animations.css"/>
+		<link rel="stylesheet" type="text/css" href="/css/conferences/style.css"/>
 
-	<!--[if lt IE 9]>
+		<!--[if lt IE 9]>
 		<script src="/js/conferences/html5shiv.js"></script>
 		<script src="/js/conferences/respond.min.js"></script>
 	<![endif]-->
-</head>
+	</head>
 
-<body>
-	<div class="preloader-mask">
-		<div class="preloader"></div>
-	</div>
+	<body>
+		<div class="preloader-mask">
+			<div class="preloader"></div>
+		</div>
 
-	<section id="hero" class="hero-section bg1 bg-cover window-height light-text" style="background-image:url('{{hero_image}}');">
-		<ul class="socials-nav">
-			<li class="socials-nav-item"><a href="#"><span class="fa fa-twitter"></span></a></li>
-			<li class="socials-nav-item"><a href="#"><span class="fa fa-facebook"></span></a></li>
-			<li class="socials-nav-item"><a href="#"><span class="fa fa-github"></span></a></li>
-			<li class="socials-nav-item"><a href="#"><span class="fa fa-vimeo-square"></span></a></li>
-			<li class="socials-nav-item"><a href="#"><span class="fa fa-google-plus"></span></a></li>
-			<li class="socials-nav-item"><a href="#"><span class="fa fa-instagram"></span></a></li>
-		</ul>
-		<div class="heading-block centered-block align-center">
-			<div class="container">
-				<h5 class="heading-alt" style="margin-bottom: 8px;"><span class="fa fa-calendar-o base-clr-txt"></span>{{start_date | date}} {% if start_date !== end_date %}- {{end_date | date}} {% endif %}</h5>
+		<section id="hero" class="hero-section bg1 bg-cover window-height light-text" style="background-image:url('{{hero_image}}');">
+			<ul class="socials-nav">
+				<li class="socials-nav-item">
+					<a href="#">
+						<span class="fa fa-twitter"></span></a>
+				</li>
+				<li class="socials-nav-item">
+					<a href="#">
+						<span class="fa fa-facebook"></span></a>
+				</li>
+				<li class="socials-nav-item">
+					<a href="#">
+						<span class="fa fa-github"></span></a>
+				</li>
+				<li class="socials-nav-item">
+					<a href="#">
+						<span class="fa fa-vimeo-square"></span></a>
+				</li>
+				<li class="socials-nav-item">
+					<a href="#">
+						<span class="fa fa-google-plus"></span></a>
+				</li>
+				<li class="socials-nav-item">
+					<a href="#">
+						<span class="fa fa-instagram"></span></a>
+				</li>
+			</ul>
+			<div class="heading-block centered-block align-center">
+				<div class="container">
+					<h5 class="heading-alt" style="margin-bottom: 8px;">
+						<span class="fa fa-calendar-o base-clr-txt"></span>{{start_date | date}}
+						{% if start_date !== end_date %}- {{end_date | date}}
+					{% endif %}
+				</h5>
 				<h1 class="extra-heading">{{title}}</h1>
-				<h6 class="thin base-font">Massive online conference about <strong>{{topic}}</strong></h6>
+				<h6 class="thin base-font">Massive online conference about <strong>{{topic}}</strong>
+				</h6>
 				<div class="btns-container">
 					<a href="{{registration_url}}" class="btn btn-md">GET TICKETS</a>
 					<a href="{{cfp_url}}" class="btn btn-md">SUBMIT A TALK</a>
@@ -70,12 +93,24 @@
 				<div class="col-sm-10 col-xs-12 navigation-container">
 					<div id="navigation" class="navbar-collapse collapse">
 						<ul class="navigation-list pull-left light-text">
-							<li class="navigation-item"><a href="#speakers" class="navigation-link">Speakers</a></li>
-							<li class="navigation-item"><a href="#schedule" class="navigation-link">Schedule</a></li>
-							<li class="navigation-item"><a href="#prices" class="navigation-link">Prices</a></li>
-							<li class="navigation-item"><a href="#gallery" class="navigation-link">Gallery</a></li>
-							<li class="navigation-item"><a href="#sponsors" class="navigation-link">Sponsors</a></li>
-							<li class="navigation-item"><a href="#contacts" class="navigation-link">Contact</a></li>
+							<li class="navigation-item">
+								<a href="#speakers" class="navigation-link">Speakers</a>
+							</li>
+							<li class="navigation-item">
+								<a href="#schedule" class="navigation-link">Schedule</a>
+							</li>
+							<li class="navigation-item">
+								<a href="#prices" class="navigation-link">Prices</a>
+							</li>
+							<li class="navigation-item">
+								<a href="#gallery" class="navigation-link">Gallery</a>
+							</li>
+							<li class="navigation-item">
+								<a href="#sponsors" class="navigation-link">Sponsors</a>
+							</li>
+							<li class="navigation-item">
+								<a href="#contacts" class="navigation-link">Contact</a>
+							</li>
 						</ul>
 
 						<a href="{{registration_url}}" class="pull-right buy-btn">Buy Tickets</a>
@@ -90,438 +125,535 @@
 			<span class="icon section-icon icon-multimedia-12"></span>
 			<h3>Front-End and Center</h3>
 			<p class="text-alt">Front row seats, no travel, no stress, and <span class="highlight">no COVID-19</span>.</p>
-			<br />
-			<br />
+			<br/>
+			<br/>
 
 			<div class="tabs-wrapper tabs-horizontal">
 				<ul class="nav nav-tabs">
-					<li class="active"><a href="#horizontal_tab1" data-toggle="tab">
-						<h6 class="heading-alt"><span class="fa fa-code"></span> General info</h6>
-					</a></li>
-					<li><a href="#horizontal_tab2" data-toggle="tab">
-						<h6 class="heading-alt"><span class="fa fa-rocket"></span> Workshops</h6>
-					</a></li>
-					<li><a href="#horizontal_tab3" data-toggle="tab">
-						<h6 class="heading-alt"><span class="fa fa-external-link"></span> Sponsor info</h6>
-					</a></li>
+					<li class="active">
+						<a href="#horizontal_tab1" data-toggle="tab">
+							<h6 class="heading-alt">
+								<span class="fa fa-code"></span> General info</h6>
+						</a>
+					</li>
+					<li>
+						<a href="#horizontal_tab2" data-toggle="tab">
+							<h6 class="heading-alt">
+								<span class="fa fa-rocket"></span> Workshops</h6>
+						</a>
+					</li>
+					<li>
+						<a href="#horizontal_tab3" data-toggle="tab">
+							<h6 class="heading-alt">
+								<span class="fa fa-external-link"></span> Sponsor info</h6>
+						</a>
+					</li>
 				</ul>
 
 				<div class="tab-content">
 					<div id="horizontal_tab1" class="tab-pane fade active in">
 						<div class="col-sm-5 img-column">
-							<img src="/images/conferences/remote_work-small.jpg" alt="" class="img-responsive" />
+							<img src="/images/conferences/remote_work-small.jpg" alt="" class="img-responsive"/>
 						</div>
 						<div class="col-sm-7 align-left">
 							<h6>About event</h6>
 							<p>JS Remote Conf is the premier online event for JavaScript developers. Originally, it was conceived as the conference where people who couldn't travel or afford a regular conference ticket could participate in a conference.</p>
 							<p>Now, it's an easy and friendly way to stay current and meet conference attendees. It includes 2 days of conference sessions by JavaScript experts teaching about topics that will hel you keep up on JavaScript.<p>
-							<p>Ticket includes:</p>
-							<ul>
-								<li>Access to all sessions live.</li>
-								<li>Discord server.</li>
-								<li>Session recordings after the conference.</li>
-								<li>Slippers and Pajama's welcome.</li>
+									<p>Ticket includes:</p>
+									<ul>
+										<li>Access to all sessions live.</li>
+										<li>Discord server.</li>
+										<li>Session recordings after the conference.</li>
+										<li>Slippers and Pajama's welcome.</li>
+									</ul>
+								</div>
+							</div>
+
+							<div id="horizontal_tab2" class="tab-pane fade">
+								<div class="col-sm-7 align-right">
+									<h6>Workshops</h6>
+									<p>Coming Soon.</p>
+								</div>
+
+								<div class="col-sm-5 img-column">
+									<img src="/images/conferences/workshops.jpg" alt="" class="img-responsive"/>
+								</div>
+							</div>
+
+							<div id="horizontal_tab3" class="tab-pane fade">
+								<div class="col-sm-5 img-column">
+									<img src="/images/conferences/heart_coffee-small.jpg" alt="" class="img-responsive"/>
+								</div>
+								<div class="col-sm-7 align-left">
+									<h6>Sponsors apply</h6>
+									<p>Introduce yourself to our audience. Let us help you get them to know and love you.</p>
+									<p>
+										<a href="{{sponsorship_prospectus_url}}" class="btn btn-md">WANT TO BE A SPONSOR?</a>
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<section id="counters" class="section align-center overlay bg-cover bg5 light-text" style="background-image:url('{{hero_image}}');">
+				<div class="container">
+
+					<div class="row counters-wrapper">
+						<div class="col-sm-3">
+							<div class="counter-block counter-block-no-border">
+								<div class="counter-box">
+									<div class="counter-content">
+										<span class="count" data-from="0" data-to="22">0</span>
+
+										<p class="title">speakers</p>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-3">
+							<div class="counter-block counter-block-no-border">
+								<div class="counter-box">
+									<div class="counter-content">
+										<span class="count" data-from="0" data-to="2">0</span>
+
+										<p class="title">days</p>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-3">
+							<div class="counter-block counter-block-no-border">
+								<div class="counter-box">
+									<div class="counter-content">
+										<span class="count" data-from="0" data-to="3">0</span>
+
+										<p class="title">workshops</p>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-3">
+							<div class="counter-block counter-block-no-border">
+								<div class="counter-box">
+									<div class="counter-content">
+										<span class="count" data-from="0" data-to="22">0</span>
+
+										<p class="title">talks</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+
+				</div>
+			</section>
+
+			<section id="speakers" class="section align-center">
+				<div class="container">
+					<span class="icon section-icon icon-faces-users-04"></span>
+					<h3>Speakers</h3>
+					<p class="text-alt">Meet our <span class="highlight">experts</span></p>
+					<br/>
+					<br/>
+
+					<div class="col-sm-4">
+						<div class="speaker">
+							<div class="photo-wrapper rounded"><img src="/images/conferences/speakers/speaker1.jpg" alt="John Doe" class="img-responsive"></div>
+							<h3 class="name">Aimee Knight</h3>
+							<p class="text-alt">
+								<small>JavaScript Jabber Panelist</small>
+							</p>
+							<p class="about"></p>
+							<ul class="speaker-socials">
+								<li>
+									<a href="#">
+										<span class="fa fa-facebook"></span></a>
+								</li>
+								<li>
+									<a href="#">
+										<span class="fa fa-twitter"></span></a>
+								</li>
+								<li>
+									<a href="#">
+										<span class="fa fa-google-plus"></span></a>
+								</li>
 							</ul>
 						</div>
 					</div>
 
-					<div id="horizontal_tab2" class="tab-pane fade">
-						<div class="col-sm-7 align-right">
-							<h6>Workshops</h6>
-							<p>Coming Soon.</p>
+					<div class="col-sm-4">
+						<div class="speaker">
+							<div class="photo-wrapper rounded"><img src="/images/conferences/speakers/speaker2.jpg" alt="John Doe" class="img-responsive"></div>
+							<h3 class="name">Dan Shappir</h3>
+							<p class="text-alt">
+								<small>JavaScript Jabber Panelist</small>
+							</p>
+							<p class="about"></p>
+							<ul class="speaker-socials">
+								<li>
+									<a href="#">
+										<span class="fa fa-facebook"></span></a>
+								</li>
+								<li>
+									<a href="#">
+										<span class="fa fa-twitter"></span></a>
+								</li>
+								<li>
+									<a href="#">
+										<span class="fa fa-google-plus"></span></a>
+								</li>
+							</ul>
 						</div>
+					</div>
 
-						<div class="col-sm-5 img-column">
-							<img src="/images/conferences/workshops.jpg" alt="" class="img-responsive" />
+					<div class="col-sm-4">
+						<div class="speaker">
+							<div class="photo-wrapper rounded"><img src="/images/conferences/speakers/speaker3.jpg" alt="John Doe" class="img-responsive"></div>
+							<h3 class="name">Steve Edwards</h3>
+							<p class="text-alt">
+								<small>JavaScript Jabber and Views on Vue Panelist</small>
+							</p>
+							<p class="about"></p>
+							<ul class="speaker-socials">
+								<li>
+									<a href="#">
+										<span class="fa fa-facebook"></span></a>
+								</li>
+								<li>
+									<a href="#">
+										<span class="fa fa-twitter"></span></a>
+								</li>
+								<li>
+									<a href="#">
+										<span class="fa fa-google-plus"></span></a>
+								</li>
+							</ul>
 						</div>
 					</div>
 
-					<div id="horizontal_tab3" class="tab-pane fade">
-						<div class="col-sm-5 img-column">
-							<img src="/images/conferences/heart_coffee-small.jpg" alt="" class="img-responsive" />
-						</div>
-						<div class="col-sm-7 align-left">
-							<h6>Sponsors apply</h6>
-							<p>Introduce yourself to our audience. Let us help you get them to know and love you.</p>
-							<p><a href="{{sponsorship_prospectus_url}}" class="btn btn-md">WANT TO BE A SPONSOR?</a></p>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-
-	<section id="counters" class="section align-center overlay bg-cover bg5 light-text" style="background-image:url('{{hero_image}}');">
-		<div class="container">
-
-			<div class="row counters-wrapper">
-				<div class="col-sm-3">
-					<div class="counter-block counter-block-no-border">
-						<div class="counter-box">
-							<div class="counter-content">
-								<span class="count" data-from="0" data-to="22">0</span>
-
-								<p class="title">speakers</p>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-sm-3">
-					<div class="counter-block counter-block-no-border">
-						<div class="counter-box">
-							<div class="counter-content">
-								<span class="count" data-from="0" data-to="2">0</span>
-
-								<p class="title">days</p>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-sm-3">
-					<div class="counter-block counter-block-no-border">
-						<div class="counter-box">
-							<div class="counter-content">
-								<span class="count" data-from="0" data-to="3">0</span>
-
-								<p class="title">workshops</p>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-sm-3">
-					<div class="counter-block counter-block-no-border">
-						<div class="counter-box">
-							<div class="counter-content">
-								<span class="count" data-from="0" data-to="22">0</span>
-
-								<p class="title">talks</p>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-
-		</div>
-	</section>
-
-	<section id="speakers" class="section align-center">
-		<div class="container">
-			<span class="icon section-icon icon-faces-users-04"></span>
-			<h3>Speakers</h3>
-			<p class="text-alt">Meet our <span class="highlight">experts</span></p>
-			<br />
-			<br />
-
-			<div class="col-sm-4">
-				<div class="speaker">
-					<div class="photo-wrapper rounded"><img src="/images/conferences/speakers/speaker1.jpg" alt="John Doe" class="img-responsive"></div>
-					<h3 class="name">Aimee Knight</h3>
-					<p class="text-alt"><small>JavaScript Jabber Panelist</small></p>
-					<p class="about"></p>
-					<ul class="speaker-socials">
-						<li><a href="#"><span class="fa fa-facebook"></span></a></li>
-						<li><a href="#"><span class="fa fa-twitter"></span></a></li>
-						<li><a href="#"><span class="fa fa-google-plus"></span></a></li>
-					</ul>
-				</div>
-			</div>
-
-			<div class="col-sm-4">
-				<div class="speaker">
-					<div class="photo-wrapper rounded"><img src="/images/conferences/speakers/speaker2.jpg" alt="John Doe" class="img-responsive"></div>
-					<h3 class="name">Dan Shappir</h3>
-					<p class="text-alt"><small>JavaScript Jabber Panelist</small></p>
-					<p class="about"></p>
-					<ul class="speaker-socials">
-						<li><a href="#"><span class="fa fa-facebook"></span></a></li>
-						<li><a href="#"><span class="fa fa-twitter"></span></a></li>
-						<li><a href="#"><span class="fa fa-google-plus"></span></a></li>
-					</ul>
-				</div>
-			</div>
-
-			<div class="col-sm-4">
-				<div class="speaker">
-					<div class="photo-wrapper rounded"><img src="/images/conferences/speakers/speaker3.jpg" alt="John Doe" class="img-responsive"></div>
-					<h3 class="name">Steve Edwards</h3>
-					<p class="text-alt"><small>JavaScript Jabber and Views on Vue Panelist</small></p>
-					<p class="about"></p>
-					<ul class="speaker-socials">
-						<li><a href="#"><span class="fa fa-facebook"></span></a></li>
-						<li><a href="#"><span class="fa fa-twitter"></span></a></li>
-						<li><a href="#"><span class="fa fa-google-plus"></span></a></li>
-					</ul>
-				</div>
-			</div>
-
-			<div class="col-sm-12 align-center">
-				<a href="{{cfp_url}}" target="_blank" class="btn btn-outline-clr btn-md">SUBMIT A TALK</a><br>
+					<div class="col-sm-12 align-center">
+						<a href="{{cfp_url}}" target="_blank" class="btn btn-outline-clr btn-md">SUBMIT A TALK</a><br>
 				CFP deadline is March 31, 2020.
 			</div>
 
-		</div>
-	</section>
+				</div>
+			</section>
 
-	<section id="schedule" class="section schedule-section align-center">
-		<div class="container">
-			<span class="icon section-icon icon-office-21"></span>
-			<h3>Schedule</h3>
-			<p class="text-alt">Vast number of different speeches<br/> and <span class="highlight">activities</span></p>
-			<br />
-			<br />
+			<section id="schedule" class="section schedule-section align-center">
+				<div class="container">
+					<span class="icon section-icon icon-office-21"></span>
+					<h3>Schedule</h3>
+					<p class="text-alt">Vast number of different speeches<br/> and <span class="highlight">activities</span></p>
+					<br/>
+					<br/>
 
-			<!-- Schedule start -->
-			<div class="schedule">
+					<!-- Schedule start -->
+					<div class="schedule">
 
-				<!-- Navigation by day start -->
-				<ul class="nav nav-schedule">
-					<li class="active"><a href="#day1" data-toggle="tab"><h5 class="highlight">Day 1</h5><p class="text-alt">05/14/2020</p></a></li>
-					<li><a href="#day2" data-toggle="tab"><h5 class="highlight">Day 2</h5><p class="text-alt">05/15/2020</p></a></li>
-				</ul>
-				<!-- Navigation by day end -->
-
-				<!-- First level content start -->
-				<div class="tab-content">
-
-					<!-- Day 1 content start -->
-					<div id="day1" class="tab-pane fade active in">
-
-						<!-- Navigation by auditorium start -->
+						<!-- Navigation by day start -->
 						<ul class="nav nav-schedule">
-							<li class="active"><a href="#day1_auditorium1" data-toggle="tab">Zoom Room</a></li>
+							<li class="active">
+								<a href="#day1" data-toggle="tab">
+									<h5 class="highlight">Day 1</h5>
+									<p class="text-alt">05/14/2020</p>
+								</a>
+							</li>
+							<li>
+								<a href="#day2" data-toggle="tab">
+									<h5 class="highlight">Day 2</h5>
+									<p class="text-alt">05/15/2020</p>
+								</a>
+							</li>
 						</ul>
-						<!-- Navigation by auditorium start -->
+						<!-- Navigation by day end -->
 
-						<!-- Second level content start -->
-						<div class="tab-content tab-content-schedule">
+						<!-- First level content start -->
+						<div class="tab-content">
 
-							<!-- Auditorium 1 content start -->
-							<div id="day1_auditorium1" class="tab-pane fade active in">
+							<!-- Day 1 content start -->
+							<div id="day1" class="tab-pane fade active in">
 
-								<!-- Accordion start -->
-								<div class="panel-group" id="day1_auditorium1_timeline">
+								<!-- Navigation by auditorium start -->
+								<ul class="nav nav-schedule">
+									<li class="active">
+										<a href="#day1_auditorium1" data-toggle="tab">Zoom Room</a>
+									</li>
+								</ul>
+								<!-- Navigation by auditorium start -->
+
+								<!-- Second level content start -->
+								<div class="tab-content tab-content-schedule">
+
+									<!-- Auditorium 1 content start -->
+									<div id="day1_auditorium1" class="tab-pane fade active in">
+
+										<!-- Accordion start -->
+										<div class="panel-group" id="day1_auditorium1_timeline">
 
 									Coming Soon
 								</div>
-								<!-- Accordion end -->
+										<!-- Accordion end -->
+
+									</div>
+									<!-- Auditorium 1 content end -->
+
+								</div>
+								<!-- Second level content end -->
 
 							</div>
-							<!-- Auditorium 1 content end -->
+							<!-- Day 1 content end -->
 
-						</div>
-						<!-- Second level content end -->
+							<!-- Day 2 content start -->
+							<div id="day2" class="tab-pane fade in">
 
-					</div>
-					<!-- Day 1 content end -->
+								<!-- Navigation by auditorium start -->
+								<ul class="nav nav-schedule">
+									<li class="active">
+										<a href="#day2_auditorium1" data-toggle="tab">Zoom Room</a>
+									</li>
+								</ul>
+								<!-- Navigation by auditorium end -->
 
-					<!-- Day 2 content start -->
-					<div id="day2" class="tab-pane fade in">
+								<!-- Second level content start -->
+								<div class="tab-content tab-content-schedule">
 
-						<!-- Navigation by auditorium start -->
-						<ul class="nav nav-schedule">
-							<li class="active"><a href="#day2_auditorium1" data-toggle="tab">Zoom Room</a></li>
-						</ul>
-						<!-- Navigation by auditorium end -->
+									<!-- Auditorium 1 content start -->
+									<div id="day2_auditorium1" class="tab-pane fade active in">
 
-						<!-- Second level content start -->
-						<div class="tab-content tab-content-schedule">
-
-							<!-- Auditorium 1 content start -->
-							<div id="day2_auditorium1" class="tab-pane fade active in">
-
-								<!-- Accordion start -->
-								<div class="panel-group" id="day2_auditorium1_timeline">
+										<!-- Accordion start -->
+										<div class="panel-group" id="day2_auditorium1_timeline">
 									Coming Soon.
 								</div>
-								<!-- Accordion end -->
+										<!-- Accordion end -->
+
+									</div>
+									<!-- Auditorium 1 content end -->
+
+								</div>
+								<!-- Second level content end -->
 
 							</div>
-							<!-- Auditorium 1 content end -->
+							<!-- Day 2 content end -->
 
 						</div>
-						<!-- Second level content end -->
+						<!-- First level content end -->
 
 					</div>
-					<!-- Day 2 content end -->
+					<!-- Schedule end -->
+
+					<div class="col-sm-12 align-center">
+						<a href="elements/schedule.html" target="_blank" class="btn btn-outline-clr btn-md">SCHEDULE STYLES</a>
+					</div>
 
 				</div>
-				<!-- First level content end -->
 
-			</div>
-			<!-- Schedule end -->
+			</section>
 
-		<div class="col-sm-12 align-center">
-			<a href="elements/schedule.html" target="_blank" class="btn btn-outline-clr btn-md">SCHEDULE STYLES</a>
-		</div>
+			<section id="sign_up" class="section bg-cover overlay bg4 light-text align-center">
+				<div class="container">
+					<h2>
+						<span class="highlight">Newsletter</span> Sign Up</h2>
+					<small>No Spam - Only latest news, price and activity updates</small>
+					<div class="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2">
+						<form method="POST" action="https://devchat.activehosted.com/proc.php" id="_form_49_" class="_form _form_49 _inline-form  _dark" novalidate>
+							<input type="hidden" name="u" value="49"/>
+							<input type="hidden" name="f" value="49"/>
+							<input type="hidden" name="s"/>
+							<input type="hidden" name="c" value="0"/>
+							<input type="hidden" name="m" value="0"/>
+							<input type="hidden" name="act" value="sub"/>
+							<input type="hidden" name="v" value="2"/>
+							<fieldset class="col-sm-8">
+								<input id="NewsletterEmail" name="email" type="email" placeholder="email@email.com">
+							</fieldset>
+							<fieldset class="col-sm-4">
+								<input type="submit" value="submit" class="btn btn-sm btn-outline-clr">
+							</fieldset>
+						</form>
+					</div>
+				</div>
+			</section>
 
-		</div>
+			<section id="feedback" class="section align-center" style="padding-top: 25px;">
+				<div class="container">
+					<h5 class="heading-alt">TESTIMONIALS</h5>
+					<p class="text-alt" style="margin-bottom: 80px;">what people <span class="highlight">say</span></p>
 
-	</section>
+					<div class="row">
+						{% for testimonial in my_testimonials %}
+							<div class="col-sm-4">
+								<div class="testimonial">
+									<article class="text-box">{{testimonials[testimonial].testimonial}}
+										<article>
+											<div class="author-block">
+												<div class="photo-container" style="background-image: url('{{testimonials[testimonial].image}}')"></div>
 
-	<section id="sign_up" class="section bg-cover overlay bg4 light-text align-center">
-		<div class="container">
-			<h2><span class="highlight">Newsletter</span> Sign Up</h2>
-			<small>No Spam - Only latest news, price and activity updates</small>
-			<div class="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2">
-				<form id="subscribe_main" action="" method="post" enctype="multipart/form-data" class="form row newsletter-form mailchimp-form">
-					<fieldset class="col-sm-8">
-						<input id="NewsletterEmail" name="NewsletterEmail" type="email" placeholder="email@email.com">
-					</fieldset>
-					<fieldset class="col-sm-4">
-						<input type="submit" value="submit" class="btn btn-sm btn-outline-clr">
-					</fieldset>
-					<div class="response"></div>
-				</form>
-			</div>
-		</div>
-	</section>
-
-	<section id="feedback" class="section align-center" style="padding-top: 25px;">
-		<div class="container">
-			<h5 class="heading-alt">TESTIMONIALS</h5>
-			<p class="text-alt" style="margin-bottom: 80px;">what people <span class="highlight">say</span></p>
-
-			<div class="row">
-				{% for testimonial in my_testimonials %}
-					<div class="col-sm-4">
-						<div class="testimonial">
-							<article class="text-box">{{testimonials[testimonial].testimonial}}<article>
-							<div class="author-block">
-								<div class="photo-container" style="background-image: url('{{testimonials[testimonial].image}}')"></div>
-
-								<strong class="name">{{testimonials[testimonial].author}}</strong>
+												<strong class="name">{{testimonials[testimonial].author}}</strong>
+											</div>
+										</div>
+									</div>
+								{% endfor %}
 							</div>
 						</div>
+					</section>
+
+					<section id="register" class="section overlay overlay-clr bg-cover bg4 light-text align-center" style="background-image:url('{{hero_image}}');>
+		<div class="container">
+						<h2>Register for JavaScript Remote Conf now!</h2>
+						<p>Don't miss the best online conference in the industry.</p>
+						<br/>
+						<br/>
+
+						<a href="{{registration_url}}" class="btn btn-lg btn-outline">Register</a>
 					</div>
-				{% endfor %}
-			</div>
-		</div>
-	</section>
+				</section>
 
+				<section class="footer">
+					<div class="container">
 
-	<section id="register" class="section overlay overlay-clr bg-cover bg4 light-text align-center" style="background-image:url('{{hero_image}}');>
-		<div class="container">
-			<h2>Register for JavaScript Remote Conf now!</h2>
-			<p>Don't miss the best online conference in the industry.</p>
-			<br />
-			<br />
+						<div class="col-md-4">
+							<div class="widget about-widget">
+								<h6 class="widget-head">About <span class="highlight">Ventcamp</span></h6>
+								<p class="text-alt">
+									<small>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type.</small>
+								</p>
 
-			<a href="{{registration_url}}" class="btn btn-lg btn-outline">Register</a>
-		</div>
-	</section>
+								<img src="/images/conferences/autograph-143x105.png" alt="autograph">
+							</div>
+						</div>
 
+						<div class="col-md-4 col-lg-3 col-lg-offset-1">
+							<div class="widget twitter-widget">
+								<h6 class="widget-head">
+									<span class="fa fa-twitter"></span> Twitter Feed</h6>
 
-	<section class="footer">
-		<div class="container">
+								<ul class="tweets-list">
+									<li class="tweet">
+										<p class="text-alt tweet-text">Grabehan <a href="#">#NowPlaying</a> Future People by Alabama Shakes <a href="http://spoti.fi/1CTPWcW">http://spoti.fi/1CTPWcW</a>
+										</p>
+										<small class="tweet-date">7 sep 2015</small>
+									</li>
 
-			<div class="col-md-4">
-				<div class="widget about-widget">
-					<h6 class="widget-head">About <span class="highlight">Ventcamp</span></h6>
-					<p class="text-alt"><small>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type.</small></p>
+									<li class="tweet">
+										<p class="text-alt tweet-text">Loving <a href="#">@TryGhost</a> so far. Ghost theming here I come!</p>
+										<small class="tweet-date">8 sep 2015</small>
+									</li>
 
-					<img src="/images/conferences/autograph-143x105.png" alt="autograph">
+									<li class="tweet">
+										<p class="text-alt tweet-text">We didn't set out to be superheroes. But sometimes, life doesn't go the way you planned. <a href="#">#TI5</a>
+											<a href="#">#BleedBlue</a>
+										</p>
+										<small class="tweet-date">9 sep 2015</small>
+									</li>
+								</ul>
+							</div>
+						</div>
+
+						<div class="col-md-4 col-lg-3 col-lg-offset-1">
+							<div class="widget instagram-widget">
+								<h6 class="widget-head">
+									<span class="fa fa-instagram"></span> Photo feed</h6>
+
+								<ul class="instagram-list">
+									<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
+									<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
+									<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
+									<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
+									<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
+									<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
+									<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
+									<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
+									<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
+								</ul>
+							</div>
+						</div>
+
+					</div>
+
+					<div class="footer-base">
+						<div class="container">
+
+							<div class="col-md-6">
+								<ul class="footer-nav">
+									<li class="footer-nav-item">
+										<a href="#">Contact</a>
+									</li>
+									<li class="footer-nav-item">
+										<a href="#">Privacy policy</a>
+									</li>
+									<li class="footer-nav-item">
+										<a href="#">Press</a>
+									</li>
+								</ul>
+							</div>
+
+							<div class="col-md-6 align-right">
+								<ul class="socials-nav align-right">
+									<li class="socials-nav-item">
+										<a href="#">
+											<span class="fa fa-twitter"></span></a>
+									</li>
+									<li class="socials-nav-item">
+										<a href="#">
+											<span class="fa fa-facebook"></span></a>
+									</li>
+									<li class="socials-nav-item">
+										<a href="#">
+											<span class="fa fa-github"></span></a>
+									</li>
+									<li class="socials-nav-item">
+										<a href="#">
+											<span class="fa fa-vimeo-square"></span></a>
+									</li>
+									<li class="socials-nav-item">
+										<a href="#">
+											<span class="fa fa-google-plus"></span></a>
+									</li>
+									<li class="socials-nav-item">
+										<a href="#">
+											<span class="fa fa-instagram"></span></a>
+									</li>
+								</ul>
+
+								<p class="text-alt">
+									<small>All Rights Reserved © 2020</small>
+								</p>
+							</div>
+
+						</div>
+					</div>
+				</section>
+
+				<div class="modal-window" data-modal="0" style="background-color: rgba(2, 2, 2, 0.85);">
+					<div class="modal-box iframe-box iframe-video">
+						<span class="close-btn icon icon-office-52"></span>
+
+						<iframe src="https://www.youtube.com/embed/goH-Pv1w6xo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+					</div>
 				</div>
-			</div>
 
-			<div class="col-md-4 col-lg-3 col-lg-offset-1">
-				<div class="widget twitter-widget">
-					<h6 class="widget-head"><span class="fa fa-twitter"></span> Twitter Feed</h6>
-
-					<ul class="tweets-list">
-						<li class="tweet">
-							<p class="text-alt tweet-text">Grabehan <a href="#">#NowPlaying</a> Future People by Alabama Shakes <a href="http://spoti.fi/1CTPWcW">http://spoti.fi/1CTPWcW</a></p>
-							<small class="tweet-date">7 sep 2015</small>
-						</li>
-
-						<li class="tweet">
-							<p class="text-alt tweet-text">Loving <a href="#">@TryGhost</a> so far. Ghost theming here I come!</p>
-							<small class="tweet-date">8 sep 2015</small>
-						</li>
-
-						<li class="tweet">
-							<p class="text-alt tweet-text">We didn't set out to be superheroes. But sometimes, life doesn't go the way you planned. <a href="#">#TI5</a> <a href="#">#BleedBlue</a></p>
-							<small class="tweet-date">9 sep 2015</small>
-						</li>
-					</ul>
-				</div>
-			</div>
-
-			<div class="col-md-4 col-lg-3 col-lg-offset-1">
-				<div class="widget instagram-widget">
-					<h6 class="widget-head"><span class="fa fa-instagram"></span> Photo feed</h6>
-
-					<ul class="instagram-list">
-						<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo" /></li>
-						<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo" /></li>
-						<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo" /></li>
-						<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo" /></li>
-						<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo" /></li>
-						<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo" /></li>
-						<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo" /></li>
-						<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo" /></li>
-						<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo" /></li>
-					</ul>
-				</div>
-			</div>
-
-		</div>
-
-		<div class="footer-base">
-			<div class="container">
-
-				<div class="col-md-6">
-					<ul class="footer-nav">
-						<li class="footer-nav-item"><a href="#">Contact</a></li>
-						<li class="footer-nav-item"><a href="#">Privacy policy</a></li>
-						<li class="footer-nav-item"><a href="#">Press</a></li>
-					</ul>
-				</div>
-
-				<div class="col-md-6 align-right">
-					<ul class="socials-nav align-right">
-						<li class="socials-nav-item"><a href="#"><span class="fa fa-twitter"></span></a></li>
-						<li class="socials-nav-item"><a href="#"><span class="fa fa-facebook"></span></a></li>
-						<li class="socials-nav-item"><a href="#"><span class="fa fa-github"></span></a></li>
-						<li class="socials-nav-item"><a href="#"><span class="fa fa-vimeo-square"></span></a></li>
-						<li class="socials-nav-item"><a href="#"><span class="fa fa-google-plus"></span></a></li>
-						<li class="socials-nav-item"><a href="#"><span class="fa fa-instagram"></span></a></li>
-					</ul>
-
-					<p class="text-alt"><small>All Rights Reserved © 2020</small></p>
-				</div>
-
-			</div>
-		</div>
-	</section>
-
-	<div class="modal-window" data-modal="0" style="background-color: rgba(2, 2, 2, 0.85);">
-		<div class="modal-box iframe-box iframe-video">
-			<span class="close-btn icon icon-office-52"></span>
-
-			<iframe src="https://www.youtube.com/embed/goH-Pv1w6xo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-		</div>
-	</div>
-
-	<!--[if lt IE 9]>
+				<!--[if lt IE 9]>
 		<script type="text/javascript" src="/js/conferences/jquery-1.11.3.min.js?ver=1"></script>
 	<![endif]-->
-	<!--[if (gte IE 9) | (!IE)]><!-->
-		<script type="text/javascript" src="/js/conferences/jquery-2.1.4.min.js?ver=1"></script>
-	<!--<![endif]-->
+				<!--[if (gte IE 9) | (!IE)]><!-->
+				<script type="text/javascript" src="/js/conferences/jquery-2.1.4.min.js?ver=1"></script>
+				<!--<![endif]-->
 
-	<script src="https://maps.googleapis.com/maps/api/js?v=3&libraries=places"></script>
-	<script type="text/javascript" src="/js/conferences/bootstrap.min.js"></script>
-	<script type="text/javascript" src="/js/conferences/jquery.validate.min.js"></script>
-	<script type="text/javascript" src="/js/conferences/toastr.min.js"></script>
-	<script type="text/javascript" src="/js/conferences/jquery.waypoints.min.js"></script>
-	<script type="text/javascript" src="/js/conferences/jquery.appear.js"></script>
-	<script type="text/javascript" src="/js/conferences/jquery.plugin.js"></script>
-	<script type="text/javascript" src="/js/conferences/jquery.countTo.js"></script>
-	<script type="text/javascript" src="/js/conferences/masonry.pkgd.min.js"></script>
-	<script type="text/javascript" src="/js/conferences/modal-box.js"></script>
-	<script type="text/javascript" src="/js/conferences/ventcamp.js"></script>
-</body>
-</html>
+				<script src="https://maps.googleapis.com/maps/api/js?v=3&libraries=places"></script>
+				<script type="text/javascript" src="/js/conferences/bootstrap.min.js"></script>
+				<script type="text/javascript" src="/js/conferences/jquery.validate.min.js"></script>
+				<script type="text/javascript" src="/js/conferences/toastr.min.js"></script>
+				<script type="text/javascript" src="/js/conferences/jquery.waypoints.min.js"></script>
+				<script type="text/javascript" src="/js/conferences/jquery.appear.js"></script>
+				<script type="text/javascript" src="/js/conferences/jquery.plugin.js"></script>
+				<script type="text/javascript" src="/js/conferences/jquery.countTo.js"></script>
+				<script type="text/javascript" src="/js/conferences/masonry.pkgd.min.js"></script>
+				<script type="text/javascript" src="/js/conferences/modal-box.js"></script>
+				<script type="text/javascript" src="/js/conferences/ventcamp.js"></script>
+			</body>
+		</html>
