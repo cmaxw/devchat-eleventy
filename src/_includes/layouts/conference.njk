@@ -465,15 +465,18 @@
 							<input type="hidden" name="act" value="sub"/>
 							<input type="hidden" name="v" value="2"/>
 							<fieldset class="col-sm-4">
-								<input id="NewsletterName" name="name" type="text" placeholder="Your Name">
+								<input name="name" type="text" placeholder="Your Name">
 							</fieldset>
 							<fieldset class="col-sm-4">
-								<input id="NewsletterEmail" name="email" type="text" placeholder="Your Email">
+								<input name="email" type="text" placeholder="Your Email">
 							</fieldset>
 							<fieldset class="col-sm-4">
 								<input type="submit" value="submit" class="btn btn-sm btn-outline-clr">
 							</fieldset>
 						</form>
+					</div>
+					<div class="_form-thank-you" style="display:none;">
+						<h4>You are friggin' awesome!</h4>
 					</div>
 				</div>
 			</section>
@@ -501,158 +504,181 @@
 						</div>
 					</section>
 
-					<section id="register" class="section overlay overlay-clr bg-cover bg4 light-text align-center" style="background-image:url('{{hero_image}}');>
-		<div class="container">
-						<h2>Register for JavaScript Remote Conf now!</h2>
-						<p>Don't miss the best online conference in the industry.</p>
-						<br/>
-						<br/>
+					<section id="register" class="section overlay overlay-clr bg-cover bg4 light-text align-center" style="background-image:url('{{hero_image}}');">
+						<div class="container">
+							<h2>Register for JavaScript Remote Conf now!</h2>
+							<p>Don't miss the best online conference in the industry.</p>
+							<br/>
+							<br/>
 
-						<a href="{{registration_url}}" class="btn btn-lg btn-outline">Register</a>
-					</div>
-				</section>
-
-				<section class="footer">
-					<div class="container">
-
-						<div class="col-md-4">
-							<div class="widget about-widget">
-								<h6 class="widget-head">About <span class="highlight">Ventcamp</span></h6>
-								<p class="text-alt">
-									<small>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type.</small>
-								</p>
-
-								<img src="/images/conferences/autograph-143x105.png" alt="autograph">
-							</div>
+							<a href="{{registration_url}}" class="btn btn-lg btn-outline">Register</a>
 						</div>
+					</section>
 
-						<div class="col-md-4 col-lg-3 col-lg-offset-1">
-							<div class="widget twitter-widget">
-								<h6 class="widget-head">
-									<span class="fa fa-twitter"></span> Twitter Feed</h6>
-
-								<ul class="tweets-list">
-									<li class="tweet">
-										<p class="text-alt tweet-text">Grabehan <a href="#">#NowPlaying</a> Future People by Alabama Shakes <a href="http://spoti.fi/1CTPWcW">http://spoti.fi/1CTPWcW</a>
-										</p>
-										<small class="tweet-date">7 sep 2015</small>
-									</li>
-
-									<li class="tweet">
-										<p class="text-alt tweet-text">Loving <a href="#">@TryGhost</a> so far. Ghost theming here I come!</p>
-										<small class="tweet-date">8 sep 2015</small>
-									</li>
-
-									<li class="tweet">
-										<p class="text-alt tweet-text">We didn't set out to be superheroes. But sometimes, life doesn't go the way you planned. <a href="#">#TI5</a>
-											<a href="#">#BleedBlue</a>
-										</p>
-										<small class="tweet-date">9 sep 2015</small>
-									</li>
-								</ul>
-							</div>
-						</div>
-
-						<div class="col-md-4 col-lg-3 col-lg-offset-1">
-							<div class="widget instagram-widget">
-								<h6 class="widget-head">
-									<span class="fa fa-instagram"></span> Photo feed</h6>
-
-								<ul class="instagram-list">
-									<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
-									<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
-									<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
-									<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
-									<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
-									<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
-									<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
-									<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
-									<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
-								</ul>
-							</div>
-						</div>
-
-					</div>
-
-					<div class="footer-base">
+					<section class="footer">
 						<div class="container">
 
-							<div class="col-md-6">
-								<ul class="footer-nav">
-									<li class="footer-nav-item">
-										<a href="#">Contact</a>
-									</li>
-									<li class="footer-nav-item">
-										<a href="#">Privacy policy</a>
-									</li>
-									<li class="footer-nav-item">
-										<a href="#">Press</a>
-									</li>
-								</ul>
+							<div class="col-md-4">
+								<div class="widget about-widget">
+									<h6 class="widget-head">About <span class="highlight">Ventcamp</span></h6>
+									<p class="text-alt">
+										<small>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type.</small>
+									</p>
+
+									<img src="/images/conferences/autograph-143x105.png" alt="autograph">
+								</div>
 							</div>
 
-							<div class="col-md-6 align-right">
-								<ul class="socials-nav align-right">
-									<li class="socials-nav-item">
-										<a href="#">
-											<span class="fa fa-twitter"></span></a>
-									</li>
-									<li class="socials-nav-item">
-										<a href="#">
-											<span class="fa fa-facebook"></span></a>
-									</li>
-									<li class="socials-nav-item">
-										<a href="#">
-											<span class="fa fa-github"></span></a>
-									</li>
-									<li class="socials-nav-item">
-										<a href="#">
-											<span class="fa fa-vimeo-square"></span></a>
-									</li>
-									<li class="socials-nav-item">
-										<a href="#">
-											<span class="fa fa-google-plus"></span></a>
-									</li>
-									<li class="socials-nav-item">
-										<a href="#">
-											<span class="fa fa-instagram"></span></a>
-									</li>
-								</ul>
+							<div class="col-md-4 col-lg-3 col-lg-offset-1">
+								<div class="widget twitter-widget">
+									<h6 class="widget-head">
+										<span class="fa fa-twitter"></span> Twitter Feed</h6>
 
-								<p class="text-alt">
-									<small>All Rights Reserved © 2020</small>
-								</p>
+									<ul class="tweets-list">
+										<li class="tweet">
+											<p class="text-alt tweet-text">Grabehan <a href="#">#NowPlaying</a> Future People by Alabama Shakes <a href="http://spoti.fi/1CTPWcW">http://spoti.fi/1CTPWcW</a>
+											</p>
+											<small class="tweet-date">7 sep 2015</small>
+										</li>
+
+										<li class="tweet">
+											<p class="text-alt tweet-text">Loving <a href="#">@TryGhost</a> so far. Ghost theming here I come!</p>
+											<small class="tweet-date">8 sep 2015</small>
+										</li>
+
+										<li class="tweet">
+											<p class="text-alt tweet-text">We didn't set out to be superheroes. But sometimes, life doesn't go the way you planned. <a href="#">#TI5</a>
+												<a href="#">#BleedBlue</a>
+											</p>
+											<small class="tweet-date">9 sep 2015</small>
+										</li>
+									</ul>
+								</div>
+							</div>
+
+							<div class="col-md-4 col-lg-3 col-lg-offset-1">
+								<div class="widget instagram-widget">
+									<h6 class="widget-head">
+										<span class="fa fa-instagram"></span> Photo feed</h6>
+
+									<ul class="instagram-list">
+										<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
+										<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
+										<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
+										<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
+										<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
+										<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
+										<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
+										<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
+										<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
+									</ul>
+								</div>
 							</div>
 
 						</div>
+
+						<div class="footer-base">
+							<div class="container">
+
+								<div class="col-md-6">
+									<ul class="footer-nav">
+										<li class="footer-nav-item">
+											<a href="#">Contact</a>
+										</li>
+										<li class="footer-nav-item">
+											<a href="#">Privacy policy</a>
+										</li>
+										<li class="footer-nav-item">
+											<a href="#">Press</a>
+										</li>
+									</ul>
+								</div>
+
+								<div class="col-md-6 align-right">
+									<ul class="socials-nav align-right">
+										<li class="socials-nav-item">
+											<a href="#">
+												<span class="fa fa-twitter"></span></a>
+										</li>
+										<li class="socials-nav-item">
+											<a href="#">
+												<span class="fa fa-facebook"></span></a>
+										</li>
+										<li class="socials-nav-item">
+											<a href="#">
+												<span class="fa fa-github"></span></a>
+										</li>
+										<li class="socials-nav-item">
+											<a href="#">
+												<span class="fa fa-vimeo-square"></span></a>
+										</li>
+										<li class="socials-nav-item">
+											<a href="#">
+												<span class="fa fa-google-plus"></span></a>
+										</li>
+										<li class="socials-nav-item">
+											<a href="#">
+												<span class="fa fa-instagram"></span></a>
+										</li>
+									</ul>
+
+									<p class="text-alt">
+										<small>All Rights Reserved © 2020</small>
+									</p>
+								</div>
+
+							</div>
+						</div>
+					</section>
+
+					<div class="modal-window" data-modal="0" style="background-color: rgba(2, 2, 2, 0.85);">
+						<div class="modal-box iframe-box iframe-video">
+							<span class="close-btn icon icon-office-52"></span>
+
+							<iframe src="https://www.youtube.com/embed/goH-Pv1w6xo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+						</div>
 					</div>
-				</section>
 
-				<div class="modal-window" data-modal="0" style="background-color: rgba(2, 2, 2, 0.85);">
-					<div class="modal-box iframe-box iframe-video">
-						<span class="close-btn icon icon-office-52"></span>
-
-						<iframe src="https://www.youtube.com/embed/goH-Pv1w6xo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-					</div>
-				</div>
-
-				<!--[if lt IE 9]>
+					<!--[if lt IE 9]>
 		<script type="text/javascript" src="/js/conferences/jquery-1.11.3.min.js?ver=1"></script>
 	<![endif]-->
-				<!--[if (gte IE 9) | (!IE)]><!-->
-				<script type="text/javascript" src="/js/conferences/jquery-2.1.4.min.js?ver=1"></script>
-				<!--<![endif]-->
+					<!--[if (gte IE 9) | (!IE)]><!-->
+					<script type="text/javascript" src="/js/conferences/jquery-2.1.4.min.js?ver=1"></script>
+					<!--<![endif]-->
 
-				<script src="https://maps.googleapis.com/maps/api/js?v=3&libraries=places"></script>
-				<script type="text/javascript" src="/js/conferences/bootstrap.min.js"></script>
-				<script type="text/javascript" src="/js/conferences/jquery.validate.min.js"></script>
-				<script type="text/javascript" src="/js/conferences/toastr.min.js"></script>
-				<script type="text/javascript" src="/js/conferences/jquery.waypoints.min.js"></script>
-				<script type="text/javascript" src="/js/conferences/jquery.appear.js"></script>
-				<script type="text/javascript" src="/js/conferences/jquery.plugin.js"></script>
-				<script type="text/javascript" src="/js/conferences/jquery.countTo.js"></script>
-				<script type="text/javascript" src="/js/conferences/masonry.pkgd.min.js"></script>
-				<script type="text/javascript" src="/js/conferences/modal-box.js"></script>
-				<script type="text/javascript" src="/js/conferences/ventcamp.js"></script>
-			</body>
-		</html>
+					<script src="https://maps.googleapis.com/maps/api/js?v=3&libraries=places"></script>
+					<script type="text/javascript" src="/js/conferences/bootstrap.min.js"></script>
+					<script type="text/javascript" src="/js/conferences/jquery.validate.min.js"></script>
+					<script type="text/javascript" src="/js/conferences/toastr.min.js"></script>
+					<script type="text/javascript" src="/js/conferences/jquery.waypoints.min.js"></script>
+					<script type="text/javascript" src="/js/conferences/jquery.appear.js"></script>
+					<script type="text/javascript" src="/js/conferences/jquery.plugin.js"></script>
+					<script type="text/javascript" src="/js/conferences/jquery.countTo.js"></script>
+					<script type="text/javascript" src="/js/conferences/masonry.pkgd.min.js"></script>
+					<script type="text/javascript" src="/js/conferences/modal-box.js"></script>
+					<script type="text/javascript" src="/js/conferences/ventcamp.js"></script>
+
+					<!-- ActiveCampaign code -->
+					<script type="text/javascript">
+						(function (e, t, o, n, p, r, i) {
+							e.visitorGlobalObjectAlias = n;
+							e[e.visitorGlobalObjectAlias] = e[e.visitorGlobalObjectAlias] || function () {
+								(e[e.visitorGlobalObjectAlias].q = e[e.visitorGlobalObjectAlias].q || []).push(arguments)
+							};
+							e[e.visitorGlobalObjectAlias].l = (new Date).getTime();
+							r = t.createElement("script");
+							r.src = o;
+							r.async = true;
+							i = t.getElementsByTagName("script")[0];
+							i
+								.parentNode
+								.insertBefore(r, i)
+						})(window, document, "https://diffuser-cdn.app-us1.com/diffuser/diffuser.js", "vgo");
+						vgo('setAccount', '799235361');
+						vgo('setTrackByDefault', true);
+
+						vgo('process');
+					</script>
+
+				</body>
+			</html>
