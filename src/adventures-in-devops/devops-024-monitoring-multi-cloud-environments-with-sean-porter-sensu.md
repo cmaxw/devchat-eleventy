@@ -7,7 +7,7 @@ tags:
 - Sean Porter
 layout: layouts/post.njk
 title: 'DevOps 024: Monitoring Multi-Cloud Environments with Sean Porter | Sensu'
-date: 2020-03-03T11:00:00+0000
+date: 2020-03-03T11:00:00.000+00:00
 episode_number: '24'
 audio_url: https://media.devchat.tv/adventures-in-devops/ADO_024_Monitoring_Multi-Cloud_Environments_with_Sean_Porter_Sensu.mp3
 duration: '42:05'
@@ -22,12 +22,6 @@ answer4: ''
 
 ---
 Sean Porter is the CTO and co-founder of Sensu Inc. Sensu is a project that helps cloud native devops engineers track issues across the cloud and multiple clouds. He gives us the story of where Sensu came from and how it is used now.
-
-Visit UpCloud at [https://www.facebook.com/UpCloudLtd/](https://www.facebook.com/UpCloudLtd/ "https://www.facebook.com/UpCloudLtd/")
-
-Follow UpCloud: [@UpCloud](https://twitter.com/upcloud)
-
-Follow Gremlin: [@GremlinInc](https://twitter.com/GremlinInc)
 
 ### **Panelist**
 
