@@ -378,6 +378,28 @@
 		</div>
 	</section>
 
+	<section id="feedback" class="section align-center" style="padding-top: 25px;">
+		<div class="container">
+			<h5 class="heading-alt">TESTIMONIALS</h5>
+			<p class="text-alt" style="margin-bottom: 80px;">what people <span class="highlight">say</span></p>
+
+			<div class="row">
+				{% for testimonial in my_testimonials %}
+					<div class="col-sm-4">
+						<div class="testimonial">
+							<article class="text-box">{{testimonials[testimonial].testimonial}}<article>
+							<div class="author-block">
+								<div class="photo-container" style="background-image: url('{{testimonials[testimonial].image}}')"></div>
+
+								<strong class="name">{{testimonials[testimonial].author}}</strong>
+							</div>
+						</div>
+					</div>
+				{% endfor %}
+			</div>
+		</div>
+	</section>
+
 
 	<section id="register" class="section overlay overlay-clr bg-cover bg4 light-text align-center">
 		<div class="container">
