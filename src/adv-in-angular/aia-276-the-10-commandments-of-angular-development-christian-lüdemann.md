@@ -24,7 +24,7 @@ Christian walks Charles and Younes through the 10 commandments of building Angul
 
 #### **Panel:**
 
-* Younes Jaaidi:
+* Younes Jaaidi
 * Charles Max Wood
 
 #### **Guest:**
