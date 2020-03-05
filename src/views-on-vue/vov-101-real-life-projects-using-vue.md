@@ -23,12 +23,12 @@ answer4: ''
 ---
 Dean and Lindsay talk about the projects they're working on and the technologies they're using. Dean talks about using Apache Cordova and Firebase to build mobile apps. Lindsay is working on building his own card game and short circuited the physical design process by building an electron app. Keep listening to see what else they're working on.
 
-### **Panel:**
+### **Panel**
 
 * Deane Venske
 * Lindsay Wardell
 
-### **Sponsors:**
+### **Sponsors**
 
 * [Springboard | Click here NOW for $500 off the course](https://www.springboard.com/workshops/software-engineering-career-track/?utm_source=devchat&utm_medium=podcast&utm_campaign=viewsonvue)
 * [Cloudways | Use promo code "DEVCHAT" for 30% off for 3 months on all plans](https://www.cloudways.com/en/?id=546951&chan=Devchat&data1=Vue-show&data2=Podcast-4)
@@ -39,12 +39,12 @@ Dean and Lindsay talk about the projects they're working on and the technologies
 
 ## **____________________________________________________________**
 
-### **Links:**
+### **Links**
 
 * [A Vue Cli 3 plugin for Electron with no required configuration](https://github.com/nklayman/vue-cli-plugin-electron-builder)
 * [NW.js](https://nwjs.io/)
 
-### **Picks:**
+### **Picks**
 
 **Deane Venske:**
 
