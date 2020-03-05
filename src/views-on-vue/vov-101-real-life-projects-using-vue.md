@@ -3,9 +3,11 @@ podcast: views-on-vue
 tags:
 - podcast
 - views_on_vue
+- Apache Cordova
+- 'Firebase '
 layout: layouts/post.njk
 title: 'VoV 101: Real Life Projects Using Vue'
-date: 2020-03-10T11:00:00+0000
+date: 2020-03-10T11:00:00.000+00:00
 episode_number: '101'
 audio_url: https://media.devchat.tv/viewsonvue/VoV_101_Panel.mp3
 duration: '34:34'
@@ -19,6 +21,8 @@ question4: ''
 answer4: ''
 
 ---
+Dean and Lindsay talk about the projects they're working on and the technologies they're using. Dean talks about using Apache Cordova and Firebase to build mobile apps. Lindsay is working on building his own card game and short circuited the physical design process by building an electron app. Keep listening to see what else they're working on.
+
 ### **Panel:**
 
 * Deane Venske
