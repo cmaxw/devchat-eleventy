@@ -6,7 +6,7 @@ tags:
 - adv_in_angular
 layout: layouts/post.njk
 title: 'AiA 277:  Is Angular Declining?'
-date: 2020-03-10T09:00:00+0000
+date: 2020-03-10T09:00:00.000+00:00
 episode_number: '277'
 audio_url: https://media.devchat.tv/adventures-in-angular/AIA_277_Panel.mp3
 duration: '1:02:11'
@@ -20,7 +20,9 @@ question4: ''
 answer4: ''
 
 ---
-### **Panel:**
+Alyssa, Chris, and Chuck dive into whether or not Angular is declining in popularity. They begin talking about a tweet by [@wellpaidgeek](https://twitter.com/WellPaidGeek) and things like State of JS and what it says about the growth and relative popularity of Angular when compared with Vue, React, and Svelte. The discussion also weaves into whether or not it's worth starting in or finding a job in today.
+
+### **Panel**
 
 * Alyssa Nicoll
 * Charles Max Wood
@@ -32,7 +34,7 @@ answer4: ''
 
 ## **____________________________________________________________**
 
-### **Links:**
+### **Links**
 
 * [The myth Angular is in decline](https://dev.to/steveblue/the-myth-angular-is-in-decline-4hab)
 * [The State of JavaScript 2019](https://2019.stateofjs.com/)
@@ -41,7 +43,7 @@ answer4: ''
 * [The State of JavaScript 2019: Front End Frameworks](https://2019.stateofjs.com/front-end-frameworks/)
 * [Apache Wicket](https://en.wikipedia.org/wiki/Apache_Wicket)
 
-### **Picks:**
+### **Picks**
 
 **Charles Max Wood:**
 
