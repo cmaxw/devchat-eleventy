@@ -8,7 +8,7 @@ tags:
 title: 'JSJ 424: UI5 and web components with Peter Muessig'
 date: 2020-03-10T11:00:00.000+00:00
 episode_number: 424
-duration: '42:42'
+duration: '42:33'
 audio_url: https://media.devchat.tv/js-jabber/JSJ_424_Peter_Muessig.mp3
 
 ---
