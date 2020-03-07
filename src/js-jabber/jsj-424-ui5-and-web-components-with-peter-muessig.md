@@ -6,25 +6,29 @@ tags:
 - js_jabber
 - Peter Muessig
 title: 'JSJ 424: UI5 and web components with Peter Muessig'
-date: 2020-03-10T11:00:00Z
+date: 2020-03-10T11:00:00.000+00:00
 episode_number: 424
-duration: '42:42'
+duration: '42:33'
 audio_url: https://media.devchat.tv/js-jabber/JSJ_424_Peter_Muessig.mp3
 
 ---
 In this episode of JavaScript Jabber the panelists and guest delve into the advantages of the shadow dom, transitioning from polymer js polyfills to native web components when moving for SAP UI to UI5, which works within React, Vue, Angular, and others.
 
-### **Panel:**
+### **Panel**
 
 * AJ O’Neal
 * Aimee Knight
 * Steve Edwards
 * Dan Shappir
 
-### **Guest:**
+### **Guest**
 
 * Peter Müßig
 * Follow Peter on Twitter > [@pmuessig](https://twitter.com/pmuessig?lang=en), [Github](https://github.com/petermuessig)
+
+### **Sponsors**
+
+* [Taiko, free and open source browser test automation](https://taiko.dev/)
 
 ## **____________________________________________________________**
 
@@ -32,12 +36,12 @@ In this episode of JavaScript Jabber the panelists and guest delve into the adva
 
 ## **____________________________________________________________**
 
-### **Links:**
+### **Links**
 
 * [OpenUI5](https://openui5.org/)
 * [Home - SAPUI5 SDK](https://sapui5.hana.ondemand.com/)
 
-### **Picks:**
+### **Picks**
 
 **AJ O’Neal:**
 
@@ -45,21 +49,21 @@ In this episode of JavaScript Jabber the panelists and guest delve into the adva
 * [Acrylic Stand](https://amzn.to/31J9i94)
 * [AJ's YouTube Channel (AMA)](https://www.youtube.com/user/coolaj86/videos)
 
-**Aimee Knight:**
+**Aimee Knight**
 
 * [Announcing Div Ops as the Slack and Reddit communities](https://www.jonathancreamer.com/announcing-div-ops/)
 
-**Steve Edwards:**
+**Steve Edwards**
 
 * [Today on Pearls Before Swine - Comics by Stephan Pastis](https://www.gocomics.com/pearlsbeforeswine)
 
-**Dan Shappir:**
+**Dan Shappir**
 
 * [The Wixing Street Interview | Facts about Wixing in Germany](https://www.youtube.com/watch?v=v2L4G1_eVOk)
 * [Wix.com werbung | versuch nicht zu lachen](https://www.youtube.com/watch?v=WaFSYPj6m4E)
 * [UI5 Web Components](https://sap.github.io/ui5-webcomponents/)
 
-**Peter Müßig:**
+**Peter Müßig**
 
 * [JavaScript Jabber](https://devchat.tv/js-jabber/)
 

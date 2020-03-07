@@ -7,8 +7,8 @@ tags:
 - Jeffrey Bergier
 - Alex Bush
 layout: layouts/post.njk
-title: 'iPS 284: Jeffrey Bergier'
-date: 2020-03-03T11:00:00+0000
+title: 'iPS 284: Accessibility and Considerate Apps with Jeffrey Bergier'
+date: 2020-03-03T11:00:00.000+00:00
 episode_number: '284'
 audio_url: https://media.devchat.tv/iphreaks/iPS_284_Jeffrey_Bergier.mp3
 duration: '39:15'
