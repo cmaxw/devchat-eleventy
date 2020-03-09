@@ -3,11 +3,13 @@ podcast: react-round-up
 tags:
 - react_round_up
 - podcast
+- JS Remote Conf
+- how to succced
 layout: layouts/post.njk
 title: 'RRU 103: Do the Work'
 date: 2020-03-10T11:00:00+0000
 episode_number: '103'
-audio_url: ''
+audio_url: https://media.devchat.tv/reactroundup/RRU_103_Do_the_Work.mp3
 duration: '32:51'
 question1: ''
 answer1: ''
