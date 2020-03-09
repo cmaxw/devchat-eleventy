@@ -40,3 +40,6 @@ Charles Max Wood monologues about how to get what you want and making a plan. Th
 * [JS Remote Conf](http://jsremoteconf.com)
 * [Expert Secrets](https://amzn.to/32Qch07)
 * [Chronicles of Narnia](https://amzn.to/2vKjUsP)
+
+
+Follow React Round Up on Twitter > [@reactroundup](https://twitter.com/reactroundup)
