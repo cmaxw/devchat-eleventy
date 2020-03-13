@@ -3,6 +3,8 @@ podcast: iphreaks
 tags:
 - podcast
 - iphreaks
+- Alex Bush
+- Jordan Morgan
 layout: layouts/post.njk
 title: 'iPS 285: The Life of an Image on iOS  with Jordan Morgan'
 date: 2020-03-17T10:00:00+0000
