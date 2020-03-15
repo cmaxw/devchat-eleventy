@@ -7,8 +7,8 @@ layout: layouts/post.njk
 title: 'VoV 102: Components from the Ground Up'
 date: 2020-03-17T11:00:00+0000
 episode_number: '102'
-audio_url: ''
-duration: ''
+audio_url: https://media.devchat.tv/viewsonvue/VoV_102_Panel.mp3
+duration: '1:02:57'
 question1: ''
 answer1: ''
 question2: ''
@@ -61,7 +61,7 @@ The Views on Vue panelists discuss components: They delve into what is it, when 
 
 **Lindsay Wardell:**
 
-* [Replacing Vuex with XState - DEV Community 👩‍💻👨‍💻](https://dev.to/felix/replacing-vuex-with-xstate-3097)
+* [Replacing Vuex with XState - DEV Community](https://dev.to/felix/replacing-vuex-with-xstate-3097)
 * [Old CSS, new CSS / fuzzy notepad](https://eev.ee/blog/2020/02/01/old-css-new-css/)
 
 Follow Views on Vue on Twitter > [@viewsonvue](https://twitter.com/viewsonvue)
