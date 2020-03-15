@@ -21,13 +21,13 @@ answer4: ''
 ---
 The Views on Vue panelists discuss components: They delve into what is it, when to create a new one, data management between components and their favorites.
 
-#### **Panel:**
+### **Panel**
 
 * Lindsay Wardell
 * Austin Gil
 * Deane Venske
 
-#### **Sponsors:**
+### **Sponsors**
 
 * [Springboard | Click here NOW for $500 off the course](https://www.springboard.com/workshops/software-engineering-career-track/?utm_source=devchat&utm_medium=podcast&utm_campaign=viewsonvue)
 * [Cloudways | Use promo code "DEVCHAT" for 30% off for 3 months on all plans](https://www.cloudways.com/en/?id=546951&chan=Devchat&data1=Vue-show&data2=Podcast-3)
@@ -38,7 +38,7 @@ The Views on Vue panelists discuss components: They delve into what is it, when 
 
 ## **____________________________________________________________**
 
-#### **Links:**
+### **Links**
 
 * [Element - A Desktop UI Toolkit for Web](https://element.eleme.io/#/en-US)
 * [SweetAlert2](https://sweetalert2.github.io/)
@@ -47,7 +47,7 @@ The Views on Vue panelists discuss components: They delve into what is it, when 
 * [GitHub - euvl/vue-notification: Vue.js 2 library for showing notifications](https://github.com/euvl/vue-notification)
 * [Vue Apollo](https://apollo.vuejs.org/)
 
-#### **Picks:**
+### **Picks**
 
 **Austin Gil:**
 
