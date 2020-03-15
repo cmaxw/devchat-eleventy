@@ -78,7 +78,7 @@ Chris O’Sullivan joins the Rogues to talk about the people who influenced Ruby
 
 * [GitHub - stimulusjs/stimulus: A modest JavaScript framework for the HTML you already have](https://github.com/stimulusjs/stimulus)
 
-Chris O'Sullivan:
+**Chris O'Sullivan:**
 
 * Follow Chris on Twitter [@thechrisoshow](https://twitter.com/thechrisoshow?lang=en), [Website](lexoo.co.uk), email: chris@lexoo.co.uk
 * [Codenames | Board Game](https://boardgamegeek.com/boardgame/178900/codenames)
