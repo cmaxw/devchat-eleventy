@@ -8,8 +8,8 @@ title: ".NET 022: Using DotVVM for migrating WebForms applications to .NET Core 
   Tomas Herceg"
 date: 2020-03-17T11:00:00+0000
 episode_number: '022'
-audio_url: ''
-duration: ''
+audio_url: https://media.devchat.tv/adventures-in-dotnet/NET_022_Tomas_Herceg.mp3
+duration: '48:48'
 question1: ''
 answer1: ''
 question2: ''
@@ -31,8 +31,6 @@ Currently working on a .NET WebForms application and want to know how to move it
 ### **Guest**
 
 * Tomas Herceg
-
-### **Sponsors**
 
 ## **____________________________________________________________**
 
