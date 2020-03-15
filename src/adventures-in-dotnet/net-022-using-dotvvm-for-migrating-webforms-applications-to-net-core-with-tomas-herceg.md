@@ -3,6 +3,7 @@ podcast: adventures-in-dotnet
 tags:
 - podcast
 - adventures_in_dotnet
+- DotVVM
 layout: layouts/post.njk
 title: ".NET 022: Using DotVVM for migrating WebForms applications to .NET Core with
   Tomas Herceg"
