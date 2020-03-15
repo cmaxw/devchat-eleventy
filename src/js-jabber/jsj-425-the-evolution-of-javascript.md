@@ -8,8 +8,8 @@ tags:
 title: 'JSJ 425: The Evolution of JavaScript'
 date: 2020-03-17T11:00:00Z
 episode_number: 425
-duration: ''
-audio_url: ''
+duration: '1:18:04'
+audio_url: " https://media.devchat.tv/js-jabber/JSJ_425_Panel.mp3"
 
 ---
 ### **Panel**
