@@ -7,8 +7,8 @@ layout: layouts/post.njk
 title: 'RR 452: The History and Personalities of Ruby with Chris O’Sullivan'
 date: 2020-03-17T11:00:00+0000
 episode_number: '452'
-audio_url: ''
-duration: ''
+audio_url: https://media.devchat.tv/ruby-rogues/RR_452_Chris_O_Sullivan.mp3
+duration: '59:59'
 question1: ''
 answer1: ''
 question2: ''
