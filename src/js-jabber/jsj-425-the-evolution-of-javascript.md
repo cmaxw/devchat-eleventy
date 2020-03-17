@@ -12,6 +12,8 @@ duration: '1:18:04'
 audio_url: " https://media.devchat.tv/js-jabber/JSJ_425_Panel.mp3"
 
 ---
+Dan Shappir takes the lead and walks the panel through the history of JavaScript and a discussion on ES6, TypeScript, the direction and future of JavaScript, and what features to be looking at and looking for in the current iteration of JavaScript.
+
 ### **Panel**
 
 * AJ O’Neal
