@@ -1,0 +1,231 @@
+---
+layout: layouts/base.njk
+page_class: category-layout-5
+---
+
+<!-- block post area start-->
+<section class="block-wrapper mt-15">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="ts-grid-box entry-header">
+          <ol class="ts-breadcrumb">
+            <li>
+              <a href="/">
+                <i class="fa fa-home"></i>
+                Home
+              </a>
+            </li>
+            <li>
+              Meetups
+            </li>
+          </ol>
+          <div class="clearfix entry-cat-header">
+            <h2 class="ts-title float-left">Meetups</h2>
+          </div>
+          <ul class="ts-category-list float-right"></ul>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-9">
+        {%- for item in collections['meetups'] -%}
+        {% if loop.index % 2 == 1 %}
+        <div class="row">
+        {% endif %}
+          <div class="col-lg-6 mb-10">
+            <div class="ts-overlay-style">
+              <div class="item">
+                <div class="ts-post-thumb">
+                  <a class="post-cat ts-orange-bg" href="/meetups">Meetup</a>
+                  <a href="{{item.link}}">
+                    {% if item.data.image %}
+                      <img class="img-fluid" src="/images/meetups/{{item.data.image}}" alt="">
+                    {% else %}
+                      <img class="img-fluid" src="/images/meetups/default.png" alt="">
+                    {% endif %}
+                  </a>
+                </div>
+
+                <div class="overlay-post-content">
+                  <div class="post-content">
+                    <h3 class="post-title md">
+                      <a href="{{item.link}}">{{item.data.title}}</a>
+                    </h3>
+                    <ul class="post-meta-info">
+                      <li>
+                        <i class="fa fa-calendar-o"></i>
+                        {{item.data.date | date}}
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+              <!-- end item-->
+            </div>
+          </div>
+        {% if loop.index % 2 == 0 %}
+        </div>
+        {% else %}
+        {% if loop.index == loop.length %}
+        </div>
+        {% endif %}
+        {% endif %}
+        {%- endfor -%}
+        {% if pagination.links.length > 1 %}
+        <div class="ts-pagination text-center mb-20">
+          <ul class="pagination">
+            <li>
+              <a href="{{pagination.links[0] | url}}">
+                <i class="fa fa-angle-double-left"></i>
+              </a>
+            </li>
+            <li>
+              {% if pagination.pageNumber > 0 %}
+              <a href="{{pagination.links[pagination.pageNumber - 1] | url}}">
+              {% else %}
+              <a href="#">
+              {% endif %}
+                <i class="fa fa-angle-left"></i>
+              </a>
+            </li>
+            {% if pagination.pageNumber > 1 %}
+            <li>
+              <a href="{{pagination.links[pagination.pageNumber - 2] | url}}">{{pagination.pageNumber - 1}}</a>
+            </li>
+            {% endif %}
+            {% if pagination.pageNumber > 0 %}
+            <li>
+              <a href="{{pagination.links[pagination.pageNumber - 1] | url}}">{{pagination.pageNumber}}</a>
+            </li>
+            {% endif %}
+            <li class="active">
+              <a href="#">{{pagination.pageNumber + 1}}</a>
+            </li>
+            {% if pagination.pageNumber < pagination.links.length - 1 %}
+            <li>
+              <a href="{{pagination.links[pagination.pageNumber + 1] | url}}">{{pagination.pageNumber + 2}}</a>
+            </li>
+            {% endif %}
+            {% if pagination.pageNumber < pagination.links.length - 2 %}
+            <li>
+              <a href="{{pagination.links[pagination.pageNumber + 2] | url }}">{{pagination.pageNumber + 3}}</a>
+            </li>
+            {% endif %}
+            <li>
+              {% if pagination.pageNumber < pagination.links.length - 1 %}
+              <a href="{{pagination.links[pagination.pageNumber + 1] | url}}">
+              {% else %}
+              <a href="#">
+              {% endif %}
+                <i class="fa fa-angle-right"></i>
+              </a>
+            </li>
+            <li>
+              <a href="{{pagination.links[pagination.links.length - 1] | url}}">
+                <i class="fa fa-angle-double-right"></i>
+              </a>
+            </li>
+          </ul> 
+        </div>
+        {% endif %}
+      </div>
+
+      <div class="col-lg-3">
+        <div class="widgets widgets-item">
+          <h3 class="widgets-title">
+            <span>On social</span>
+          </h3>
+        </div>
+
+
+        {% include "social_links.njk" %}
+
+        {% include "sitewide_sidebar_sponsors.njk" %}
+
+          <div class="post-list-item widgets">
+            <!-- Nav tabs -->
+            <ul class="nav nav-tabs" role="tablist">
+              <li role="presentation">
+                <a class="active" href="#home" aria-controls="home" role="tab" data-toggle="tab">
+                  <i class="fa fa-clock-o"></i>
+                  Recent
+                </a>
+              </li>
+              <li role="presentation">
+                <a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">
+                  <i class="fa fa-heart"></i>
+                  Favorites
+                </a>
+              </li>
+            </ul>
+
+            <!-- Tab panes -->
+            <div class="tab-content">
+              <div role="tabpanel" class="tab-pane active ts-grid-box post-tab-list" id="home">
+                {% for post in collections.published | head(-5) %}
+                <div class="post-content media">
+                  <img class="d-flex sidebar-img" src="{{post.data.image}}" alt="">
+                  <div class="media-body">
+                    <span class="post-tag">
+                      {% set postColor = "pink" %}
+                      {% set postParent = "blog" %}
+                      {% set show = "Blog" %}
+                      {% if post.data.podcast %}
+                        {% set podcast = podcasts[ post.data.podcast ] %}
+                        {% set postColor = podcast.color %}
+                        {% set postParent = podcast.title %}
+                        {% set show = podcast.title %}
+                      {% endif %}
+                      
+                      <a href="/{{postParent}}" class="{{postColor}}-color"> {{show}}</a>
+                    </span>
+                    <h4 class="post-title">
+                      <a href="{{post.url | url}}">{{post.data.title}} </a>
+                    </h4>
+                  </div>
+                </div>
+                <!--post-content end-->
+                {% endfor %}
+              </div>
+              <!--ts-grid-box end -->
+
+              <div role="tabpanel" class="tab-pane ts-grid-box post-tab-list" id="profile">
+                {% for post in collections.popular | head(-5) %}
+                <div class="post-content media">
+                  <img class="d-flex sidebar-img" src="{{post.data.image}}" alt="">
+                  <div class="media-body">
+                    <span class="post-tag">
+                      {% set postColor = "pink" %}
+                      {% set postParent = "blog" %}
+                      {% set show = "Blog" %}
+                      {% if post.data.podcast %}
+                        {% set podcast = podcasts[ post.data.podcast ] %}
+                        {% set postColor = podcast.color %}
+                        {% set postParent = podcast.title %}
+                        {% set show = podcast.title %}
+                      {% endif %}
+                      
+                      <a href="/{{postParent}}" class="{{postColor}}-color"> {{show}}</a>
+                    </span>
+                    <h4 class="post-title">
+                      <a href="{{ post.url | url }}">{{post.data.title}}</a>
+                    </h4>
+                  </div>
+                </div>
+                <!--post-content end-->
+                {% endfor %}
+              </div>
+              <!--ts-grid-box end -->
+            </div>
+            <!-- tab content end-->
+          </div>
+          <!-- widgets end-->
+        </div>
+      </div>
+    </div>
+    <!-- row end-->
+  </div>
+  <!-- container end-->
+</section>
+<!-- block area end-->
