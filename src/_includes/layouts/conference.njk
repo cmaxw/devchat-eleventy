@@ -9,7 +9,7 @@
 
 		<meta name="description" content="{{description}}">
 		<meta name="keywords" content="{{keywords}}">
-		<meta name="author" content="Devchat.tv">
+		<meta name="author" content="devchat.tv">
 
 		<link rel="shortcut icon" href="/images/favicon.ico">
 		<link rel="apple-touch-icon" href="/images/apple-touch-icon.jpg">
@@ -81,7 +81,7 @@
 			<div class="container">
 				<div class="col-sm-2 col-xs-12 navigation-header">
 					<a href="#">
-						<img src="/images/conferences/jsremoteconf_logo.png" alt="JS Remote Conf" width="238" height="34">
+						<img src="/images/conferences/jsremoteconf_logo.png" alt="js remote conf" width="238" height="34">
 					</a>
 					<button class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navigation" aria-expanded="false" aria-controls="navigation">
 						<span class="icon-bar"></span>
@@ -261,80 +261,38 @@
 					<br/>
 					<br/>
 
-					<div class="col-sm-4">
-						<div class="speaker">
-							<div class="photo-wrapper rounded"><img src="/images/conferences/speakers/speaker1.jpg" alt="John Doe" class="img-responsive"></div>
-							<h3 class="name">Aimee Knight</h3>
-							<p class="text-alt">
-								<small>JavaScript Jabber Panelist</small>
-							</p>
-							<p class="about"></p>
-							<ul class="speaker-socials">
-								<li>
-									<a href="#">
-										<span class="fa fa-facebook"></span></a>
-								</li>
-								<li>
-									<a href="#">
-										<span class="fa fa-twitter"></span></a>
-								</li>
-								<li>
-									<a href="#">
-										<span class="fa fa-google-plus"></span></a>
-								</li>
-							</ul>
+					{% for speaker in my_speakers %}
+						<div class="col-sm-4">
+							<div class="speaker">
+								<div class="photo-wrapper rounded"><img src="/images/speakers/{{ speakers[speaker].photo }}" alt="john doe" class="img-responsive"></div>
+								<h3 class="name">{{ speakers[speaker].name }}</h3>
+								<p class="text-alt">
+									<small>{{ speakers[speaker].byline }}</small>
+								</p>
+								<p class="about">{{ speakers[speaker].bio }}</p>
+								<ul class="speaker-socials">
+									{% if speakers[speaker].facebook %}
+										<li>
+											<a href="{{ speakers[speaker].facebook }}">
+												<span class="fa fa-facebook"></span></a>
+										</li>
+									{% endif %}
+									{% if speakers[speaker].twitter %}
+										<li>
+											<a href="{{ speakers[speaker].twitter }}">
+												<span class="fa fa-twitter"></span></a>
+										</li>
+									{% endif %}
+									{% if speakers[speaker].github %}
+										<li>
+											<a href="{{ speakers[speaker].github }}">
+												<span class="fa fa-google-plus"></span></a>
+										</li>
+									{% endif %}
+								</ul>
+							</div>
 						</div>
-					</div>
-
-					<div class="col-sm-4">
-						<div class="speaker">
-							<div class="photo-wrapper rounded"><img src="/images/conferences/speakers/speaker2.jpg" alt="John Doe" class="img-responsive"></div>
-							<h3 class="name">Dan Shappir</h3>
-							<p class="text-alt">
-								<small>JavaScript Jabber Panelist</small>
-							</p>
-							<p class="about"></p>
-							<ul class="speaker-socials">
-								<li>
-									<a href="#">
-										<span class="fa fa-facebook"></span></a>
-								</li>
-								<li>
-									<a href="#">
-										<span class="fa fa-twitter"></span></a>
-								</li>
-								<li>
-									<a href="#">
-										<span class="fa fa-google-plus"></span></a>
-								</li>
-							</ul>
-						</div>
-					</div>
-
-					<div class="col-sm-4">
-						<div class="speaker">
-							<div class="photo-wrapper rounded"><img src="/images/conferences/speakers/speaker3.jpg" alt="John Doe" class="img-responsive"></div>
-							<h3 class="name">Steve Edwards</h3>
-							<p class="text-alt">
-								<small>JavaScript Jabber and Views on Vue Panelist</small>
-							</p>
-							<p class="about"></p>
-							<ul class="speaker-socials">
-								<li>
-									<a href="#">
-										<span class="fa fa-facebook"></span></a>
-								</li>
-								<li>
-									<a href="#">
-										<span class="fa fa-twitter"></span></a>
-								</li>
-								<li>
-									<a href="#">
-										<span class="fa fa-google-plus"></span></a>
-								</li>
-							</ul>
-						</div>
-					</div>
+					{% endfor %}
 
 					<div class="col-sm-12 align-center">
 						<a href="{{cfp_url}}" target="_blank" class="btn btn-outline-clr btn-md">SUBMIT A TALK</a><br>
@@ -455,7 +413,8 @@
 					<h2>
 						<span class="highlight">Newsletter</span> Sign Up</h2>
 					<small>No Spam - Only latest news, price and activity updates</small>
-					<div class="_form_{{email_list_id}}"></div><script src="https://devchat.activehosted.com/f/embed.php?id={{email_list_id}}" type="text/javascript" charset="utf-8"></script>
+					<div class="_form_{{email_list_id}}"></div>
+					<script src="https://devchat.activehosted.com/f/embed.php?id={{email_list_id}}" type="text/javascript" charset="utf-8"></script>
 				</div>
 			</section>
 
@@ -514,7 +473,7 @@
 
 									<ul class="tweets-list">
 										<li class="tweet">
-											<p class="text-alt tweet-text">Grabehan <a href="#">#NowPlaying</a> Future People by Alabama Shakes <a href="http://spoti.fi/1CTPWcW">http://spoti.fi/1CTPWcW</a>
+											<p class="text-alt tweet-text">Grabehan <a href="#">#NowPlaying</a> Future People by Alabama Shakes <a href="http://spoti.fi/1ctpwcw">http://spoti.fi/1CTPWcW</a>
 											</p>
 											<small class="tweet-date">7 sep 2015</small>
 										</li>
@@ -613,7 +572,7 @@
 						<div class="modal-box iframe-box iframe-video">
 							<span class="close-btn icon icon-office-52"></span>
 
-							<iframe src="https://www.youtube.com/embed/goH-Pv1w6xo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+							<iframe src="https://www.youtube.com/embed/goh-pv1w6xo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 						</div>
 					</div>
 
@@ -631,7 +590,7 @@
 					<script type="text/javascript" src="/js/conferences/jquery.waypoints.min.js"></script>
 					<script type="text/javascript" src="/js/conferences/jquery.appear.js"></script>
 					<script type="text/javascript" src="/js/conferences/jquery.plugin.js"></script>
-					<script type="text/javascript" src="/js/conferences/jquery.countTo.js"></script>
+					<script type="text/javascript" src="/js/conferences/jquery.countto.js"></script>
 					<script type="text/javascript" src="/js/conferences/masonry.pkgd.min.js"></script>
 					<script type="text/javascript" src="/js/conferences/modal-box.js"></script>
 					<script type="text/javascript" src="/js/conferences/ventcamp.js"></script>

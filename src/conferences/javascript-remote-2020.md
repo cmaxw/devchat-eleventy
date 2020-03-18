@@ -12,4 +12,14 @@ hero_image: /images/conferences/laptop.jpg
 email_list_id: 49
 my_testimonials:
   - jsremote_erikisaksen
+my_speakers:
+  - js20_douglas_crockford
+  - js20_aimee_knight
+  - js20_chris_heilmann
+  - js20_kahlil_lechelt
+  - js20_dan_shappir
+  - js20_steve_edwards
+  - js20_mike_amundsen
+  - js20_bryan_horn
+  - js20_mark_hasara
 ---
