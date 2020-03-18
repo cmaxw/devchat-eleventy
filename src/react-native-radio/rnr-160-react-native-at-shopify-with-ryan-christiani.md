@@ -25,7 +25,7 @@ Ryan Christiani is a development manager at Shopify building an android point of
 
 * Charles Max Wood
 
-### **Gues**
+### **Guest**
 
 * Ryan Christiani
 
