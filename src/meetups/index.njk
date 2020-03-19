@@ -38,7 +38,7 @@ page_class: category-layout-5
               <div class="item">
                 <div class="ts-post-thumb">
                   <a class="post-cat ts-orange-bg" href="/meetups">Meetup</a>
-                  <a href="{{item.link}}">
+                  <a href="{{item.link | url}}">
                     {% if item.data.image %}
                       <img class="img-fluid" src="/images/meetups/{{item.data.image}}" alt="">
                     {% else %}
@@ -50,7 +50,7 @@ page_class: category-layout-5
                 <div class="overlay-post-content">
                   <div class="post-content">
                     <h3 class="post-title md">
-                      <a href="{{item.link}}">{{item.data.title}}</a>
+                      <a href="{{item.link | url}}">{{item.data.title}}</a>
                     </h3>
                     <ul class="post-meta-info">
                       <li>
