@@ -94,6 +94,14 @@ module.exports = function(eleventyConfig) {
     });
   });
 
+  eleventyConfig.addCollection('meetup', function(collection) {
+    return collection.getFilteredByTag('meetup').sort(function(a, b) {
+      return a.date - b.date;
+    }).filter(function(item) {
+      return item.date >= today;
+    });
+  });
+
   return {
     templateFormats: ['md', 'njk', 'html', 'liquid'],
 
