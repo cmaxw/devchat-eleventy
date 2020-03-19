@@ -14,6 +14,10 @@ module.exports = function(eleventyConfig) {
     return moment(dateobj).format("YYYY-MM-DD");
   });
 
+  eleventyConfig.addNunjucksFilter('datetime', (dateobj) => {
+    return moment(dateobj).format('MMM Do YYYY, HH:mm');
+  });
+
   eleventyConfig.addFilter('head', (array, n) => {
     if (n < 0) {
       return array.slice(n);
