@@ -9,7 +9,7 @@ title: ".NET 023: C#, NodaTime, versioning, and diversity with Jon Skeet Pt1"
 date: 2020-03-31T09:00:00+0000
 episode_number: '023'
 audio_url: https://media.devchat.tv/adventures-in-dotnet/NET_023_Jon_Skeet_Pt1.mp3
-duration: ''
+duration: '36:00'
 question1: ''
 answer1: ''
 question2: ''
