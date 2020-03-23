@@ -9,10 +9,10 @@ tags:
 - Doguhan Uluca
 - Alyssa Nicoll
 layout: layouts/post.njk
-title: 'AiA 278: Angular for Enterprise-Ready Web Apps with Doguhan Uluca'
-date: 2020-03-24T10:00:00+0000
-episode_number: '278'
-audio_url: https://media.devchat.tv/adventures-in-angular/AiA_278_Doguhan_Uluca.mp3
+title: 'AiA 279: Angular for Enterprise-Ready Web Apps with Doguhan Uluca'
+date: 2020-04-07T10:00:00+0000
+episode_number: '279'
+audio_url: https://media.devchat.tv/adventures-in-angular/AiA_279_Doguhan_Uluca.mp3
 duration: '42:36'
 question1: ''
 answer1: ''
