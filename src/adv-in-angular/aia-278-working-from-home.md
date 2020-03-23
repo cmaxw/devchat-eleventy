@@ -20,6 +20,8 @@ question4: ''
 answer4: ''
 
 ---
+Chris is new at working from home. Chuck and Brooks have been working from home for several years. They walk through the ins and outs of how to be productive at home with kids, family, and others at home and how to maximize communication with your team when you're not in the same place. Chuck also offers some advice to managers who find themselves suddenly managing remote workers.
+
 ### **Panel**
 
 * Charles Max Wood
