@@ -4,6 +4,9 @@ tags:
 - podcast
 - adventures_in_dotnet
 - Jon Skeet
+- Shawn Clabough
+- Caleb Wells​
+- Wai Liu
 layout: layouts/post.njk
 title: ".NET 023: C#, NodaTime, versioning, and diversity with Jon Skeet Pt1"
 date: 2020-03-31T09:00:00+0000
