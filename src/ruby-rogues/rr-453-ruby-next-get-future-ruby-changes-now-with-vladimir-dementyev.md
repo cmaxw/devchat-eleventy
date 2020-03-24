@@ -11,7 +11,7 @@ layout: layouts/post.njk
 title: 'RR 453: Ruby Next: Get future Ruby changes now with Vladimir Dementyev'
 date: 2020-03-31T09:00:00+0000
 episode_number: '453'
-audio_url: ''
+audio_url: https://media.devchat.tv/ruby-rogues/RR_453_Vladimir_Dementyev.mp3
 duration: '52:35'
 question1: ''
 answer1: ''
