@@ -35,7 +35,7 @@ Patrick Stapfer from the Reason Association joins Charles Max Wood to talk about
 
 ### **Sponsors**
 
-* [G2i | Enjoy the luxuries of freelancing](https://www.g2i.co/?utm_source=React_Roundup&utm_medium=Podcast&utm_campaign=DevCha)t
+* [G2i | Enjoy the luxuries of freelancing](https://www.g2i.co/?utm_source=React_Roundup&utm_medium=Podcast&utm_campaign=DevCha)
 
 ## **____________________________________________________________**
 
