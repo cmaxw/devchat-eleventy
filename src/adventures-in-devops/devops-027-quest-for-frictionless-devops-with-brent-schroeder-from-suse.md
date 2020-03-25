@@ -24,7 +24,7 @@ answer4: ''
 ---
 # [JavaScript Remote Conf 2020](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
-# [May 14th to 15th - sign up now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+# [May 14th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
 Brent Schroeder is the global CTO at SUSE. The discussion begins with a discussion around the open source and devops culture at SUSE. It branches into participation in the CloudFoundry and Cloud Native Computing Foundations. The overarching thing is going beyond development into bringing the Ops into DevOps and removes the friction between Dev and Ops.
 
