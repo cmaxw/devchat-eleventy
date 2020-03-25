@@ -23,7 +23,7 @@ answer4: ''
 ---
 # [JavaScript Remote Conf 2020](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
-# [May 14th to 15th - sign up now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+# [May 14th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
 Daniel Caldas is a Portuguese developer working and living in Singapore. He learned to code in high school programming in Pascal. He moved up to the university and that's where he encountered JavaScript. He wound up doing a bunch of design work, static websites, and jQuery. He explains his journey and learning methods leading to a job working for Zendesk on their CRM.
 
