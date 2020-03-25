@@ -7,7 +7,7 @@ tags:
 - Daniel Caldas
 layout: layouts/post.njk
 title: 'MJS 142: Daniel Caldas'
-date: 2020-03-24T10:00:00+0000
+date: 2020-03-24T10:00:00.000+00:00
 episode_number: '142'
 audio_url: https://media.devchat.tv/my-js-story/MJS_142_Daniel_Caldas.mp3
 duration: '34:33'
@@ -21,6 +21,10 @@ question4: ''
 answer4: ''
 
 ---
+# [JavaScript Remote Conf 2020](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+
+# [May 14th to 15th - sign up now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+
 Daniel Caldas is a Portuguese developer working and living in Singapore. He learned to code in high school programming in Pascal. He moved up to the university and that's where he encountered JavaScript. He wound up doing a bunch of design work, static websites, and jQuery. He explains his journey and learning methods leading to a job working for Zendesk on their CRM.
 
 **Host:** Charles Max Wood
