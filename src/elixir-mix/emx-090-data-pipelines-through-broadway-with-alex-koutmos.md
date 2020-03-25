@@ -10,7 +10,7 @@ tags:
 - Alex Koutmos
 layout: layouts/post.njk
 title: 'EMx 090: Data pipelines through Broadway with Alex Koutmos'
-date: 2020-03-17T10:00:00+0000
+date: 2020-03-17T10:00:00.000+00:00
 episode_number: '90'
 audio_url: https://media.devchat.tv/elixir-mix/EMx_090_Alex_Koutmos.mp3
 duration: '36:48'
@@ -24,6 +24,10 @@ question4: ''
 answer4: ''
 
 ---
+# [JavaScript Remote Conf 2020](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+
+# [May 14th to 15th - sign up now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+
 In this episode of [ElixirMix](https://devchat.tv/elixir-mix/), we visit with [Alex Koutmos](https://twitter.com/akoutmos) about data processing pipelines in Elixir using Broadway. His multi-part blog posts go beyond “making it work” to [monitoring and visualizing the flow](https://akoutmos.com/post/broadway-rabbitmq-and-the-rise-of-elixir-two/). We discuss using RabbitMQ to process, Grafana to visualize, and much more!
 
 ### **Panelists**
