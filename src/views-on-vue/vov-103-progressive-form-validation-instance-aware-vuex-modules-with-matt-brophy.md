@@ -10,7 +10,7 @@ tags:
 layout: layouts/post.njk
 title: 'VoV 103: Progressive Form Validation & Instance Aware Vuex Modules with Matt
   Brophy'
-date: 2020-03-24T10:00:00+0000
+date: 2020-03-24T10:00:00.000+00:00
 episode_number: '103'
 audio_url: https://media.devchat.tv/viewsonvue/VoV_103_Matt_Brophy.mp3
 duration: '59:20'
@@ -38,7 +38,7 @@ In this episode of Views on Vue, guest, Matt Brophy of Urban Outfitters speaks a
 
 ### **Sponsors**
 
-* [Cloudways | Use promo code "DEVCHAT" for 30% off for 3 months on all plans](https://www.cloudways.com/en/?id=546951&chan=Devchat&data1=Vue-show&data2=Podcast-3)
+* [Cloudways | Use promo code "DEVCHAT" for 30% off for 3 months on all plans](https://www.cloudways.com/en/?id=546951&chan=Devchat&data1=Vue-show&data2=Podcast-6)
 
 ## **____________________________________________________________**
 
