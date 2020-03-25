@@ -8,7 +8,7 @@ tags:
 - Brent Schroeder
 layout: layouts/post.njk
 title: 'DevOps 027: Quest for Frictionless DevOps with Brent Schroeder from SUSE'
-date: 2020-03-24T10:00:00+0000
+date: 2020-03-24T10:00:00.000+00:00
 episode_number: '27'
 audio_url: https://media.devchat.tv/adventures-in-devops/ADO_027_Brent_Schroeder.mp3
 duration: '44:25'
@@ -22,6 +22,10 @@ question4: ''
 answer4: ''
 
 ---
+# [JavaScript Remote Conf 2020](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+
+# [May 14th to 15th - sign up now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+
 Brent Schroeder is the global CTO at SUSE. The discussion begins with a discussion around the open source and devops culture at SUSE. It branches into participation in the CloudFoundry and Cloud Native Computing Foundations. The overarching thing is going beyond development into bringing the Ops into DevOps and removes the friction between Dev and Ops.
 
 ### **Panelists**
