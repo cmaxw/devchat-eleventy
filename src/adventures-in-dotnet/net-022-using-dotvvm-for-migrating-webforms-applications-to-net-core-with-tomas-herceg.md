@@ -7,7 +7,7 @@ tags:
 layout: layouts/post.njk
 title: ".NET 022: Using DotVVM for migrating WebForms applications to .NET Core with
   Tomas Herceg"
-date: 2020-03-17T11:00:00+0000
+date: 2020-03-17T11:00:00.000+00:00
 episode_number: '022'
 audio_url: https://media.devchat.tv/adventures-in-dotnet/NET_022_Tomas_Herceg.mp3
 duration: '48:48'
@@ -21,6 +21,10 @@ question4: ''
 answer4: ''
 
 ---
+# [JavaScript Remote Conf 2020](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+
+# [May 14th to 15th - sign up now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+
 Currently working on a .NET WebForms application and want to know how to move it to .NET Core without rewriting everything? The panel discusses with Tomas Herceg about his DotVVM project and what it can do for those wanting to migrate.
 
 ### **Panel**
