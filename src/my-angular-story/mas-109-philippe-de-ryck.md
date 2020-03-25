@@ -8,7 +8,7 @@ tags:
 - security
 layout: layouts/post.njk
 title: 'MAS 109: Philippe De Ryck'
-date: 2020-02-04T11:00:00+0000
+date: 2020-02-04T11:00:00.000+00:00
 episode_number: '109'
 audio_url: https://media.devchat.tv/my-angular-story/MAS_109_Philippe_De_Ryck.mp3
 duration: '38:18'
@@ -22,6 +22,10 @@ question4: ''
 answer4: ''
 
 ---
+# [JavaScript Remote Conf 2020](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+
+# [May 14th to 15th - sign up now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+
 Philippe De Ryck is a web security expert out of Belgium. Philippe trains developers on building secure apps.
 
 Philippe started coding in high school and worked on system administration projects. He then went onto get a PhD in security. Along with security he also worked on development so when he is working with clients he can go through the code and point out security problems.
