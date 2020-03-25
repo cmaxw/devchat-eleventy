@@ -23,7 +23,7 @@ answer4: ''
 ---
 # [JavaScript Remote Conf 2020](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
-# [May 14th to 15th - sign up now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+# [May 14th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
 My Ruby Story this week welcomes Elia Schito, a senior developer for Nebulab. Elia has been working with Ruby for the past 12 years. Charles starts off by asking how Elia became a developer. One of the reasons Elia was drawn to Rails was that it is easy to set up. Upon graduation Elia worked for a company that built test equipment for satellites.  He then moved onto Web application project and development using Ruby and Rails. Elia and Charles then talk about Opal, a Ruby to JavaScript source-to-source compiler and its uses and benefits.  Charles asks about what a day in Elia's life looks like and the current projects he is working on.
 
