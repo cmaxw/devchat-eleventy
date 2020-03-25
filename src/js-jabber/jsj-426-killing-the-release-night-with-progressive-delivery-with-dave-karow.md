@@ -16,7 +16,7 @@ duration: '1:13:44'
 audio_url: https://media.devchat.tv/js-jabber/JSJ_426_Dave_Karow.mp3
 
 ---
-> # Sign up now for 
+> # JavaScript Developers Sign Up Now For 
 
 # [JavaScript Remote Conf 2020!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
