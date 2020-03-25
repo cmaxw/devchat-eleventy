@@ -16,9 +16,9 @@ duration: '1:13:44'
 audio_url: https://media.devchat.tv/js-jabber/JSJ_426_Dave_Karow.mp3
 
 ---
-# [JavaScript Remote Conf 2020!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+> # Sign up now for 
 
-JS Remote Conf is the premier online event for JavaScript developers.
+# [JavaScript Remote Conf 2020!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
 Dave Karow is a developer evangelist for Split. He dives into how you can deliver software sustainably without burning out. His background is in performance and he's moved into smooth deliveries. He pushes the ideas behind continuous delivery and how to avoid getting paid to stay late in "free" pizzas.
 
