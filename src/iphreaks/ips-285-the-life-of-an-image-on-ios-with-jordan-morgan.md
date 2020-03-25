@@ -23,7 +23,7 @@ answer4: ''
 ---
 # [JavaScript Remote Conf 2020](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
-# [May 14th to 15th - sign up now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+# [May 14th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
 Jordan Morgan is a mobile developer at Buffer. He gave a talk at Swift Tokyo. He goes into the issues around images and TableView. He went to WWDC and got a rundown of how images work under the hood on iOS. This episode is a conversation with Alex Bush about how images work on iOS and how to work around the issues that arise from your assumptions about how images are displayed, decoded, and managed on iOS.
 
