@@ -30,7 +30,7 @@ answer4: Do a lot of examples, repetitions, discuss questions with other student
 ---
 # [JavaScript Remote Conf 2020](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
-# [May 14th to 15th - sign up now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+# [May 14th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
 This episode of the DevEd podcast is joined by special guest Thomas Desmond. Thomas is a software engineer currently working with .NET and Angular, has been a university instructor for three years and has a course coming up on Thinkster.io - Creating an API with ASP.NET Core. He defines ASP.NET, and describes its relation to ASP.NET Core. He explains the process of working with .NET on a Mac, differences between Visual Studio Code and Visual Studio Mac 2019, and the learning curve involved in C# and types languages such as TypeScript.
 
