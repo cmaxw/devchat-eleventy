@@ -9,10 +9,10 @@ tags:
 - Doguhan Uluca
 - Alyssa Nicoll
 layout: layouts/post.njk
-title: 'AiA 278: Angular for Enterprise-Ready Web Apps with Doguhan Uluca'
-date: 2020-03-24T10:00:00+0000
-episode_number: '278'
-audio_url: https://media.devchat.tv/adventures-in-angular/AiA_278_Doguhan_Uluca.mp3
+title: 'AiA 279: Angular for Enterprise-Ready Web Apps with Doguhan Uluca'
+date: 2020-04-07T10:00:00+0000
+episode_number: '279'
+audio_url: https://media.devchat.tv/adventures-in-angular/AiA_279_Doguhan_Uluca.mp3
 duration: '42:36'
 question1: ''
 answer1: ''
@@ -26,14 +26,14 @@ answer4: ''
 ---
 Doguhan Uluca, the author of "Angular for Enterprise-Ready Web Applications", explains the concepts of enterprise and the Angular ecosystem. He is a strong proponent of the evergreen motto, which means the fundamentals and techniques you learn and master will be useful to you for years to come.
 
-#### **Panel:**
+### **Panel**
 
 * Chris Ford
 * Shai Reznik
 * Alyssa Nicoll
 * Charles Max Wood
 
-#### **Guest:**
+### **Guest**
 
 * Doguhan Uluca
 
@@ -43,7 +43,7 @@ Doguhan Uluca, the author of "Angular for Enterprise-Ready Web Applications", ex
 
 ## **____________________________________________________________**
 
-#### **Picks:**
+### **Picks**
 
 **Chris Ford:**
 
@@ -57,8 +57,10 @@ Doguhan Uluca, the author of "Angular for Enterprise-Ready Web Applications", ex
 **Doguhan Uluca:**
 
 * [Microsoft Edge Chromium Browser](https://www.microsoft.com/en-us/edge?&OCID=AID2000031_SEM_XihvKAAAAF9QZ0yv:20200319233545:s&msclkid=35438b8556eb1c71b88bd5f1572c0b2d&ef_id=XihvKAAAAF9QZ0yv:20200319233545:s)
-* Follow Doguhan on Twitter:  [@duluca](https://twitter.com/duluca)
+* Follow Doguhan on Twitter >  [@duluca](https://twitter.com/duluca)
 
 **Charles Max Wood:**
 
 * [Clean Coders Podcast](https://devchat.tv/clean-coders/)
+
+Follow Adventures in Angular on Twitter > [@angularpodcast](https://twitter.com/angularpodcast)

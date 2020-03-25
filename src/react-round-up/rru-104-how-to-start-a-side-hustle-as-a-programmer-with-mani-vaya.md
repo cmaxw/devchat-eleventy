@@ -7,7 +7,7 @@ tags:
 - Mani Vaya
 layout: layouts/post.njk
 title: 'RRU 104: How to Start a Side Hustle as a Programmer with Mani Vaya'
-date: 2020-03-24T10:00:00+0000
+date: 2020-03-24T10:00:00.000+00:00
 episode_number: '104'
 audio_url: https://media.devchat.tv/reactroundup/RRU_104_Mani_Vaya.mp3
 duration: '44:57'
@@ -21,6 +21,10 @@ question4: ''
 answer4: ''
 
 ---
+# [Get Mani's 10x Entrepreneurship Bundle of Book Summaries!](https://devchat--2000books.thrivecart.com/10x-entre-1/5e5458745bcb3/)
+
+Use the coupon code HUSTLE.
+
 Mani Vaya joins Charles Max Wood to talk about how developers can add the entrepreneur hat to the others they wear by starting a side gig. They discuss various ideas around entrepreneurship, the books they got them from, and how they've applied them in their own businesses.
 
 ### **Panel:**
