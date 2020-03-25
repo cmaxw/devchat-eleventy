@@ -16,7 +16,7 @@ my_speakers:
   - js20_douglas_crockford
   - js20_aimee_knight
   - js20_chris_heilmann
-  - js20_kahlil_lechelt
+  - js20_brian_rinaldi
   - js20_dan_shappir
   - js20_steve_edwards
   - js20_mike_amundsen
