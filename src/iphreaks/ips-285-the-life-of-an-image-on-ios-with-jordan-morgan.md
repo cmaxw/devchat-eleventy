@@ -7,7 +7,7 @@ tags:
 - Jordan Morgan
 layout: layouts/post.njk
 title: 'iPS 285: The Life of an Image on iOS  with Jordan Morgan'
-date: 2020-03-17T10:00:00+0000
+date: 2020-03-17T10:00:00.000+00:00
 episode_number: '285'
 audio_url: https://media.devchat.tv/iphreaks/iPS_285_Jordan_Morgan.mp3
 duration: '48:32'
@@ -21,6 +21,10 @@ question4: ''
 answer4: ''
 
 ---
+# [JavaScript Remote Conf 2020](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+
+# [May 14th to 15th - sign up now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+
 Jordan Morgan is a mobile developer at Buffer. He gave a talk at Swift Tokyo. He goes into the issues around images and TableView. He went to WWDC and got a rundown of how images work under the hood on iOS. This episode is a conversation with Alex Bush about how images work on iOS and how to work around the issues that arise from your assumptions about how images are displayed, decoded, and managed on iOS.
 
 ### **Panelists**
