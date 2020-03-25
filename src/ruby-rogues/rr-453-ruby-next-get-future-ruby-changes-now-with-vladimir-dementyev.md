@@ -9,7 +9,7 @@ tags:
 - Vladimir Dementyev
 layout: layouts/post.njk
 title: 'RR 453: Ruby Next: Get future Ruby changes now with Vladimir Dementyev'
-date: 2020-03-31T09:00:00+0000
+date: 2020-03-31T09:00:00.000+00:00
 episode_number: '453'
 audio_url: https://media.devchat.tv/ruby-rogues/RR_453_Vladimir_Dementyev.mp3
 duration: '52:35'
@@ -23,6 +23,10 @@ question4: ''
 answer4: ''
 
 ---
+# [JavaScript Remote Conf 2020](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+
+# [May 14th to 15th - sign up now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+
 We talk with Vladimir Dementyev about Ruby Next, its use cases and why you might want to get features from newer versions of Ruby in your current version
 
 ### **Panel**
