@@ -24,6 +24,10 @@ question4: ''
 answer4: ''
 
 ---
+# [JavaScript Remote Conf 2020](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+
+# [May 14th to 15th - sign up now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+
 In this episode of Views on Vue, guest, Matt Brophy of Urban Outfitters speaks about how they do progressive form enhancement, and also dynamic Vuex modules for dynamic pages.
 
 ### **Panel**
