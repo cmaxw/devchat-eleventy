@@ -26,7 +26,7 @@ answer4: ''
 ---
 # [JavaScript Remote Conf 2020](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
-# [May 14th to 15th - sign up now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+# [May 14th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
 In this episode of [ElixirMix](https://devchat.tv/elixir-mix/), we visit with [Alex Koutmos](https://twitter.com/akoutmos) about data processing pipelines in Elixir using Broadway. His multi-part blog posts go beyond “making it work” to [monitoring and visualizing the flow](https://akoutmos.com/post/broadway-rabbitmq-and-the-rise-of-elixir-two/). We discuss using RabbitMQ to process, Grafana to visualize, and much more!
 
