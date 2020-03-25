@@ -23,13 +23,11 @@ question4: ''
 answer4: ''
 
 ---
-In this episode of Elixir Mix the panelists talk with David Bernheisel about the power in Ecto. Coming from ActiveRecord, Ecto and Changesets were a wonderful alternative! They cover David’s blog post where he shares some tips and tricks for working with Changesets. They also cover, Multi, how to compose Changesets, using “embedded” schemas, and much more!
-
 # [JavaScript Remote Conf 2020](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
 # [May 14th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
-In this episode of [ElixirMix](https://devchat.tv/elixir-mix/), we visit with [Alex Koutmos](https://twitter.com/akoutmos) about data processing pipelines in Elixir using Broadway. His multi-part blog posts go beyond “making it work” to [monitoring and visualizing the flow](https://akoutmos.com/post/broadway-rabbitmq-and-the-rise-of-elixir-two/). We discuss using RabbitMQ to process, Grafana to visualize, and much more!
+In this episode of Elixir Mix the panelists talk with David Bernheisel about the power in Ecto. Coming from ActiveRecord, Ecto and Changesets were a wonderful alternative! They cover David’s blog post where he shares some tips and tricks for working with Changesets. They also cover, Multi, how to compose Changesets, using “embedded” schemas, and much more!
 
 ### **Panelists**
 
