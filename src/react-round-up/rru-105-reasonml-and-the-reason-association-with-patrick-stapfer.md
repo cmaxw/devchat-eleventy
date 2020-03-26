@@ -9,7 +9,7 @@ tags:
 - 'BuckleScript '
 layout: layouts/post.njk
 title: 'RRU 105: ReasonML and the Reason Association with Patrick Stapfer'
-date: 2020-03-31T09:00:00+0000
+date: 2020-03-31T09:00:00.000+00:00
 episode_number: '105'
 audio_url: https://media.devchat.tv/reactroundup/RRU_105_Patrick_Stapfer.mp3
 duration: '44:19'
@@ -23,6 +23,11 @@ question4: ''
 answer4: ''
 
 ---
+# [JavaScript Remote Conf 2020](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+
+# [May 14th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+
+
 Patrick Stapfer from the Reason Association joins Charles Max Wood to talk about ReasonML, functional programming, and how it fits into the React ecosystem. ReasonML is a language built and maintained by Facebook and transpiled to JavaScript using the BuckleScript project. Patrick explains when to use Reason, how to get started, and the basics of using Reason.
 
 ### **Panel**

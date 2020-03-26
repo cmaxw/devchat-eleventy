@@ -10,7 +10,7 @@ tags:
 - Alyssa Nicoll
 layout: layouts/post.njk
 title: 'AiA 279: Angular for Enterprise-Ready Web Apps with Doguhan Uluca'
-date: 2020-04-07T10:00:00+0000
+date: 2020-04-07T10:00:00.000+00:00
 episode_number: '279'
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA_279_Doguhan_Uluca.mp3
 duration: '42:36'
@@ -24,6 +24,11 @@ question4: ''
 answer4: ''
 
 ---
+# [JavaScript Remote Conf 2020](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+
+# [May 14th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+
+
 Doguhan Uluca, the author of "Angular for Enterprise-Ready Web Applications", explains the concepts of enterprise and the Angular ecosystem. He is a strong proponent of the evergreen motto, which means the fundamentals and techniques you learn and master will be useful to you for years to come.
 
 ### **Panel**

@@ -7,7 +7,7 @@ tags:
 - adv_in_angular
 layout: layouts/post.njk
 title: 'AiA 278: Working From Home'
-date: 2020-03-24T09:00:00+0000
+date: 2020-03-24T09:00:00.000+00:00
 episode_number: '278'
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA_278_Working_From_Home.mp3
 duration: '49:49'
@@ -21,6 +21,10 @@ question4: ''
 answer4: ''
 
 ---
+# [JavaScript Remote Conf 2020](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+
+# [May 14th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+
 Chris is new at working from home. Chuck and Brooks have been working from home for several years. They walk through the ins and outs of how to be productive at home with kids, family, and others at home and how to maximize communication with your team when you're not in the same place. Chuck also offers some advice to managers who find themselves suddenly managing remote workers.
 
 ### **Panel**

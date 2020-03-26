@@ -10,7 +10,7 @@ tags:
 - Mike Volkin
 layout: layouts/post.njk
 title: 'TFS 359: Don’t Do Hourly Billing with Mike Volkin'
-date: 2020-03-24T10:00:00+0000
+date: 2020-03-24T10:00:00.000+00:00
 episode_number: '359'
 audio_url: https://media.devchat.tv/freelancers/TFS_359_Mike_Volkin.mp3
 duration: '1:03:00'
@@ -24,6 +24,10 @@ question4: ''
 answer4: ''
 
 ---
+# [JavaScript Remote Conf 2020](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+
+# [May 14th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+
 Mike Volkin joins the panel to discuss the pros and cons to hourly billing. The panel discusses their challenges with value based and fixed-price pricing and get recommendations from Mike and the rest of the panel.
 
 ### **Panelists**
@@ -60,7 +64,7 @@ Mike Volkin joins the panel to discuss the pros and cons to hourly billing. The 
 
 * [The 4-Hour Body](https://www.amazon.com/4-Hour-Body-Uncommon-Incredible-Superhuman/dp/0307704610)
 * [Assault Airbike Classic](https://www.assaultfitness.com/products/airbike-classic)
-* [Tiwal 3 Small Sailboat](https://tiwal.com/tiwal3/) 
+* [Tiwal 3 Small Sailboat](https://tiwal.com/tiwal3/)
 
 **Brooks Forsyth:**
 

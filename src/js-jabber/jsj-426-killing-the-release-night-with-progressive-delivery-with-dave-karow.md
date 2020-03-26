@@ -10,12 +10,16 @@ tags:
 - Charles Max Wood
 - Dave Karow
 title: 'JSJ 426: Killing the Release Night with Progressive Delivery with Dave Karow'
-date: 2020-03-24T10:00:00Z
+date: 2020-03-24T10:00:00.000+00:00
 episode_number: 426
 duration: '1:13:44'
 audio_url: https://media.devchat.tv/js-jabber/JSJ_426_Dave_Karow.mp3
 
 ---
+# [JavaScript Remote Conf 2020](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+
+# [May 14th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+
 Dave Karow is a developer evangelist for Split. He dives into how you can deliver software sustainably without burning out. His background is in performance and he's moved into smooth deliveries. He pushes the ideas behind continuous delivery and how to avoid getting paid to stay late in "free" pizzas.
 
 ### **Panel**
@@ -65,7 +69,7 @@ Dave Karow is a developer evangelist for Split. He dives into how you can delive
 **Aimee Knight:**
 
 * [Designing for Performance](http://designingforperformance.com/)
-* [Early Riser or Night Owl?](https://directorsblog.nih.gov/2020/02/25/early-riser-or-night-owl-new-study-may-help-to-explain-the-difference/) 
+* [Early Riser or Night Owl?](https://directorsblog.nih.gov/2020/02/25/early-riser-or-night-owl-new-study-may-help-to-explain-the-difference/)
 
 **Dan Shappir:**
 
