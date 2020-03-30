@@ -47,6 +47,7 @@ Dave Karow is a developer evangelist for Split. He dives into how you can delive
 
 ### **Links**
 
+* [Split.io](https://on.split.io/33RQYMe)
 * [Continuous Delivery](https://amzn.to/2wNHiFZ)
 * [zeit.co](https://zeit.co/)
 * [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)

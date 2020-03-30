@@ -1,17 +1,16 @@
 ---
 layout: layouts/post.njk
-title: >
-  084 AiA Angular Material 2 with Jeremy Elbourn
-date: 2016-03-17 14:00:00
-episode_number: 084
-duration: 0:40:49
+title: 'AiA 084: Angular Material 2 with Jeremy Elbourn'
+date: 2016-03-17T14:00:00.000+00:00
+episode_number: '084'
+duration: 2449
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA083AngularMaterial2.mp3
 podcast: adv-in-angular
 tags:
-  - adv_in_angular
-  - podcast
----
+- adv_in_angular
+- podcast
 
+---
 02:36 - Jeremy Elbourn Introduction
 
 - [Twitter](https://twitter.com/jelbourn)
