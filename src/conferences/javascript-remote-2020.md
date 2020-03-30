@@ -11,6 +11,7 @@ registration_url: https://www.crowdcast.io/e/js-remote-conf-2020
 cfp_url: https://chuck193704.typeform.com/to/XXLjow
 hero_image: /images/conferences/laptop.jpg
 logo: /images/conferences/jsremoteconf_logo.png
+hashtag: jsremoteconf
 email_list_id: 49
 my_testimonials:
   - jsremote_erikisaksen
