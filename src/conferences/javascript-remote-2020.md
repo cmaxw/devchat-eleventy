@@ -1,6 +1,7 @@
 ---
 title: JavaScript Remote Conf 2020
 description: Online Conference about JavaScript by JavaScript Experts
+long_description: JavaScript Remote Conference is a fully online conference produced by the team that creates the JavaScript Jabber podcast. This will be the premier online experience for JavaScript developers to stay current without the hassle of travel or the risk of contagion.
 topic: JavaScript and Front-End Development
 keywords: JavaScript, HTML, CSS, Front-End, JS, Conference, Learning, Keeping Current
 layout: layouts/conference.njk
