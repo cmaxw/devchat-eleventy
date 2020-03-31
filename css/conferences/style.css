@@ -2100,6 +2100,10 @@ small {
 .counter-box .counter-content .title {
   color: #52565D;
 }
+.footer .text-alt,
+.counter-box .counter-content .title {
+  color: #B8BCC3;
+}
 a {
   -webkit-transition: color 0.2s ease;
   -moz-transition: color 0.2s ease;
