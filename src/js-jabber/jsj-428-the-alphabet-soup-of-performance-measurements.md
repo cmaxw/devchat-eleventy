@@ -29,7 +29,7 @@ audio_url: https://media.devchat.tv/js-jabber/JSJ_428_Panel.mp3
 ### **Sponsors**
 
 * [Taiko, free and open source browser test automation](https://taiko.dev/)
-* Educative.io | [Click here for 10% discount](http://educative.io/)
+* Educative.io | [Click here for 10% discount](https://www.educative.io/?siteCoupon=js-jabber-10&utm_source=podcast&utm_medium=sponsor&utm_campaign=jabber)
 
 ## **____________________________________________________________**
 
