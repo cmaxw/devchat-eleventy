@@ -33,24 +33,12 @@
 		<section id="hero" class="hero-section bg1 bg-cover window-height light-text" style="background-image:url('{{hero_image}}');">
 			<ul class="socials-nav">
 				<li class="socials-nav-item">
-					<a href="#">
+					<a href="https://twitter.com/{{twitter}}">
 						<span class="fa fa-twitter"></span></a>
 				</li>
 				<li class="socials-nav-item">
 					<a href="#">
 						<span class="fa fa-facebook"></span></a>
-				</li>
-				<li class="socials-nav-item">
-					<a href="#">
-						<span class="fa fa-github"></span></a>
-				</li>
-				<li class="socials-nav-item">
-					<a href="#">
-						<span class="fa fa-vimeo-square"></span></a>
-				</li>
-				<li class="socials-nav-item">
-					<a href="#">
-						<span class="fa fa-google-plus"></span></a>
 				</li>
 				<li class="socials-nav-item">
 					<a href="#">
@@ -81,7 +69,7 @@
 			<div class="container">
 				<div class="col-sm-2 col-xs-12 navigation-header">
 					<a href="#">
-						<img src="{{logo}}" alt="js remote conf" width="238" height="34">
+						<img loading="lazy"  src="{{logo}}" alt="js remote conf" width="238" height="34">
 					</a>
 					<button class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navigation" aria-expanded="false" aria-controls="navigation">
 						<span class="icon-bar"></span>
@@ -150,7 +138,7 @@
 				<div class="tab-content">
 					<div id="horizontal_tab1" class="tab-pane fade active in">
 						<div class="col-sm-5 img-column">
-							<img src="/images/conferences/workfromhome-small.jpg" alt="" class="img-responsive"/>
+							<img loading="lazy"  src="/images/conferences/workfromhome-small.jpg" alt="" class="img-responsive"/>
 						</div>
 						<div class="col-sm-7 align-left">
 							<h6>About {{title}}</h6>
@@ -172,13 +160,13 @@
 								</div>
 
 								<div class="col-sm-5 img-column">
-									<img src="/images/conferences/workshops.jpg" alt="" class="img-responsive"/>
+									<img loading="lazy"  src="/images/conferences/workshops.jpg" alt="" class="img-responsive"/>
 								</div>
 							</div>
 
 							<div id="horizontal_tab3" class="tab-pane fade">
 								<div class="col-sm-5 img-column">
-									<img src="/images/conferences/heart_coffee-small.jpg" alt="" class="img-responsive"/>
+									<img loading="lazy"  src="/images/conferences/heart_coffee-small.jpg" alt="" class="img-responsive"/>
 								</div>
 								<div class="col-sm-7 align-left">
 									<h6>Sponsors apply</h6>
@@ -260,7 +248,7 @@
 					{% for speaker in my_speakers %}
 						<div class="col-sm-4">
 							<div class="speaker">
-								<div class="photo-wrapper rounded"><img src="/images/conferences/speakers/{{ speakers[speaker].photo }}" alt="john doe" class="img-responsive"></div>
+								<div class="photo-wrapper rounded"><img loading="lazy"  src="/images/conferences/speakers/{{ speakers[speaker].photo }}" alt="john doe" class="img-responsive"></div>
 								<h3 class="name">{{ speakers[speaker].name }}</h3>
 								<p class="text-alt">
 									<small>{{ speakers[speaker].byline }}</small>
@@ -463,8 +451,15 @@
 							<div class="col-md-4 col-lg-3 col-lg-offset-1">
 								<div class="widget twitter-widget">
 									<h6 class="widget-head">
-										<span class="fa fa-twitter"></span> Twitter Feed</h6>
-										<a href="https://twitter.com/intent/tweet?button_hashtag={{hashtag}}&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #jsremoteconf</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+									<span class="fa fa-twitter"></span> Twitter Feed</h6>
+									<a class="twitter-timeline" 
+											href="https://twitter.com/{{twitter}}?ref_src=twsrc%5Etfw" 
+											data-width="300" 
+											data-height="300"
+											data-tweet-limit="3">
+											Tweets by @{{twitter}}
+									</a> 
+									<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 								</div>
 							</div>
 
@@ -474,15 +469,15 @@
 										<span class="fa fa-instagram"></span> Photo feed</h6>
 
 									<ul class="instagram-list">
-										<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
-										<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
-										<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
-										<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
-										<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
-										<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
-										<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
-										<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
-										<li><img src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
+										<li><img loading="lazy"  src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
+										<li><img loading="lazy"  src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
+										<li><img loading="lazy"  src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
+										<li><img loading="lazy"  src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
+										<li><img loading="lazy"  src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
+										<li><img loading="lazy"  src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
+										<li><img loading="lazy"  src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
+										<li><img loading="lazy"  src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
+										<li><img loading="lazy"  src="/images/conferences/gallery/footer-photo.jpg" alt="photo"/></li>
 									</ul>
 								</div>
 							</div>
