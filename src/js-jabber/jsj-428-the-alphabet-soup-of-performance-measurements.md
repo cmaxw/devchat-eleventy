@@ -55,7 +55,7 @@ audio_url: https://media.devchat.tv/js-jabber/JSJ_428_Panel.mp3
 
 **Dan Shappir:**
 
-* [New accessibility feature in Chrome Dev Tools: simulate vision deficiencies, simulate vision deficiencies, including blurred vision & various types of color blindness. In Canary at the bottom of the Rendering tab.](https://developers.google.com/web/updates/2020/03/devtools)
+* [New accessibility feature in Chrome Dev Tools:](https://developers.google.com/web/updates/2020/03/devtools) simulate vision deficiencies, simulate vision deficiencies, including blurred vision & various types of color blindness. In Canary at the bottom of the Rendering tab.
 * [Better Call Saul](https://www.amc.com/shows/better-call-saul)
 
 Follow JavaScript Jabber on Twitter > [@JSJabber](https://twitter.com/JSJabber)
