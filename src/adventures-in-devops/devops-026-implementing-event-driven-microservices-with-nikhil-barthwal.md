@@ -9,7 +9,7 @@ tags:
 - Nikhil Barthwal
 layout: layouts/post.njk
 title: 'DevOps 026: Implementing Event-driven Microservices with Nikhil Barthwal'
-date: 2020-03-17T10:00:00+0000
+date: 2020-03-17T10:00:00.000+00:00
 episode_number: '26'
 audio_url: https://media.devchat.tv/adventures-in-devops/ADO_026_Nikhil_Barthwal.mp3
 duration: '59:22'
@@ -23,7 +23,7 @@ question4: ''
 answer4: ''
 
 ---
-Nikhil Barthwal works on Google Cloud Platform on Serverless. He joins the panel to talk about microservices versus monoliths. He begins by defining microservices. Then he how they fit into application architecture to enable scaling and flexibility. He explains how to apply Domain Driven Design to keep like functtionality in one microservice.
+Nikhil Barthwal works at Google on Serverless products on Google Cloud Platform. He joins the panel to talk about Implementing Event Driven Microservices. He starts with defining what Microservices are and motivations to move from Monolithic to Microservices. He then dives into distributed data in Microservices and problems associated with it. He goes into details of using Domain Driven Design for partitioning data and solutions to keep data consistent & querying scattered data.
 
 ### **Panelist**
 
@@ -76,5 +76,5 @@ Nikhil Barthwal works on Google Cloud Platform on Serverless. He joins the panel
 
 **Nikhil Barthwal:**
 
-* Export F Sharp
+* Expert F#
 * The Lean Startup
