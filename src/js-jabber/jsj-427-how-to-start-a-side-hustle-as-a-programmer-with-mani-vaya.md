@@ -7,7 +7,7 @@ tags:
 - Charles Max Wood
 - Mani Vaya
 title: 'JSJ 427: How to Start a Side Hustle as a Programmer with Mani Vaya'
-date: 2020-03-31T10:00:00Z
+date: 2020-03-31T10:00:00.000+00:00
 episode_number: 427
 duration: '45:11'
 audio_url: https://media.devchat.tv/js-jabber/JSJ_427_Mani_Vaya.mp3
@@ -17,17 +17,18 @@ audio_url: https://media.devchat.tv/js-jabber/JSJ_427_Mani_Vaya.mp3
 
 # [May 14th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
+  
 Mani Vaya joins Charles Max Wood to talk about how developers can add the enterepreneur hat to the others they wear by starting a side gig. They discuss various ideas around entrepreneurship, the books they got them from, and how they've applied them in their own businesses.
 
-### **Panel:**
+### **Panel**
 
 * Charles Max Wood
 
-### **Guest:**
+### **Guest**
 
 * Mani Vaya
 
-### **Sponsors:**
+### **Sponsors**
 
 * [Taiko](https://taiko.dev/)
 
@@ -37,7 +38,7 @@ Mani Vaya joins Charles Max Wood to talk about how developers can add the entere
 
 ## **____________________________________________________________**
 
-### **Picks:**
+### **Picks**
 
 **Mani Vaya:**
 
@@ -49,4 +50,4 @@ Mani Vaya joins Charles Max Wood to talk about how developers can add the entere
 * [Expert Secrets](https://www.amazon.com/Expert-Secrets-Underground-Playbook-Creating/dp/1683504585)
 * [The Masked Singer](https://www.fox.com/the-masked-singer/)
 
-Follow JavaScript Jabber on Twitter > [@JSJabb](https://twitter.com/JSJabber)
+Follow JavaScript Jabber on Twitter > [@JSJabber](https://twitter.com/JSJabber)
