@@ -9,7 +9,7 @@ tags:
 - Wai Liu
 layout: layouts/post.njk
 title: ".NET 023: C#, NodaTime, versioning, and diversity with Jon Skeet Pt1"
-date: 2020-03-31T09:00:00+0000
+date: 2020-03-31T09:00:00.000+00:00
 episode_number: '023'
 audio_url: https://media.devchat.tv/adventures-in-dotnet/NET_023_Jon_Skeet_Pt1.mp3
 duration: '36:00'
@@ -23,6 +23,11 @@ question4: ''
 answer4: ''
 
 ---
+# [JavaScript Remote Conf 2020](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+
+# [May 14th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+
+  
 Jon Skeet who has nearly 1.2M reputation on Stack Overflow discusses everything from where it all started, to some of his projects – including NodaTime and drum kit customization. The panel also discusses what’s wrong with versioning in .NET and their thoughts on diversity in the tech industry.
 
 ### **Panel**
