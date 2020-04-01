@@ -15,6 +15,11 @@ logo: /images/conferences/jsremoteconf_logo.png
 twitter: railsremoteconf
 sponsor_prospectus: /SponsorPackages.pdf
 email_list_id: 49
+tags:
+  - conference
+  - ruby
+  - rails
+  - web-development
 my_testimonials:
   - jsremote_erikisaksen
 my_speakers:
