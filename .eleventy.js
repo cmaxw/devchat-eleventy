@@ -8,6 +8,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy('js');
   eleventyConfig.addPassthroughCopy('fonts');
   eleventyConfig.addPassthroughCopy('_redirects');
+  eleventyConfig.addPassthroughCopy('SponsorPackages.pdf');
 
   eleventyConfig.addNunjucksFilter('date', nunjucksDate);
   eleventyConfig.addNunjucksFilter('sitemapdate', (dateobj) => {

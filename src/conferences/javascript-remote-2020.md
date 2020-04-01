@@ -12,6 +12,7 @@ cfp_url: https://chuck193704.typeform.com/to/XXLjow
 hero_image: /images/conferences/laptop.jpg
 logo: /images/conferences/jsremoteconf_logo.png
 twitter: jsremoteconf
+sponsor_prospectus: /SponsorPackages.pdf
 email_list_id: 49
 my_testimonials:
   - jsremote_erikisaksen
