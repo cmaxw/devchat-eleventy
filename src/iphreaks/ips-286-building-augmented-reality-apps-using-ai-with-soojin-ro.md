@@ -26,7 +26,7 @@ answer4: ''
 
 # [May 14th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
-Soojin Ro gave a talk and demo of an Augmented Reality application he built at the try!Swift NYC Conference. He walks Chuck and Alex through how to build and design Augmented Reality applications and how you need to think about translating details from your camera to targets on your screen.
+Soojin Ro gave a talk and demo of an Augmented Reality application he built at try!Swift NYC Conference. He walks Chuck and Alex through how to build and design Augmented Reality applications and how you need to think about translating details from your camera to targets on your screen.
 
 ### **Panelists**
 
