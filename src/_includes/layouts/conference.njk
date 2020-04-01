@@ -141,7 +141,8 @@
 						</div>
 						<div class="col-sm-7 align-left">
 							<h6>About {{title}}</h6>
-							<p>{{long_description}}<p>
+							<p>{{long_description}}
+								<p>
 									<p>Ticket includes:</p>
 									<ul>
 										<li>Access to all sessions live.</li>
@@ -400,6 +401,43 @@
 					<script src="https://devchat.activehosted.com/f/embed.php?id={{email_list_id}}" type="text/javascript" charset="utf-8"></script>
 				</div>
 			</section>
+			<section id="prices" class="section align-center">
+				<div class="container">
+					<span class="icon section-icon icon-shopping-04"></span>
+					<h3>Tickets</h3>
+					<p class="text-alt">Get yours <span class="highlight">today</span></p>
+					<br/>
+					<br/>
+
+					<div class="row">
+						<div class="col-sm-4 col-sm-offset-4">
+							<div class="package-column">
+								<h6 class="package-title">Live Conference</h6>
+								<div class="package-price">
+									<span class="currency">$</span>75
+								</div>
+								<div class="package-detail">
+									<ul>
+										<li>
+											<span class="fa fa-check check-icon"></span>Live Participation</li>
+										<li>
+											<span class="fa fa-check check-icon"></span>Online RoundTable Chats</li>
+										<li>
+											<span class="fa fa-check check-icon"></span>Talk Recordings</li>
+										<li>
+											<span class="fa fa-check check-icon"></span>Discord Server</li>
+										<li>
+											<span class="fa fa-check check-icon"></span>COVID-19 Free Virtual Handshakes</li>
+										<li>
+											<span class="fa fa-check check-icon"></span>Online Meet and Greet Session</li>
+									</ul>
+								</div>
+								<a href="{{registration_url}}" class="btn btn-lg btn-outline-clr">Buy now</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
 
 			<section id="feedback" class="section align-center" style="padding-top: 25px;">
 				<div class="container">
@@ -450,14 +488,14 @@
 							<div class="col-md-4 col-lg-3 col-lg-offset-1">
 								<div class="widget twitter-widget">
 									<h6 class="widget-head">
-									<span class="fa fa-twitter"></span> Twitter Feed</h6>
+										<span class="fa fa-twitter"></span> Twitter Feed</h6>
 									<a class="twitter-timeline" 
-											href="https://twitter.com/{{twitter}}?ref_src=twsrc%5Etfw" 
+											href="https://twitter.com/{{twitter}}?ref_src=twsrc%5etfw" 
 											data-width="300" 
 											data-height="300"
 											data-tweet-limit="3">
 											Tweets by @{{twitter}}
-									</a> 
+									</a>
 									<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 								</div>
 							</div>
