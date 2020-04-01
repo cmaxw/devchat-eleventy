@@ -1,0 +1,6 @@
+{
+  "name": "Jon Skeet",
+  "photo": "jon-skeet.jpg",
+  "bio": "Jon Skeet is a Staff Developer Platform Engineer at Google, working on Google Cloud Platform client libraries for .NET, based in the London office. (That's the theory, anyway. Most of the time he works from his shed instead.) He's best known for contributions to Stack Overflow as well as his book, C# in Depth. Additionally he is the primary maintainer of the Noda Time date/time library for .NET. Outside of software, Jon is a committed Christian, and enjoys theatre (particularly musical theatre), playing board games, and spending time with his amazing family.",
+  "twitter": "https://twitter.com/jonskeet"
+}
