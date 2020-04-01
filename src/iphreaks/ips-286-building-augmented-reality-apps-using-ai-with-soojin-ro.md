@@ -8,7 +8,7 @@ tags:
 - Soojin Ro
 layout: layouts/post.njk
 title: 'iPS 286: Building Augmented Reality Apps using AI with Soojin Ro'
-date: 2020-03-31T10:00:00+0000
+date: 2020-03-31T10:00:00.000+00:00
 episode_number: '286'
 audio_url: https://media.devchat.tv/iphreaks/iPS_286_Soojin_Ro.mp3
 duration: '58:19'
@@ -26,7 +26,7 @@ answer4: ''
 
 # [May 14th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
-Soojin Ro gave a talk and demo of an Augmented Reality application he built at the iOS Singapore conference. He walks Chuck and Alex through how to build and design Augmented Reality applications and how you need to think about translating details from your camera to targets on your screen.
+Soojin Ro gave a talk and demo of an Augmented Reality application he built at the try!Swift NYC Conference. He walks Chuck and Alex through how to build and design Augmented Reality applications and how you need to think about translating details from your camera to targets on your screen.
 
 ### **Panelists**
 
