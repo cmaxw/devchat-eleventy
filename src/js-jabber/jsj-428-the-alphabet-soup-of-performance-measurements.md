@@ -8,8 +8,8 @@ tags:
 - Steve Edwards
 - Aimee Knight
 - AJ O’Neal
-title: 'JSJ 428: The alphabet soup of performance measurements'
-date: 2020-04-07T10:00:00Z
+title: 'JSJ 428: The Alphabet Soup of Performance Measurements'
+date: 2020-04-07T10:00:00.000+00:00
 episode_number: 428
 duration: '1:17:14'
 audio_url: https://media.devchat.tv/js-jabber/JSJ_428_Panel.mp3
@@ -18,6 +18,8 @@ audio_url: https://media.devchat.tv/js-jabber/JSJ_428_Panel.mp3
 # [JavaScript Remote Conf 2020](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
 # [May 14th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+
+Dan Shappir takes the lead to explain all of the acronyms and metrics for measuring the performance of your web applications. He leads a discussion through the ins and outs of monitoring performance and then how to improve and check up on how your website is doing.
 
 ### **Panel**
 
