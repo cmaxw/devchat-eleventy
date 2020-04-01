@@ -107,6 +107,22 @@ module.exports = function(eleventyConfig) {
     });
   });
 
+  eleventyConfig.addCollection('upcoming_conferences', function(collection) {
+    return collection.getFilteredByTag('conference').sort(function(a, b) {
+      return a.end_date - b.end_date;
+    }).filter(function(item) {
+      return item.end_date >= today;
+    });
+  });
+
+  eleventyConfig.addCollection('past_conferences', function(collection) {
+    return collection.getFilteredByTag('conference').sort(function(a, b) {
+      return b.end_date - a.end_date;
+    }).filter(function(item) {
+      return item.end_date < today;
+    });
+  });
+
   return {
     templateFormats: ['md', 'njk', 'html', 'liquid'],
 

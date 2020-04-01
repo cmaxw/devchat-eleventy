@@ -1,6 +1,7 @@
 ---
 title: Rails Remote Conf 2020
 description: Online Conference about Rails by Rails Experts
+long_description: RailsConf 2020 was canceled due to COVID-19. This conference is designed to provide the training and interaction without the risk of being in person. 
 topic: Ruby and Ruby on Rails
 keywords: Ruby, HTML, CSS, Rails, Ruby on Rails, Conference, Learning, Keeping Current
 layout: layouts/conference.njk

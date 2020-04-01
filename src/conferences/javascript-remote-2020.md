@@ -14,6 +14,10 @@ logo: /images/conferences/jsremoteconf_logo.png
 twitter: jsremoteconf
 sponsor_prospectus: /SponsorPackages.pdf
 email_list_id: 49
+tags:
+  - conference
+  - javascript
+  - frontend
 my_testimonials:
   - jsremote_erikisaksen
 my_speakers:
