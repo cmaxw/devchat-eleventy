@@ -9,7 +9,10 @@ start_date: 2020-06-24
 end_date: 2020-06-26
 registration_url: https://www.crowdcast.io/e/rails-remote-conf-2020
 cfp_url: https://chuck193704.typeform.com/to/kUQhvR
-hero_image: /images/conferences/laptop.jpg
+hero_image: /images/conferences/virus-conf-background.jpg
+logo: /images/conferences/jsremoteconf_logo.png
+twitter: railsremote
+sponsor_prospectus: /SponsorPackages.pdf
 email_list_id: 49
 my_testimonials:
   - jsremote_erikisaksen
