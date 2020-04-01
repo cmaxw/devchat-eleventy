@@ -7,6 +7,7 @@ keywords: JavaScript, HTML, CSS, Front-End, JS, Conference, Learning, Keeping Cu
 layout: layouts/conference.njk
 start_date: 2020-05-14
 end_date: 2020-05-15
+date: 2020-05-15
 registration_url: https://www.crowdcast.io/e/js-remote-conf-2020
 cfp_url: https://chuck193704.typeform.com/to/XXLjow
 hero_image: /images/conferences/laptop.jpg

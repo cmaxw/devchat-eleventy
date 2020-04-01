@@ -109,17 +109,17 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addCollection('upcoming_conferences', function(collection) {
     return collection.getFilteredByTag('conference').sort(function(a, b) {
-      return a.end_date - b.end_date;
+      return a.date - b.date;
     }).filter(function(item) {
-      return item.end_date >= today;
+      return item.date >= today;
     });
   });
 
   eleventyConfig.addCollection('past_conferences', function(collection) {
     return collection.getFilteredByTag('conference').sort(function(a, b) {
-      return b.end_date - a.end_date;
+      return b.date - a.date;
     }).filter(function(item) {
-      return item.end_date < today;
+      return item.date < today;
     });
   });
 

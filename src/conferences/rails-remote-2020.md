@@ -7,6 +7,7 @@ keywords: Ruby, HTML, CSS, Rails, Ruby on Rails, Conference, Learning, Keeping C
 layout: layouts/conference.njk
 start_date: 2020-06-24
 end_date: 2020-06-26
+date: 2020-06-26
 registration_url: https://www.crowdcast.io/e/rails-remote-conf-2020
 cfp_url: https://chuck193704.typeform.com/to/kUQhvR
 hero_image: /images/conferences/virus-conf-background.jpg
