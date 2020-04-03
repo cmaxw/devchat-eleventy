@@ -28,6 +28,7 @@ my_speakers:
   - js20_aimee_knight
   - js20_chris_heilmann
   - js20_dan_shappir
+  - js20_idowu_emehinola
   - js20_gant_laborde
   - js20_brian_rinaldi
   - js20_james_quick
