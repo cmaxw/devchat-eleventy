@@ -30,6 +30,7 @@ my_speakers:
   - js20_dan_shappir
   - js20_gant_laborde
   - js20_brian_rinaldi
+  - js20_james_quick
   - js20_steve_edwards
   - js20_mike_amundsen
   - js20_bryan_horn
