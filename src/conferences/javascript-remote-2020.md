@@ -31,6 +31,7 @@ my_speakers:
   - js20_idowu_emehinola
   - js20_gant_laborde
   - js20_brian_rinaldi
+  - js20_aleksandra_sikora
   - js20_james_quick
   - js20_steve_edwards
   - js20_mike_amundsen
