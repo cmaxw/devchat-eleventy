@@ -9,7 +9,7 @@ tags:
 - Will Bunker
 layout: layouts/post.njk
 title: 'TFS 361: Moving in and out of Freelancing with Will Bunker'
-date: 2020-04-07T10:00:00+0000
+date: 2020-04-07T10:00:00.000+00:00
 episode_number: '361'
 audio_url: https://media.devchat.tv/freelancers/TFS_361_Will_Bunker.mp3
 duration: '53:52'
@@ -43,7 +43,7 @@ This week's guest of The Freelancers' Show, Will Bunker has had a long career in
 
 * [Cloudways | Use promo code "DEVCHAT" for 30% off for 3 months on all plans](https://www.cloudways.com/en/?id=546951&chan=Devchat&data1=Freelancer-show&data2=Podcast-5)
 * [LessAccounting | An easy to use software plus a bookkeeping service done by a real human](https://www.lessaccounting.com/bookkeeping/?source=thefreelancershow)
-* [Sentry](http://sentry.io/)
+* [Springboard | Promo code "JABBER" gives $500 off the job-guaranteed Course](https://www.springboard.com/workshops/software-engineering-career-track/?utm_source=devchat&utm_medium=podcast&utm_campaign=reactroundup)
 * [CacheFly](https://www.cachefly.com/)
 
 ## **____________________________________________________________**
