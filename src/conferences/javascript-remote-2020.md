@@ -6,7 +6,7 @@ long_description: JavaScript Remote Conference is a fully online conference prod
 topic: JavaScript and Front-End Development
 keywords: JavaScript, HTML, CSS, Front-End, JS, Conference, Learning, Keeping Current
 layout: layouts/conference.njk
-start_date: 2020-05-14
+start_date: 2020-05-13
 end_date: 2020-05-15
 date: 2020-05-15
 registration_url: https://www.crowdcast.io/e/js-remote-conf-2020
