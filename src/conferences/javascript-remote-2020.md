@@ -33,6 +33,7 @@ my_speakers:
   - js20_brian_rinaldi
   - js20_aleksandra_sikora
   - js20_james_quick
+  - js20_bramus_van_damme
   - js20_steve_edwards
   - js20_mike_amundsen
   - js20_bryan_horn
