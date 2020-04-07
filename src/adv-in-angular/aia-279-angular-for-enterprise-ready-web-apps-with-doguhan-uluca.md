@@ -8,6 +8,7 @@ tags:
 - Charles Max Wood
 - Doguhan Uluca
 - Alyssa Nicoll
+- adv_in_angular
 layout: layouts/post.njk
 title: 'AiA 279: Angular for Enterprise-Ready Web Apps with Doguhan Uluca'
 date: 2020-04-07T10:00:00.000+00:00
