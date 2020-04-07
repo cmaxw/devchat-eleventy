@@ -17,6 +17,7 @@ logo: /images/conferences/jsremoteconf_logo.png
 twitter: jsremoteconf
 sponsor_prospectus: /SponsorPackages.pdf
 email_list_id: 49
+hosted_on: Crowdcast
 tags:
   - conference
   - javascript
@@ -40,4 +41,43 @@ my_speakers:
   - js20_mike_amundsen
   - js20_bryan_horn
   - js20_mark_hasara
+my_sessions:
+  day1:
+    - js20_05_13_0800
+    - js20_05_13_0900
+    - js20_05_13_1000
+    - js20_05_13_1100
+    - js20_05_13_1230
+    - js20_05_13_1330
+    - js20_05_13_1430
+    - js20_05_13_1530
+    - js20_05_13_1630
+  day2:
+    - js20_05_14_0800
+    - js20_05_14_0900
+    - js20_05_14_1000
+    - js20_05_14_1100
+    - js20_05_14_1230
+    - js20_05_14_1330
+    - js20_05_14_1430
+    - js20_05_14_1530
+    - js20_05_14_1630
+  day3:
+    - js20_05_15_0800
+    - js20_05_15_0900
+    - js20_05_15_1000
+    - js20_05_15_1100
+    - js20_05_15_1230
+    - js20_05_15_1330
+    - js20_05_15_1430
+    - js20_05_15_1530
+    - js20_05_15_1630
+days:
+  day1: May 13, 2020
+  day2: May 14, 2020
+  day3: May 15, 2020
+daykeys:
+  - day1
+  - day2
+  - day3
 ---

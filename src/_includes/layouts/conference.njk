@@ -290,7 +290,7 @@
 				<div class="container">
 					<span class="icon section-icon icon-office-21"></span>
 					<h3>Schedule</h3>
-					<p class="text-alt">Vast number of different speeches<br/> and <span class="highlight">activities</span></p>
+					<p class="text-alt">Come listen to our amazing experts<br/> and <span class="highlight">join other activities</span></p>
 					<br/>
 					<br/>
 
@@ -299,89 +299,75 @@
 
 						<!-- Navigation by day start -->
 						<ul class="nav nav-schedule">
-							<li class="active">
-								<a href="#day1" data-toggle="tab">
-									<h5 class="highlight">Day 1</h5>
-									<p class="text-alt">05/14/2020</p>
-								</a>
-							</li>
-							<li>
-								<a href="#day2" data-toggle="tab">
-									<h5 class="highlight">Day 2</h5>
-									<p class="text-alt">05/15/2020</p>
-								</a>
-							</li>
+							{% for day in daykeys %}
+								<li{% if loop.index == 1 %} class="active"{% endif %}>
+									<a href="#{{day}}" data-toggle="tab">
+										<h5 class="highlight">Day {{loop.index}}</h5>
+										<p class="text-alt">{{days[day]}}</p>
+									</a>
+								</li>
+							{% endfor %}
 						</ul>
 						<!-- Navigation by day end -->
 
 						<!-- First level content start -->
 						<div class="tab-content">
+							{% for day in daykeys %}
 
-							<!-- Day 1 content start -->
-							<div id="day1" class="tab-pane fade active in">
+								<!-- Day 1 content start -->
+								<div id="{{day}}" class="tab-pane fade {% if loop.index == 1 %}active {% endif %}in">
 
-								<!-- Navigation by auditorium start -->
-								<ul class="nav nav-schedule">
-									<li class="active">
-										<a href="#day1_auditorium1" data-toggle="tab">Zoom Room</a>
-									</li>
-								</ul>
-								<!-- Navigation by auditorium start -->
+									<!-- Navigation by auditorium start -->
+									<ul class="nav nav-schedule">
+										<li class="active">
+											<a href="#{{day}}_auditorium1" data-toggle="tab">{{hosted_on}}</a>
+										</li>
+									</ul>
+									<!-- Navigation by auditorium start -->
 
-								<!-- Second level content start -->
-								<div class="tab-content tab-content-schedule">
+									<!-- Second level content start -->
+									<div class="tab-content tab-content-schedule">
 
-									<!-- Auditorium 1 content start -->
-									<div id="day1_auditorium1" class="tab-pane fade active in">
+										<!-- Auditorium 1 content start -->
+										<div id="{{day}}_auditorium1" class="tab-pane fade active in">
 
-										<!-- Accordion start -->
-										<div class="panel-group" id="day1_auditorium1_timeline">
+											<!-- Accordion start -->
+											<div class="panel-group" id="{{day}}_auditorium1_timeline">
+												{% for sessionkey in my_sessions[day] %}
+													{% set session = sessions[sessionkey] %}
+													<!-- Lecture start -->
+													<div class="panel schedule-item">
+														<div class="lecture-icon-wrapper">
+															<img src="{{speakers[session.speaker].photo}}" alt="" class="img-responsive">
+														</div>
+														<a data-toggle="collapse" data-parent="#{{day}}_auditorium1_timeline" href="#{{day}}_auditorium1_time{{loop.index}}" class="schedule-item-toggle">
+															<strong class="time highlight">
+																<span class="icon icon-office-24"></span>{{session.start_time}}</strong>
+															<h6 class="title">{{session.title}}
+																<i class="icon icon-arrows-06"></i>
+															</h6>
+														</a>
+														<div id="{{day}}_auditorium1_time{{loop.index}}" class="panel-collapse collapse in schedule-item-body">
+															<article>
+																<p class="description">{{session.description}}</p>
+																<strong class="highlight speaker-name">{{speakers[session.speaker].name}}</strong>
+															</article>
+														</div>
+													</div>
+													<!-- Lecture end -->
+												{% endfor %}
+											</div>
+											<!-- Accordion end -->
 
-									Coming Soon
-								</div>
-										<!-- Accordion end -->
-
-									</div>
-									<!-- Auditorium 1 content end -->
-
-								</div>
-								<!-- Second level content end -->
-
-							</div>
-							<!-- Day 1 content end -->
-
-							<!-- Day 2 content start -->
-							<div id="day2" class="tab-pane fade in">
-
-								<!-- Navigation by auditorium start -->
-								<ul class="nav nav-schedule">
-									<li class="active">
-										<a href="#day2_auditorium1" data-toggle="tab">Zoom Room</a>
-									</li>
-								</ul>
-								<!-- Navigation by auditorium end -->
-
-								<!-- Second level content start -->
-								<div class="tab-content tab-content-schedule">
-
-									<!-- Auditorium 1 content start -->
-									<div id="day2_auditorium1" class="tab-pane fade active in">
-
-										<!-- Accordion start -->
-										<div class="panel-group" id="day2_auditorium1_timeline">
-									Coming Soon.
-								</div>
-										<!-- Accordion end -->
+										</div>
+										<!-- Auditorium 1 content end -->
 
 									</div>
-									<!-- Auditorium 1 content end -->
+									<!-- Second level content end -->
 
 								</div>
-								<!-- Second level content end -->
-
-							</div>
-							<!-- Day 2 content end -->
-
+								<!-- Day 1 content end -->
+							{% endfor %}
 						</div>
 						<!-- First level content end -->
 
@@ -529,7 +515,32 @@
 							<p class="text-alt">let us know your <span class="highlight">thoughts</span></p>
 							<br/>
 							<br/>
-							<div class="typeform-widget" data-url="https://chuck193704.typeform.com/to/zzHNSP" style="width: 100%; height: 500px;"></div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script> <div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;"> powered by <a href="https://admin.typeform.com/signup?utm_campaign=zzHNSP&utm_source=typeform.com-01E07CTG421BQV24PSEWCXNRDE-professional&utm_medium=typeform&utm_content=typeform-embedded-poweredbytypeform&utm_term=EN" style="color: #999" target="_blank">Typeform</a> </div>
+							<div class="typeform-widget" data-url="https://chuck193704.typeform.com/to/zzhnsp" style="width: 100%; height: 500px;"></div>
+							<script>
+								(function () {
+									var qs,
+										js,
+										q,
+										s,
+										d = document,
+										gi = d.getElementById,
+										ce = d.createElement,
+										gt = d.getElementsByTagName,
+										id = "typef_orm",
+										b = "https://embed.typeform.com/";
+									if (!gi.call(d, id)) {
+										js = ce.call(d, "script");
+										js.id = id;
+										js.src = b + "embed.js";
+										q = gt.call(d, "script")[0];
+										q
+											.parentNode
+											.insertBefore(js, q)
+									}
+								})()
+							</script>
+							<div style="font-family: sans-serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;"> powered by <a href="https://admin.typeform.com/signup?utm_campaign=zzhnsp&utm_source=typeform.com-01e07ctg421bqv24psewcxnrde-professional&utm_medium=typeform&utm_content=typeform-embedded-poweredbytypeform&utm_term=en" style="color: #999" target="_blank">Typeform</a>
+							</div>
 						</div>
 					</section>
 
