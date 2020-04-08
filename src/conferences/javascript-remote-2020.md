@@ -35,6 +35,7 @@ my_speakers:
   - js20_aleksandra_sikora
   - js20_james_quick
   - js20_raymond_camden
+  - js20_anuradha_kumari
   - js20_ilya_verbitskiy
   - js20_tamas_piros
   - js20_bramus_van_damme

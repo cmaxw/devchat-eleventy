@@ -1,6 +1,6 @@
 {
-  "title": "TBD",
-  "description": "TBD",
-  "speaker": "js20_base",
+  "title": "Writing accessible JavaScript",
+  "description": "When we think about accessibility, we mainly think about HTML, how using semantics tags and many other HTML coding best practices help with making the websites more and more accessible. But, in this talk we will see how we can make or break accessibility of a website through JavaScript. The topics covered in the talk will vary from introduction to a11y, to exploring some simple ways to check and preserve the same through JavaScript code.",
+  "speaker": "js20_anuradha_kumari",
   "start_time": "9:00 AM MDT"
 }
