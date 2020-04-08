@@ -1,6 +1,6 @@
 {
-  "title": "TBD",
-  "description": "TBD",
-  "speaker": "js20_base",
+  "title": "Kubernetes for (JS) Developers",
+  "description": "An average developer thinks Kubernetes is just a buzz word that makes a DevOps engineer on his/her team sound smart. That's not totally true. The purpose of this talk is to break down into details the fundamentals of Kubernetes and make developers comfortable enough to deploy simple applications on Kubernetes and to hold conversations about it.",
+  "speaker": "js20_idowu_emehinola",
   "start_time": "3:30 PM MDT"
 }
