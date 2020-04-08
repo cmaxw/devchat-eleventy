@@ -1,6 +1,6 @@
 {
-  "title": "Functional TypeScript",
-  "description": "TypeScript is an odd duck. It's a language designed by C# engineers with an object-oriented persuasion. But it's built on JavaScript, a slapdash ode to Scheme. Is there room for both approaches? Of course! We're engineers. We can just learn what suits us and happily ignore the rest! This talk will focus on the awesome TypeScript tools you can use to statically type your functional JavaScript. Get ready for a lot of interfaces and generics, and not a single mention of classes or (shudder) access modifiers.",
-  "speaker": "js20_zac_delventhal",
+  "title": "TBD",
+  "description": "TBD",
+  "speaker": "js20_base",
   "start_time": "1:30 PM MDT"
 }
