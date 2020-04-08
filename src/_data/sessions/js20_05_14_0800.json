@@ -1,6 +1,6 @@
 {
-  "title": "TBD",
-  "description": "TBD",
-  "speaker": "js20_base",
+  "title": "Supercharge your JavaScript with Web Assembly",
+  "description": "Browser and Web APIs along with JavaScript have seen an incredible amount of development and enhancement over the past decade, however they still have certain limitations. With the rise of Web Assembly we can very easily enhance JavaScript and give our application(s) access to low-level processing and potentially transform web experiences. By the end of the talk attendees will have a throughout understanding of Web Assembly, and why it's such a great option for extending the capabilities of the browser and JavaScript via a real life example.",
+  "speaker": "js20_tamas_piros",
   "start_time": "8:00 AM MDT"
 }
