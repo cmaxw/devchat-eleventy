@@ -1,7 +1,6 @@
 {
   "title": "ESNext: Proposals to look forward to",
-  "description": "With the yearly ECMAScript releases (ES2015..ES2020) of a lot of things have changed in JavaScript-land, and there's even more to come. 
-  This talk takes a look at a few of the newest (ES2020) and some of the upcoming ECMAScript features, which (hopefully) will become part of the ECMAScript Language Specification in the near future.",
+  "description": "With the yearly ECMAScript releases (ES2015..ES2020) of a lot of things have changed in JavaScript-land, and there's even more to come. This talk takes a look at a few of the newest (ES2020) and some of the upcoming ECMAScript features, which (hopefully) will become part of the ECMAScript Language Specification in the near future.",
   "speaker": "js20_bramus_van_damme",
   "start_time": "9:00 AM MDT"
 }
