@@ -1,6 +1,6 @@
 {
-  "title": "TBD",
-  "description": "TBD",
-  "speaker": "js20_base",
+  "title": "Improving Website Loading Performance With Resource Hints",
+  "description": "The easiest way to ruin the performance of a website is to block rendering on resource downloads: synchronous JavaScript, CSS, or custom fonts. Browsers usually download resources on-demand, but that can be too late, resulting in lengthy delays, blank displays, frustration for visitors, and high bounce rates. Fortunately modern browsers provide multiple methods for optimizing resource downloads called “resource hints”, such as preload, prefetch, preconnect, and others. When used properly, resource hints can significantly reduce delays, and speed up page load time. But when used incorrectly, they can actually degrade performance. In this talk I explain when and how to use resource hints, and the potentially surprising interactions between them and regular resource downloads.",
+  "speaker": "js20_dan_shappir",
   "start_time": "9:00 AM MDT"
 }
