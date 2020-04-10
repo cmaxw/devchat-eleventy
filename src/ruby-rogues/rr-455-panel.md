@@ -51,7 +51,7 @@ This episode is a roundup discussion about what the podcast hosts have going on 
 * [About Swagger Specification](https://swagger.io/docs/specification/about/)
 * [JavaScript Remote Conf 2020](https://devchat.tv/conferences/javascript-remote-2020/)
 * [GatsbyJS](https://www.gatsbyjs.org/)
-* [Modern Site Generator for Vue.js - Gridsome](https://gridsome.org/)
+* [Gridsome](https://gridsome.org/)
 
 ### **Picks**
 
