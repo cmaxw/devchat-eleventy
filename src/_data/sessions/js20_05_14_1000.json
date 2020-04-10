@@ -1,6 +1,6 @@
 {
   "title": "Adventures in Browser Tooling",
   "description": "We've come a long way from using alert() to debug our JavaScript and constantly re-loading the browser to see why some CSS doesn't work. And yet we're always complaining that tooling in the web space isn't good enough. In this talk you'll learn that you can do something about that. Either by providing use cases, contributing to the open stack of web developer tooling or simply by finding out where to stay up-to-date. There is a lot to be discovered to get more effective, and here's a guide how to.",
-  "speaker": "js20_christian_heilmann",
+  "speaker": "js20_chris_heilmann",
   "start_time": "10:00 AM MDT"
 }
