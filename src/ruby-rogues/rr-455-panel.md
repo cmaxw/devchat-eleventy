@@ -36,7 +36,7 @@ This episode is a roundup discussion about what the podcast hosts have going on 
 
 ### **Sponsors**
 
-* [Springboard](https://www.springboard.com/workshops/software-engineering-career-track/?utm_source=devchat&utm_medium=podcast&utm_campaign=rubyrogues)  | Promo code "JABBER" gives $500 off the job-guaranteed Course
+* [Springboard](https://www.springboard.com/workshops/ai-machine-learning-career-track/?utm_source=%5BNAMEOFPODCAST%5D&utm_medium=podcast&utm_campaign=mec-thoughtleaders&utm_content=podcastmention&utm_term=promocodecta)  | Promo code "JABBER" gives $500 off the job-guaranteed Course
 
 ## **____________________________________________________________**
 
