@@ -3,9 +3,11 @@ podcast: react-round-up
 tags:
 - react_round_up
 - podcast
+- Charles Max Wood
+- Paige Niedringhaus
 layout: layouts/post.njk
 title: 'RRU 106: React Socks for Easy Responsive Design with Paige Niedringhaus'
-date: 2020-04-14T10:00:00+0000
+date: 2020-04-14T09:00:00+0000
 episode_number: '106'
 audio_url: https://media.devchat.tv/reactroundup/RRU_106_Paige_Niedringhaus.mp3
 duration: '38:11'
