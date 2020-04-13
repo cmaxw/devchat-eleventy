@@ -109,7 +109,7 @@ sections:
   label: Outsourcing Oasis
   create: all
   match: "**/*.md"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: directory
   path: src/react-native-radio
   label: React Native Radio
