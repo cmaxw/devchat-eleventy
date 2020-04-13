@@ -7,7 +7,7 @@ tags:
 - John Epperson
 - Luke Stutters
 layout: layouts/post.njk
-title: 'RR 455: Panel'
+title: 'RR 455: What''s Up, Rogues?'
 date: 2020-04-14T10:00:00+0000
 episode_number: '455'
 audio_url: https://media.devchat.tv/ruby-rogues/RR_455_Panel.mp3
