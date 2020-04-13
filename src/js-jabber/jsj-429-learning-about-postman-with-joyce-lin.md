@@ -9,7 +9,7 @@ tags:
 - Joyce Lin
 - Postman
 title: 'JSJ 429: Learning about Postman with Joyce Lin'
-date: 2020-04-14T10:00:00.000+00:00
+date: 2020-04-14T09:00:00Z
 episode_number: 429
 duration: '40:56'
 audio_url: https://media.devchat.tv/js-jabber/JSJ_429_Joyce_Lin.mp3
