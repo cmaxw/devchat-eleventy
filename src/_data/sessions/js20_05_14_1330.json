@@ -1,6 +1,6 @@
 {
-  "title": "TBD",
-  "description": "TBD",
-  "speaker": "js20_base",
+  "title": "API Testing w/ Postman",
+  "description": "Testing is an essential part of a quality API strategy. And API testing means taking an \"outside-in\" approach to writing and executing those tests. This talk w/ show you how to create simple request tests (SRTs) to probe your API endpoints as well as apply Dan North's Behavior-Driven Approach (BDD) to writing powerful tests. You'll also learn to apply a common model for writing API tests using the Protocol-Structure-Value pattern to create stable reliable tests that continue to work as expected even as your API changes over time. If you want to improve your testing strategies and increase the success of your API program, this talk is for you.",
+  "speaker": "js20_mike_amundsen",
   "start_time": "1:30 PM MDT"
 }
