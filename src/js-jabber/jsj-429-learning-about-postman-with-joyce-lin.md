@@ -28,7 +28,7 @@ Join us as we talk to Joyce Lin, a developer relations advocate with Postman, an
 
 ### **Sponsors**
 
-* [G2i | Enjoy the luxuries of freelancing](https://www.g2i.co/?utm_source=Javascript_Jabber&utm_medium=Podcast&utm_campaign=DevChat)
+* G2i | [Enjoy the luxuries of freelancing](https://www.g2i.co/?utm_source=Javascript_Jabber&utm_medium=Podcast&utm_campaign=DevChat)
 * Educative.io | [Click here for 10% discount](https://www.educative.io/jabber)
 
 ## **____________________________________________________________**
