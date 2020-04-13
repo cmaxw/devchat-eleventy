@@ -4,6 +4,10 @@ podcast: js-jabber
 tags:
 - podcast
 - js_jabber
+- Aimee Knight
+- Steve Edwards
+- Joyce Lin
+- Postman
 title: 'JSJ 429: Learning about Postman with Joyce Lin'
 date: 2020-04-14T10:00:00.000+00:00
 episode_number: 429
