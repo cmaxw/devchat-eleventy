@@ -4,8 +4,12 @@ podcast: js-jabber
 tags:
 - podcast
 - js_jabber
+- Aimee Knight
+- Steve Edwards
+- Joyce Lin
+- Postman
 title: 'JSJ 429: Learning about Postman with Joyce Lin'
-date: 2020-04-14T10:00:00Z
+date: 2020-04-14T09:00:00Z
 episode_number: 429
 duration: '40:56'
 audio_url: https://media.devchat.tv/js-jabber/JSJ_429_Joyce_Lin.mp3
@@ -28,7 +32,8 @@ Join us as we talk to Joyce Lin, a developer relations advocate with Postman, an
 
 ### **Sponsors**
 
-* [G2i | Enjoy the luxuries of freelancing](https://www.g2i.co/?utm_source=Javascript_Jabber&utm_medium=Podcast&utm_campaign=DevChat)
+* G2i | [Enjoy the luxuries of freelancing](https://www.g2i.co/?utm_source=Javascript_Jabber&utm_medium=Podcast&utm_campaign=DevChat)
+* Educative.io | [Click here for 10% discount](https://www.educative.io/jabber)
 
 ## **____________________________________________________________**
 
