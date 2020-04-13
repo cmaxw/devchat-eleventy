@@ -1,0 +1,14 @@
+{
+  "title": "Outsourcing Oasis Podcast",
+  "slug": "outsourcing-oasis",
+  "artwork": "OutsourcingOasis-500.jpg",
+  "artwork_front": "OutsourcingOasis-270.jpg",
+  "tag": "outsourcing_oasis",
+  "current": true,
+  "podwrench_slug": "outsourcing-oasis",
+  "sponsor_layout": "podwrench_3_sponsors.njk",
+  "email_form_id": "19",
+  "color": "blue",
+  "linkedin": "https://linkedin.com/company/devchat",
+  "rss": "https://feeds.feedwrench.com/outsourcing-oasis.rss"
+}
