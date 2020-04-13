@@ -36,7 +36,7 @@ This episode is a roundup discussion about what the podcast hosts have going on 
 
 ### **Sponsors**
 
-* [Springboard](https://www.springboard.com/workshops/ai-machine-learning-career-track/?utm_source=%5BNAMEOFPODCAST%5D&utm_medium=podcast&utm_campaign=mec-thoughtleaders&utm_content=podcastmention&utm_term=promocodecta)  | $500 Scholarship Available for Candidates who Apply with Code "AISPRINGBOARD"
+* [Springboard](https://www.springboard.com/workshops/ai-machine-learning-career-track/?utm_source=RubyRogues&utm_medium=podcast&utm_campaign=mec-thoughtleaders&utm_content=podcastmention&utm_term=promocodecta)  | $500 Scholarship Available for Candidates who Apply with Code "AISPRINGBOARD"
 
 ## **____________________________________________________________**
 
