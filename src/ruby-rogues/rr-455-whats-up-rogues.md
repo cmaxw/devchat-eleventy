@@ -8,7 +8,7 @@ tags:
 - Luke Stutters
 layout: layouts/post.njk
 title: 'RR 455: What''s Up, Rogues?'
-date: 2020-04-14T10:00:00+0000
+date: 2020-04-14T09:00:00+0000
 episode_number: '455'
 audio_url: https://media.devchat.tv/ruby-rogues/RR_455_Panel.mp3
 duration: '45:50'
