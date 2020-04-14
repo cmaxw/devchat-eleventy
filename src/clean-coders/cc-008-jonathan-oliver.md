@@ -6,7 +6,8 @@ tags:
 - Jonathan Oliver
 - Charles Max Wood
 layout: layouts/post.njk
-title: 'CC 008: Jonathan Oliver'
+title: 'CC 008: Code Quality and Building a Culture of Clean Coding with Jonathan
+  Oliver'
 date: 2020-04-21T09:00:00.000+00:00
 episode_number: '008'
 audio_url: https://media.devchat.tv/clean-coders/CC_008_Jonathan_Oliver.mp3
