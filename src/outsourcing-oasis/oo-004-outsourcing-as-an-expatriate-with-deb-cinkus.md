@@ -5,8 +5,8 @@ tags:
 - Charles Max Wood
 - David Hemmat
 - Deb Cinkus
-layout: ''
-podcast: ''
+layout: layouts/post.njk
+podcast: outsourcing-oasis
 title: 'OO 004: Outsourcing as an Expatriate with Deb Cinkus'
 date: 2020-04-17T10:00:00Z
 episode_number: '004'

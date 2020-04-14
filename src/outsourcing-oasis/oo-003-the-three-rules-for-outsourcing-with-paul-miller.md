@@ -5,8 +5,8 @@ tags:
 - Charles Max Wood
 - David Hemmat
 - Paul Miller
-layout: ''
-podcast: ''
+layout: layouts/post.njk
+podcast: outsourcing-oasis
 title: 'OO 003: The Three Rules for Outsourcing with Paul Miller'
 date: 2020-04-16T10:00:00Z
 episode_number: '003'

@@ -5,8 +5,8 @@ tags:
 - Charles Max Wood
 - David Hemmat
 - Rory Laitila
-layout: ''
-podcast: ''
+layout: layouts/post.njk
+podcast: outsourcing-oasis
 title: 'OO 002: Building Your Business with an Outsource Team with Rory Laitila'
 date: 2020-04-15T10:00:00Z
 episode_number: '002'

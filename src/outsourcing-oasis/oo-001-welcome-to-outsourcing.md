@@ -4,8 +4,8 @@ tags:
 - outsourcing_oasis
 - Charles Max Wood
 - David Hemmat
-layout: ''
-podcast: ''
+layout: layouts/post.njk
+podcast: outsourcing-oasis
 title: 'OO 001: Welcome to Outsourcing'
 date: 2020-04-14T10:00:00Z
 episode_number: 1
