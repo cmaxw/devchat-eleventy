@@ -11,7 +11,7 @@ tags:
 - 'LiveShare '
 layout: layouts/post.njk
 title: ".NET 024: .NET Tools and Azure for .NET developers with Tim Heuer"
-date: 2020-04-14T09:00:00.000+00:00
+date: 2020-04-28T10:00:00+0000
 episode_number: '024'
 audio_url: https://media.devchat.tv/adventures-in-dotnet/NET_024_Tim_Heuer.mp3
 duration: '57:27'
