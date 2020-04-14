@@ -9,7 +9,7 @@ layout: ''
 podcast: ''
 title: 'OO 002: Building Your Business with an Outsource Team with Rory Laitila'
 date: 2020-04-15T10:00:00Z
-episode_number: 2
+episode_number: '002'
 duration: '49:06'
 audio_url: https://media.devchat.tv/outsourcing-oasis/OO_002_Rory_Laitila.mp3
 
@@ -32,7 +32,6 @@ Rory Laitila was David's first client for BlueCoding. Rory works with CEO's to s
 ### **Sponsors**
 
 * [Resolve Digital](https://resolve.digital/?utm_source=ooasis-&utm_medium=podcast&utm_content=20200413-sponsor)
-* [CacheFly](https://www.cachefly.com/)
 
 ## **____________________________________________________________**
 
