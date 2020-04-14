@@ -5,9 +5,13 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: layouts/post.njk
+  hidden: true
 - type: text
   name: podcast
   label: podcast
+  description: outsourcing-oasis
+  hidden: true
 - type: text
   name: title
   label: title
