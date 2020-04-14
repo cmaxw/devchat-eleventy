@@ -10,7 +10,7 @@ tags:
 - Scott Heiser
 layout: layouts/post.njk
 title: 'TFS 362: Healthcare Hacks with Scott Heiser'
-date: 2020-04-14T10:00:00+0000
+date: 2020-04-14T10:00:00.000+00:00
 episode_number: '362'
 audio_url: https://media.devchat.tv/freelancers/TFS_362_Scott_Heiser.mp3
 duration: '50:44'
@@ -45,7 +45,7 @@ Scott Heiser joins the panel to talk about healthcare hacks for freelancers. We 
 
 * [G2i | Enjoy the luxuries of freelancing](https://www.g2i.co/?utm_source=Freelancers_Show&utm_medium=Podcast&utm_campaign=DevChat)
 * [LessAccounting | An easy to use software plus a bookkeeping service done by a real human](https://www.lessaccounting.com/bookkeeping/?source=thefreelancershow)
-* [Springboard](https://www.springboard.com/workshops/ai-machine-learning-career-track/?utm_source=TheFreelancersShow&utm_medium=podcast&utm_campaign=mec-thoughtleaders&utm_content=podcastmention&utm_term=promocodecta) | 20, $500 Scholarship Available for Candidates who Apply with Code "AISPRINGBOARD"
+* [Springboard | 20, $500 Scholarship Available for Candidates who Apply with Code "DASPRINGBOARD"](http://go.thoughtleaders.io/1825120200415 )
 * [CacheFly](https://www.cachefly.com/)
 
 ## **____________________________________________________________**
