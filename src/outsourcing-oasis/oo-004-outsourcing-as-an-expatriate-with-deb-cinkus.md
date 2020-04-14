@@ -9,7 +9,7 @@ layout: ''
 podcast: ''
 title: 'OO 004: Outsourcing as an Expatriate with Deb Cinkus'
 date: 2020-04-17T10:00:00Z
-episode_number: 4
+episode_number: '004'
 duration: '57:57'
 audio_url: https://media.devchat.tv/outsourcing-oasis/OO_004_Deb_Cinkus.mp3
 
@@ -32,7 +32,6 @@ Deb Cinkus is a US expatriate living in Guatemala. She talks through the changes
 ### **Sponsors**
 
 * [Resolve Digital](https://resolve.digital/?utm_source=ooasis-&utm_medium=podcast&utm_content=20200413-sponsor)
-* [CacheFly](https://www.cachefly.com/)
 
 ## **____________________________________________________________**
 
