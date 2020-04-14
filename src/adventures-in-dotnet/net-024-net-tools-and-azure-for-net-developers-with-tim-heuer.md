@@ -11,7 +11,7 @@ tags:
 - 'LiveShare '
 layout: layouts/post.njk
 title: ".NET 024: .NET Tools and Azure for .NET developers with Tim Heuer"
-date: 2020-04-14T09:00:00+0000
+date: 2020-04-14T09:00:00.000+00:00
 episode_number: '024'
 audio_url: https://media.devchat.tv/adventures-in-dotnet/NET_024_Tim_Heuer.mp3
 duration: '57:27'
@@ -27,7 +27,7 @@ answer4: ''
 ---
 # [JavaScript Remote Conf 2020](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
-# [May 14th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+# [May 13th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
 Tools like Intellicode and LiveShare make developers more productive. Tim Heuer discusses with the panel about what Azure is good for and what tools help with leveraging it best.
 
