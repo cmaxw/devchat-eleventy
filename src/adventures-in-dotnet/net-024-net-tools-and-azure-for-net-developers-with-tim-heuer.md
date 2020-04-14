@@ -1,14 +1,6 @@
 ---
 podcast: adventures-in-dotnet
-tags:
-- podcast
-- adventures_in_dotnet
-- Shawn Clabough
-- Caleb Wells​
-- Wai Liu
-- Tim Heuer
-- 'Intellicode '
-- 'LiveShare '
+tags: []
 layout: layouts/post.njk
 title: ".NET 024: .NET Tools and Azure for .NET developers with Tim Heuer"
 date: 2020-04-28T10:00:00+0000
