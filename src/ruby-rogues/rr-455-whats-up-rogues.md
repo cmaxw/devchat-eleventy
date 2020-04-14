@@ -10,7 +10,7 @@ layout: layouts/post.njk
 title: 'RR 455: What''s Up, Rogues?'
 date: 2020-04-14T09:00:00.000+00:00
 episode_number: '455'
-audio_url: https://media.devchat.tv/ruby-rogues/RR_455_Panel.mp3
+audio_url: https://media.devchat.tv/ruby-rogues/_455_Panel.mp3
 duration: '45:50'
 question1: ''
 answer1: ''
@@ -36,7 +36,7 @@ This episode is a roundup discussion about what the podcast hosts have going on 
 
 ### **Sponsors**
 
-* [Springboard](https://www.springboard.com/workshops/ai-machine-learning-career-track/?utm_source=RubyRogues&utm_medium=podcast&utm_campaign=mec-thoughtleaders&utm_content=podcastmention&utm_term=promocodecta)  | $500 Scholarship Available for Candidates who Apply with Code "AISPRINGBOARD"
+* [Springboard  | $500 Scholarship Available for Candidates who Apply with Code "AISPRINGBOARD"](http://go.thoughtleaders.io/1781520200415 )
 
 ## **____________________________________________________________**
 
