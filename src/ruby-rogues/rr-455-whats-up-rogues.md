@@ -8,7 +8,7 @@ tags:
 - Luke Stutters
 layout: layouts/post.njk
 title: 'RR 455: What''s Up, Rogues?'
-date: 2020-04-14T09:00:00+0000
+date: 2020-04-14T09:00:00.000+00:00
 episode_number: '455'
 audio_url: https://media.devchat.tv/ruby-rogues/RR_455_Panel.mp3
 duration: '45:50'
@@ -24,7 +24,7 @@ answer4: ''
 ---
 # [JavaScript Remote Conf 2020](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
-# [May 14th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+# [May 13th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
 This episode is a roundup discussion about what the podcast hosts have going on these days. John talks about going freelance working on Ruby, Rails, and React Native. John and Chuck riff on the pros and cons of React Native. Luke then jumps in and talks about a crash-and-burn he ran into with building reports. John sympathizes based on his past experiences. The rest of the show comprises the panel filling in with what they're working on or learning.
 
