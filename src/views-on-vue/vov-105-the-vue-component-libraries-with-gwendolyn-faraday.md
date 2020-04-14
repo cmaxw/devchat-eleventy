@@ -8,7 +8,7 @@ tags:
 - Steve Edwards
 layout: layouts/post.njk
 title: 'VoV 105: The Vue Component Libraries with Gwendolyn Faraday'
-date: 2020-04-21T09:00:00+0000
+date: 2020-04-21T09:00:00.000+00:00
 episode_number: '105'
 audio_url: https://media.devchat.tv/viewsonvue/VoV_105_Gwendolyn_Faraday.mp3
 duration: '35:25'
@@ -24,7 +24,7 @@ answer4: ''
 ---
 # [JavaScript Remote Conf 2020](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
-# [May 14th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+# [May 13th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
 In this episode, Lindsay and Steve talk with Gwen Faraday about Vue component libraries: what they are, why you want them, and what they solve. We discuss a couple examples that Gwen likes (Vuetify and Element). We also talk about Gwen's upcoming courses on component libraries, and her live streaming on YouTube.
 
