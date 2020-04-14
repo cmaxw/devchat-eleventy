@@ -17,7 +17,7 @@ audio_url: https://media.devchat.tv/outsourcing-oasis/OO_001_Intro.mp3
 
 # [May 14th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
-David and Charles talk about the details of the podcast, its focus on outsourcing, and our experience outsourcing and running outsourced companies. They also dive into the challenges and tradeoffs of running an outsourced organization and how much of that can be mitigated to build toward success.
+In this first episode of Outsourcing Oasis, David and Charles talk about the details of the podcast, its focus on outsourcing, and their experience outsourcing and running outsourced companies. They also dive into the challenges and trade-offs of running an outsourced organization and how much of that can be mitigated to build toward success.
 
 ### **Panelists**
 
@@ -27,7 +27,6 @@ David and Charles talk about the details of the podcast, its focus on outsourcin
 ### **Sponsors**
 
 * [Resolve Digital](https://resolve.digital/?utm_source=ooasis-&utm_medium=podcast&utm_content=20200413-sponsor)
-* [CacheFly](https://www.cachefly.com/)
 
 ## **____________________________________________________________**
 
