@@ -9,7 +9,7 @@ layout: ''
 podcast: ''
 title: 'OO 003: The Three Rules for Outsourcing with Paul Miller'
 date: 2020-04-16T10:00:00Z
-episode_number: 3
+episode_number: '003'
 duration: '54:15'
 audio_url: https://media.devchat.tv/outsourcing-oasis/OO_003_Paul_Miller.mp3
 
@@ -32,7 +32,6 @@ Paul Miller has worked on both sides of the remote/staff augmentation coin. He's
 ### **Sponsors**
 
 * [Resolve Digital](https://resolve.digital/?utm_source=ooasis-&utm_medium=podcast&utm_content=20200413-sponsor)
-* [CacheFly](https://www.cachefly.com/)
 
 ## **____________________________________________________________**
 
