@@ -60,6 +60,7 @@ module.exports = function(eleventyConfig) {
                   "my_angular_story",
                   "my_javascript_story",
                   "my_ruby_story",
+                  "outsourcing_oasis",
                   "rails_clips",
                   "react_native_radio",
                   "react_round_up",
