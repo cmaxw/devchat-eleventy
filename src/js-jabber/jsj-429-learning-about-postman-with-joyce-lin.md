@@ -9,7 +9,7 @@ tags:
 - Joyce Lin
 - Postman
 title: 'JSJ 429: Learning about Postman with Joyce Lin'
-date: 2020-04-14T09:00:00Z
+date: 2020-04-14T09:00:00.000+00:00
 episode_number: 429
 duration: '40:56'
 audio_url: https://media.devchat.tv/js-jabber/JSJ_429_Joyce_Lin.mp3
@@ -17,7 +17,7 @@ audio_url: https://media.devchat.tv/js-jabber/JSJ_429_Joyce_Lin.mp3
 ---
 # [JavaScript Remote Conf 2020](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
-# [May 14th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+# [May 13th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
 Join us as we talk to Joyce Lin, a developer relations advocate with Postman, and we talk about this amazing tool for interacting with APIs. We discuss it’s more well-known features, and also learn about other less well known, but very powerful features that allow users to greatly increase the usefulness of the tool, both for front end and back end developers.
 

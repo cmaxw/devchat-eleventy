@@ -12,14 +12,14 @@ tags:
 - Aimee Knight
 - Nashville Software School
 title: 'JSJ 430: Learning JavaScript in 2020 with Matt Crook'
-date: 2020-04-21T09:00:00Z
+date: 2020-04-21T09:00:00.000+00:00
 episode_number: 430
 duration: '1:12:11'
 audio_url: https://media.devchat.tv/js-jabber/JSJ_430_Matt_Crook.mp3
 
 ---
 # [JavaScript Remote Conf 2020](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
-# [May 14th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+# [May 13th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
 
 Matt Crook joins the conversation to talk with the JavaScript Jabber panel to talk about his experience going through Nashville Software School. The panel discusses and asks questions about getting into programming, working through the bootcamp, and what prospects are for bootcamp graduates.
