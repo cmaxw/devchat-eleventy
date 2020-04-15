@@ -29,7 +29,7 @@ my_speakers:
   - js20_aimee_knight
   - js20_chris_heilmann
   - js20_dan_shappir
-  - js20_idowu_emehinola
+  - js20_carl_mungazi
   - js20_gant_laborde
   - js20_brian_rinaldi
   - js20_aleksandra_sikora
@@ -38,6 +38,7 @@ my_speakers:
   - js20_anuradha_kumari
   - js20_ilya_verbitskiy
   - js20_tamas_piros
+  - js20_idowu_emehinola
   - js20_bramus_van_damme
   - js20_zac_delventhal
   - js20_steve_edwards
