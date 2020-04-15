@@ -1,6 +1,6 @@
 {
-  "title": "TBD",
-  "description": "TBD",
-  "speaker": "js20_base",
+  "title": "Using Open Source Libraries As Educational Tools",
+  "description": "As developers, we use open source libraries frequently to speed up development and avoid reinventing the wheel. However, open source libraries are more than just a tool for development - they can also be used as an educational aid. In this talk, I will share how I use open source tools to improve my programming skills and get a better understanding of the fundamentals of frontend development.",
+  "speaker": "js20_carl_mungazi",
   "start_time": "9:00 AM MDT"
 }
