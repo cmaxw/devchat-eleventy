@@ -7,7 +7,7 @@ tags:
 - Paige Niedringhaus
 layout: layouts/post.njk
 title: 'RRU 106: React Socks for Easy Responsive Design with Paige Niedringhaus'
-date: 2020-04-14T09:00:00+0000
+date: 2020-04-14T09:00:00.000+00:00
 episode_number: '106'
 audio_url: https://media.devchat.tv/reactroundup/RRU_106_Paige_Niedringhaus.mp3
 duration: '38:11'
@@ -23,7 +23,7 @@ answer4: ''
 ---
 # [JavaScript Remote Conf 2020](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
-# [May 14th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+# [May 13th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
 Paige Niedringhaus talks about the ever increasing need for developers and designers to be thinking about responsive web design as they build apps in today's world; a quick recap of a conference talk she gave at Connect.Tech, called 'Responsive Design featuring ReactJS'. Then, she talks about two possible solutions for making responsive web apps: CSS media queries and a new, React-specific NPM package called React Socks. Both options have their benefits and drawbacks (and can be used together too!), but getting started with either is relatively simple. Considering how many different ways users could be accessing our websites today and how important a good user experience is regardless of device size, responsive design is definitely worth investigating and incorporating into you own development going forward.
 
@@ -39,11 +39,7 @@ Paige Niedringhaus talks about the ever increasing need for developers and desig
 
 * [G2i | Enjoy the luxuries of freelancing](https://www.g2i.co/?utm_source=React_Roundup&utm_medium=Podcast&utm_campaign=DevCha)
 
-## **____________________________________________________________**
-
 > **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood is now available on Amazon.**[ **Get Your Copy Today!**](https://www.amazon.com/gp/product/B081MBL5C9/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=devchattv-20&linkId=9d61363241636e2546ef46abba198746&language=en_US)
-
-## **____________________________________________________________**
 
 ### **Links**
 

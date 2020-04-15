@@ -6,8 +6,9 @@ tags:
 - Jonathan Oliver
 - Charles Max Wood
 layout: layouts/post.njk
-title: 'CC 008: Jonathan Oliver'
-date: 2020-04-21T09:00:00+0000
+title: 'CC 008: Code Quality and Building a Culture of Clean Coding with Jonathan
+  Oliver'
+date: 2020-04-21T09:00:00.000+00:00
 episode_number: '008'
 audio_url: https://media.devchat.tv/clean-coders/CC_008_Jonathan_Oliver.mp3
 duration: '49:54'
@@ -23,7 +24,7 @@ answer4: ''
 ---
 # [JavaScript Remote Conf 2020](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
-# [May 14th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+# [May 13th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
 Charles originally interviewed Jonathan at a restaurant in Utah, but there was an issue with the recording and they wound up re-recording remotely due to COVID-19. Jonathan starts out talking about what it was like to put together a video for Clean Coders with Uncle Bob present. Jonathan then talks about taking Uncle Bob up to Snowbird to see where the Agile Manifesto was conceived and signed. We then talk about team organization, hiring, and other challenges of working in a team.
 
@@ -49,6 +50,5 @@ Charles originally interviewed Jonathan at a restaurant in Utah, but there was a
 * [Clayton Christensen author page on Amazon](https://amzn.to/39nUgrB)
 * [Leadership and self deception book](https://amzn.to/3aooNXJ)
 * [7 habits of highly effective people](https://amzn.to/2wGP8l1)
-
 
 Follow Jonathan on Twitter > [@jonathan](https://twitter.com/jonathan_oliver?lang=en), [SmartyStreets](https://smartystreets.com/), email: jonathan@smartystreets.com
