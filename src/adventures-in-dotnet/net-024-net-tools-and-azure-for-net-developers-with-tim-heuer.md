@@ -10,7 +10,7 @@ tags:
 - 'Intellicode '
 - 'LiveShare '
 layout: layouts/post.njk
-title: ".NET 024: .NET Tools and Azure for .NET developers with Tim Heuer"
+title: ".NET 024: .NET Tools and Azure for .NET Developers with Tim Heuer"
 date: 2020-04-14T10:00:00+0000
 episode_number: '024'
 audio_url: https://media.devchat.tv/adventures-in-dotnet/NET_024_Tim_Heuer.mp3
