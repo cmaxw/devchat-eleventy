@@ -40,6 +40,7 @@ my_speakers:
   - js20_tamas_piros
   - js20_idowu_emehinola
   - js20_bramus_van_damme
+  - js20_tim_jung
   - js20_steve_edwards
   - js20_mike_amundsen
   - js20_bryan_horn

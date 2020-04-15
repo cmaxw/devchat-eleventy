@@ -1,6 +1,6 @@
 {
-  "title": "TBD",
-  "description": "TBD",
-  "speaker": "js20_base",
+  "title": "AI/ML with Tensorflow.js",
+  "description": "AI/ML has revolutionized the world of what is possible, and TensorFlow.js is revolutionizing the domain of where we can bring these new capabilities. Google implemented over 4,000 tensor models in production in 2017. The future of software will be filled with amazing new Machine Learning, so let’s get creating!  ",
+  "speaker": "js20_gant_laborde",
   "start_time": "2:30 PM MDT"
 }
