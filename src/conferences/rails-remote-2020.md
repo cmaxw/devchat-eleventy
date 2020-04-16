@@ -12,7 +12,8 @@ date: 2020-06-26
 registration_url: https://www.crowdcast.io/e/rails-remote-conf-2020
 cfp_url: https://chuck193704.typeform.com/to/kUQhvR
 hero_image: /images/conferences/virus-conf-background.jpg
-logo: /images/conferences/jsremoteconf_logo.png
+image: /images/conferences/railsremoteconf_square_white.png
+logo: /images/conferences/railsremoteconf_logo.png
 twitter: railsremoteconf
 sponsor_prospectus: /SponsorPackages.pdf
 email_list_id: 49

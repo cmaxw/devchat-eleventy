@@ -6,13 +6,15 @@ long_description: WWDC 2020 was moved online due to COVID-19. We still don't kno
 topic: iOS, Swift, and Mac Development
 keywords: iOS, iPhone, iPad, Programming, Apps, App Store, Conference, Learning, Keeping Current
 layout: layouts/conference.njk
-start_date: 2020-06-10
+start_date: 2020-06-09
 end_date: 2020-06-12
 date: 2020-06-12
 registration_url: https://www.eventbrite.com/e/ios-dev-remote-conference-2020-tickets-102599391542
 cfp_url: https://chuck193704.typeform.com/to/s7yxmK
 hero_image: /images/conferences/virus-conf-background.jpg
-logo: /images/conferences/jsremoteconf_logo.png
+image: /images/conferences/iosremoteconf_square_white.jpg
+logo: /images/conferences/iosremote_logo.png
+square_logo: /images/conferences/iosremote_square.jpg
 twitter: iosremoteconf
 sponsor_prospectus: /SponsorPackages.pdf
 email_list_id: 49
