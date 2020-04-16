@@ -27,5 +27,13 @@ my_testimonials:
   - jsremote_erikisaksen
 my_speakers:
   - 
+days:
+  day1: June 24, 2020
+  day2: June 25, 2020
+  day3: June 26, 2020
+daykeys:
+  - day1
+  - day2
+  - day3
 ---
 
