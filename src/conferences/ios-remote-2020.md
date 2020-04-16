@@ -9,6 +9,7 @@ layout: layouts/conference.njk
 start_date: 2020-06-09
 end_date: 2020-06-12
 date: 2020-06-12
+cfp_ends: May 10, 2020
 registration_url: https://www.eventbrite.com/e/ios-dev-remote-conference-2020-tickets-102599391542
 cfp_url: https://chuck193704.typeform.com/to/s7yxmK
 hero_image: /images/conferences/virus-conf-background.jpg

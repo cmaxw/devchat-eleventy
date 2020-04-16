@@ -11,6 +11,7 @@ end_date: 2020-05-15
 date: 2020-05-15
 registration_url: https://www.crowdcast.io/e/js-remote-conf-2020
 cfp_url: https://chuck193704.typeform.com/to/XXLjow
+cfp_ends: March 31, 2020
 hero_image: /images/conferences/laptop.jpg
 image: /images/conferences/jsremoteconf_square_white.jpg
 logo: /images/conferences/jsremoteconf_logo.png
