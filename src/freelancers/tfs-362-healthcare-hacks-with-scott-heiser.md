@@ -45,7 +45,7 @@ Scott Heiser joins the panel to talk about healthcare hacks for freelancers. We 
 
 * [G2i | Enjoy the luxuries of freelancing](https://www.g2i.co/?utm_source=Freelancers_Show&utm_medium=Podcast&utm_campaign=DevChat)
 * [LessAccounting | An easy to use software plus a bookkeeping service done by a real human](https://www.lessaccounting.com/bookkeeping/?source=thefreelancershow)
-* [Springboard | 20, $500 Scholarship Available for Candidates who Apply with Code "DASPRINGBOARD"](http://go.thoughtleaders.io/1825120200415 )
+* [Springboard | 20, $500 Scholarship Available for Candidates who Apply with Code "DASPRINGBOARD"](https://www.springboard.com/workshops/data-analytics-career-track/?utm_source=TheFreelancersShow&utm_medium=podcast&utm_campaign=dac-thoughtleaders&utm_content=podcastmention&utm_term=promocodecta)
 * [CacheFly](https://www.cachefly.com/)
 
 ## **____________________________________________________________**
