@@ -13,7 +13,7 @@ cfp_ends: May 24, 2020
 registration_url: https://www.crowdcast.io/e/rails-remote-conf-2020
 cfp_url: https://chuck193704.typeform.com/to/kUQhvR
 hero_image: /images/conferences/virus-conf-background.jpg
-image: /images/conferences/railsremoteconf_square_white.png
+image: /images/conferences/railsremoteconf_square_white.jpg
 logo: /images/conferences/railsremoteconf_logo.png
 twitter: railsremoteconf
 sponsor_prospectus: /SponsorPackages.pdf

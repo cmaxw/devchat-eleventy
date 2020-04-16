@@ -13,7 +13,7 @@ registration_url: https://www.eventbrite.com/e/react-native-remote-conference-20
 cfp_url: https://chuck193704.typeform.com/to/vY2SCO
 cfp_ends: June 15, 2020
 hero_image: /images/conferences/virus-conf-background.jpg
-image: /images/conferences/reactnativeremote_square_white.png
+image: /images/conferences/reactnativeremote_square_white.jpg
 logo: /images/conferences/reactnativeremote_logo.png
 twitter: reactnativeconf
 sponsor_prospectus: /SponsorPackages.pdf
