@@ -42,16 +42,16 @@ Tracy Lee joins the adventure to talk about where the panel thinks Angular is he
 
 * Tracy Lee
 
-## **____________________________________________________________**
+## 
 
 > **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood is now available on Amazon.**[ **Get Your Copy Today!**](https://www.amazon.com/gp/product/B081MBL5C9/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=devchattv-20&linkId=9d61363241636e2546ef46abba198746&language=en_US)
 
-## **____________________________________________________________**
+## 
 
 ### **Links**
 
 * [Scully](https://github.com/scullyio)
-* [Version 9 of Angular Now Available — Project Ivy has arrived!](https://blog.angular.io/version-9-of-angular-now-available-project-ivy-has-arrived-23c97b63cfa3)
+* [Version 9 of Angular — Project Ivy has arrived!](https://blog.angular.io/version-9-of-angular-now-available-project-ivy-has-arrived-23c97b63cfa3)
 * [Web Components in Action](https://www.manning.com/books/web-components-in-action)
 * [Geo for Bootstrap, a Timeless Theme by Divshot](https://code.divshot.com/geo-bootstrap/)
 * [Investing in Underrepresented Minorities in Tech](https://www.opensourceforall.com/)
@@ -61,7 +61,7 @@ Tracy Lee joins the adventure to talk about where the panel thinks Angular is he
 **Charles Max Wood:**
 
 * [Clean Coders Podcast](https://devchat.tv/clean-coders/)
-* referal link themeforest react native???
+* [Theme Forest Templates](https://1.envato.market/c/2090541/480739/4415)
 * [Legendary: A Marvel Deck Building Game](https://boardgamegeek.com/boardgame/129437/legendary-marvel-deck-building-game)
 * React Native
 
