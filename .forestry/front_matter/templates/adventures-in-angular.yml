@@ -11,7 +11,7 @@ fields:
   type: tag_list
   default:
   - podcast
-  - adv-in-angular
+  - adv_in_angular
   label: tags
 - name: podcast_fields
   type: include
