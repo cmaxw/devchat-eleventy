@@ -71,7 +71,7 @@ The JSJ panel talks with Morad Stern from Wix about personal branding; what it i
 
 **Dan Shappir:**
 
-* [Scott Lynch](https://en.wikipedia.org/wiki/Scott_Lynch#Gentleman_Bastards)
+* [Scott Lynch - Gentleman_Bastards](https://en.wikipedia.org/wiki/Scott_Lynch#Gentleman_Bastards)
 
 **Morad Stern:**
 
