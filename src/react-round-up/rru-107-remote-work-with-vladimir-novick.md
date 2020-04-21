@@ -10,7 +10,7 @@ tags:
 - Remote work
 - 'GraphQL '
 layout: layouts/post.njk
-title: 'RRU 107: Remote work with Vladimir Novick'
+title: 'RRU 107: Remote Work with Vladimir Novick'
 date: 2020-04-28T09:00:00.000+00:00
 episode_number: '107'
 audio_url: https://media.devchat.tv/reactroundup/RRU_107_Vladimir_Novick.mp3
