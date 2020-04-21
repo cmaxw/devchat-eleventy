@@ -10,8 +10,8 @@ tags:
 - Remote work
 - 'GraphQL '
 layout: layouts/post.njk
-title: 'RRU 107: Remote work, remote learning, React & GraphQL with Vladimir Novick'
-date: 2020-04-28T09:00:00+0000
+title: 'RRU 107: Remote work with Vladimir Novick'
+date: 2020-04-28T09:00:00.000+00:00
 episode_number: '107'
 audio_url: https://media.devchat.tv/reactroundup/RRU_107_Vladimir_Novick.mp3
 duration: '46:26'
@@ -25,7 +25,6 @@ question4: ''
 answer4: ''
 
 ---
-
 # [JavaScript Remote Conf 2020](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 # [May 13th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
