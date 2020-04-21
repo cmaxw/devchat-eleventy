@@ -71,10 +71,11 @@ The JSJ panel talks with Morad Stern from Wix about personal branding; what it i
 
 **Dan Shappir:**
 
-* [Scott Lynch - Gentleman_Bastards](https://en.wikipedia.org/wiki/Scott_Lynch#Gentleman_Bastards)
+* [Scott Lynch - Gentleman Bastards](https://en.wikipedia.org/wiki/Scott_Lynch#Gentleman_Bastards)
 
 **Morad Stern:**
 
 * Follow Morad on Twitter > [@morad](https://twitter.com/morad)
+* [This Is Marketing: You Can't Be Seen Until You Learn to See: Seth Godin](https://www.amazon.com/This-Marketing-Cant-Until-Learn/dp/0525540830)
 
 Follow JavaScript Jabber on Twitter > [@JSJabber](https://twitter.com/JSJabber)
