@@ -30,8 +30,7 @@ answer4: ''
 
 Sean Marcia organizes Ruby For Good—an organization for building technology to solve the world's problems and an in person meetup held online this year. Sean talks about founding Ruby For Good and some of the projects it has been responsible for creating.
 
-### **  
-Panel**
+### **Panel**
 
 * Charles Max Wood
 * John Epperson
