@@ -28,7 +28,7 @@ answer4: ''
 
 # [May 13th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
-Scott Heiser joins the panel to talk about healthcare hacks for freelancers. We start out joking about the COVID-19 quarantine situation. Healthcare and health insurance turns out to be a major headache for freelancers because it's usually tied to employment. ObamaCare got mentioned and discussed. Petra chimes in with the situation in Australia. Listen in to learn how you can make freelancing less painful on this particular front.
+Petra starts us out talking about some of the clients she has that have needed to pause their work with her. The panel brainstorms on ideas that for dealing with unexpected slowdowns as Petra discusses her approaches to things showing down.
 
 ### **Panelists**
 
