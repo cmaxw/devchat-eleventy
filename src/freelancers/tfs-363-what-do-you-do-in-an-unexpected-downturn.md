@@ -13,7 +13,7 @@ title: 'TFS 363: What Do You Do in an Unexpected Downturn'
 date: 2020-04-21T10:00:00+0000
 episode_number: '363'
 audio_url: https://media.devchat.tv/freelancers/TFS_363_Panel.mp3
-duration: '43:34'
+duration: '43:43'
 question1: ''
 answer1: ''
 question2: ''
