@@ -26,7 +26,7 @@ answer4: ''
 ---
 # [JavaScript Remote Conf 2020](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
-# [May 14th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+# [May 13th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
 Scott Heiser joins the panel to talk about healthcare hacks for freelancers. We start out joking about the COVID-19 quarantine situation. Healthcare and health insurance turns out to be a major headache for freelancers because it's usually tied to employment. ObamaCare got mentioned and discussed. Petra chimes in with the situation in Australia. Listen in to learn how you can make freelancing less painful on this particular front.
 
@@ -45,18 +45,18 @@ Scott Heiser joins the panel to talk about healthcare hacks for freelancers. We 
 
 * [G2i | Enjoy the luxuries of freelancing](https://www.g2i.co/?utm_source=Freelancers_Show&utm_medium=Podcast&utm_campaign=DevChat)
 * [LessAccounting | An easy to use software plus a bookkeeping service done by a real human](https://www.lessaccounting.com/bookkeeping/?source=thefreelancershow)
-* [Springboard | 20, $500 Scholarship Available for Candidates who Apply with Code "DASPRINGBOARD"](https://www.springboard.com/workshops/data-analytics-career-track/?utm_source=TheFreelancersShow&utm_medium=podcast&utm_campaign=dac-thoughtleaders&utm_content=podcastmention&utm_term=promocodecta)
+* [Springboard | 20, $500 Scholarship Available for Candidates who Apply with Code "DASPRINGBOARD"](http://go.thoughtleaders.io/1825120200415)
 * [CacheFly](https://www.cachefly.com/)
 
-## **____________________________________________________________**
+## 
 
 > **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood is now available on Amazon.**[ **Get Your Copy Today!**](https://www.amazon.com/gp/product/B081MBL5C9/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=devchattv-20&linkId=9d61363241636e2546ef46abba198746&language=en_US)
 
-## **____________________________________________________________**
+## 
 
 ### **Links**
 
-* [Healthcare is Make Me Sick](https://www.amazon.com/Healthcare-Making-Me-Sick-Control-ebook/dp/B07SMB3GYQ/ref=as_li_ss_tl?dchild=1&keywords=healthcare+is+making+me+sick&qid=1584475846&sr=8-1&linkCode=sl1&tag=devchattv-20&linkId=2db7ef5949624d1707323dd3342cafbe&language=en_US)
+* [Healthcare is Making Me Sick](https://www.amazon.com/Healthcare-Making-Me-Sick-Control-ebook/dp/B07SMB3GYQ/ref=as_li_ss_tl?dchild=1&keywords=healthcare+is+making+me+sick&qid=1584475846&sr=8-1&linkCode=sl1&tag=devchattv-20&linkId=2db7ef5949624d1707323dd3342cafbe&language=en_US)
 
 ### **Picks**
 

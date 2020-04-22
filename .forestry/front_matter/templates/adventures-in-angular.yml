@@ -11,7 +11,7 @@ fields:
   type: tag_list
   default:
   - podcast
-  - adv-in-angular
+  - adv_in_angular
   label: tags
 - name: podcast_fields
   type: include
@@ -27,3 +27,5 @@ pages:
 - src/adv-in-angular/aia-277-is-angular-declining.md
 - src/adv-in-angular/aia-278-working-from-home.md
 - src/adv-in-angular/aia-279-angular-for-enterprise-ready-web-apps-with-doguhan-uluca.md
+- src/adv-in-angular/aia-280-where-is-angular-headed-with-tracy-lee.md
+- src/js-jabber/jsj-431-personal-branding-for-developers-with-morad-stern.md
