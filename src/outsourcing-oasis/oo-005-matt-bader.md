@@ -5,7 +5,7 @@ tags:
 - outsourcing_oasis
 - David Hemmat
 - Matt Bader
-podcast: ''
+podcast: outsourcing-oasis
 title: 'OO 005: Evolving an App with Matt Bader'
 date: 2020-04-22T18:00:00Z
 episode_number: '005'
