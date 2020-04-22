@@ -6,7 +6,7 @@ tags:
 - David Hemmat
 - Matt Bader
 podcast: ''
-title: 'OO 005: Matt Bader'
+title: 'OO 005: Evolving an App with Matt Bader'
 date: 2020-04-22T18:00:00Z
 episode_number: '005'
 duration: '50:11'
@@ -16,6 +16,8 @@ audio_url: https://media.devchat.tv/outsourcing-oasis/OO_005_Matt_Bader.mp3
 # [JavaScript Remote Conf 2020](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
 # [May 13th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+
+Matt Bader is the President and CEO of Exam Master. They provide resources for graduate level health professions. Matt leads off talking about Exam Master from a technology standpoint. They have been working with outsourced developers since the early 2000's. They get into technology choices and the issues with limited availability while having one person who understood the system as a whole. The discussion continues through the evolution of the technology and team structure in the software side of the business and when to outsource expertise.
 
 ### **Panelists**
 
