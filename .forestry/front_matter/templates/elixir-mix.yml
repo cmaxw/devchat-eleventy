@@ -28,3 +28,4 @@ pages:
 - src/elixir-mix/emx-090-data-pipelines-through-broadway-with-alex-koutmos.md
 - src/elixir-mix/emx-091-managing-change-with-ecto-with-david-bernheisel.md
 - src/elixir-mix/emx-092-elixir-and-python-interoperability-with-alvise-susmel.md
+- src/elixir-mix/emx-093-multi-tenant-dbs-with-lars-wikman.md
