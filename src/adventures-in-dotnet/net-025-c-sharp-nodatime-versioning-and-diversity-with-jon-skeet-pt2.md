@@ -61,8 +61,8 @@ Jon Skeet who has nearly 1.2M reputation on Stack Overflow discusses everything 
 
 **Shawn Clabough:**
 
-* [Avery Drummer](http://averydrummer.com/)
 * Follow Shawn on Twitter > [@DotNetSuperhero](https://twitter.com/DotNetSuperhero)
+* [Avery Drummer](http://averydrummer.com/)
 
 **Caleb Wells:**
 
