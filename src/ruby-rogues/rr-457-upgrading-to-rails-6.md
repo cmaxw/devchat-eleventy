@@ -26,6 +26,8 @@ answer4: ''
 
 # [May 13th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
+Dave has been upgrading some of his Rails apps. Chuck has gone through several upgrades in his past work and is working on some apps that need the upgrade. Listen to 2 veteran Rails developers talk through the issues of upgrade from different versions of Rails to the latest version.
+
 ### **Panel**
 
 * Charles Max Wood
