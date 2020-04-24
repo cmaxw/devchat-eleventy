@@ -5,6 +5,7 @@ tags:
 - freelancers
 - Petra Manos
 - Joel Schaubert
+- Charles Max Wood
 layout: layouts/post.njk
 title: 'TFS 364: Working From Home'
 date: 2020-04-28T10:00:00+0000
