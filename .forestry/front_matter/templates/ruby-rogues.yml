@@ -19,7 +19,6 @@ fields:
   template: podcast
   label: Podcast Fields
 pages:
-- 'src/ruby-rogues/RR 457: Upgrading to Rails 6.md'
 - src/ruby-rogues/rr-444-rails-against-the-machine.md
 - src/ruby-rogues/rr-445-location-services-with-mithun-dhar.md
 - src/ruby-rogues/rr-446-development-environments.md
@@ -33,3 +32,4 @@ pages:
 - src/ruby-rogues/rr-454-music-and-factory-bot-with-daniel-colson.md
 - src/ruby-rogues/rr-455-whats-up-rogues.md
 - src/ruby-rogues/rr-456-ruby-for-good-with-sean-marcia.md
+- src/ruby-rogues/rr-457-upgrading-to-rails-6.md

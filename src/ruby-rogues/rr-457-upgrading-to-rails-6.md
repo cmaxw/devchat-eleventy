@@ -7,7 +7,7 @@ tags:
 - Dave Kimura
 - Rails 6
 layout: layouts/post.njk
-title: 'RR 457: Panelists'
+title: 'RR 457: Upgrading to Rails 6'
 date: 2020-04-28T09:00:00.000+00:00
 episode_number: '457'
 audio_url: https://media.devchat.tv/ruby-rogues/RR_457_Panel.mp3
