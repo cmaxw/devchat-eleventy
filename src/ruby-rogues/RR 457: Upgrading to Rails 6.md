@@ -8,7 +8,7 @@ tags:
 - Rails 6
 layout: layouts/post.njk
 title: 'RR 457: Panelists'
-date: 2020-04-28T09:00:00+0000
+date: 2020-04-28T09:00:00.000+00:00
 episode_number: '457'
 audio_url: https://media.devchat.tv/ruby-rogues/RR_457_Panel.mp3
 duration: '37:00'
