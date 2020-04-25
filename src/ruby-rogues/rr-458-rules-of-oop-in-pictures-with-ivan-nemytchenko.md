@@ -53,9 +53,9 @@ Ivan Nemytchenko is a freelancer. He's a speaker and conference organizer. Ivan 
 ### **Links**
 
 * [Chernoff Faces](https://en.wikipedia.org/wiki/Chernoff_face)
-* [dmikhr/DudeGL: "Anthropomorphic UML": visualization of code and OOP concepts in a form of human body.](https://github.com/dmikhr/DudeGL)
-* [dmikhr/Dudity: Analyze Rails code with stick dudes](https://github.com/dmikhr/Dudity)
-* [dmikhr/DudesHub: Visualize code diffs in GitHub](https://github.com/dmikhr/DudesHub)
+* [dmikhr/DudeGL](https://github.com/dmikhr/DudeGL) - "Anthropomorphic UML": visualization of code and OOP concepts in a form of human body.
+* [dmikhr/Dudity](https://github.com/dmikhr/Dudity) - Analyze Rails code with stick dudes
+* [dmikhr/DudesHub](https://github.com/dmikhr/DudesHub) - Visualize code diffs in GitHub
 
 ### **Picks**
 
