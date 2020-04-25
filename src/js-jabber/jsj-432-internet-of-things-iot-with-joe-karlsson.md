@@ -4,6 +4,13 @@ podcast: js-jabber
 tags:
 - podcast
 - js_jabber
+- IoT
+- Aimee Knight
+- Charles Max Wood
+- AJ O’Neal
+- Dan Shappir
+- Steve Edwards
+- Joe Karlsson
 title: 'JSJ 432: Internet of Things (IoT) with Joe Karlsson'
 date: 2020-05-05T09:00:00Z
 episode_number: 432
