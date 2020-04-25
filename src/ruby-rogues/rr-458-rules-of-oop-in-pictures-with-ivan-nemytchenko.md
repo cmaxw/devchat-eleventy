@@ -61,7 +61,7 @@ Ivan Nemytchenko is a freelancer. He's a speaker and conference organizer. Ivan 
 
 **Dave Kimura:**
 
-* [Drifting Ruby](https://www.driftingruby.com/) - Use Discount Code - learnfromhome
+* [Drifting Ruby](https://www.driftingruby.com/) Discount Code - learnfromhome
 * [troessner/reek: Code smell detector for Ruby](https://github.com/troessner/reek)
 * [Kubernetes](https://kubernetes.io/)
 
