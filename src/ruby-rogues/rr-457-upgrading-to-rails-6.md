@@ -7,8 +7,8 @@ tags:
 - Dave Kimura
 - Rails 6
 layout: layouts/post.njk
-title: 'RR 457: Panelists'
-date: 2020-04-28T09:00:00+0000
+title: 'RR 457: Upgrading to Rails 6'
+date: 2020-04-28T09:00:00.000+00:00
 episode_number: '457'
 audio_url: https://media.devchat.tv/ruby-rogues/RR_457_Panel.mp3
 duration: '37:00'
@@ -25,6 +25,8 @@ answer4: ''
 # [JavaScript Remote Conf 2020](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
 # [May 13th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+
+Dave has been upgrading some of his Rails apps. Chuck has gone through several upgrades in his past work and is working on some apps that need the upgrade. Listen to 2 veteran Rails developers talk through the issues of upgrade from different versions of Rails to the latest version.
 
 ### **Panel**
 

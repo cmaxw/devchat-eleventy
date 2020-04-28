@@ -10,7 +10,7 @@ tags:
 - 'Wix '
 layout: layouts/post.njk
 title: 'JSJ 431: Personal Branding for Developers with Morad Stern'
-date: 2020-04-28T09:00:00Z
+date: 2020-04-28T09:00:00.000+00:00
 episode_number: '431'
 audio_url: " https://media.devchat.tv/js-jabber/JSJ_431_Morad_Stern.mp3"
 duration: '1:05:20'
@@ -60,18 +60,21 @@ The JSJ panel talks with Morad Stern from Wix about personal branding; what it i
 
 **AJ O’Neal:**
 
-* [War Stories | How Crash Bandicoot Hacked The Original Playstation](https://arstechnica.com/video/watch/war-stories-how-crash-bandicoot-hacked-the-playstation-to-run)
-* [Crash Bandicoot Co-Creator Andy Gavin: Extended Interview | Ars Technica](https://www.youtube.com/watch?v=pSHj5UKSylk)
+* Follow AJ on Twitter > [@coolaj86](https://twitter.com/coolaj86)
+* [War Stories \| How Crash Bandicoot Hacked The Original Playstation](https://arstechnica.com/video/watch/war-stories-how-crash-bandicoot-hacked-the-playstation-to-run)
+* [Crash Bandicoot Co\-Creator Andy Gavin: Extended Interview \| Ars Technica](https://www.youtube.com/watch?v=pSHj5UKSylk)
 * [The Story of Spyro the Dragon | Gaming Historian](https://www.youtube.com/watch?v=faV6qLqBAPc)
 * [Utah Node.js: Scaling Node.js at Plaid](https://www.youtube.com/watch?v=3T2lkxG3Dhs)
 
 **Steve Edwards:**
 
+* Follow Steve on Twitter > [@wonder95](https://twitter.com/wonder95), [Website](https://www.smgaweb.com/)
 * [Six13 Uptown Passover - an "Uptown Funk" adaptation for Pesach](https://www.youtube.com/watch?v=7Q7Jo7FkLH4)
 
 **Dan Shappir:**
 
-* [Scott Lynch - Gentleman Bastards](https://en.wikipedia.org/wiki/Scott_Lynch#Gentleman_Bastards)
+* Follow Dan on Twitter > [@DanShappir](https://twitter.com/DanShappir)
+* [Scott Lynch](https://en.wikipedia.org/wiki/Scott_Lynch#Gentleman_Bastards)
 
 **Morad Stern:**
 

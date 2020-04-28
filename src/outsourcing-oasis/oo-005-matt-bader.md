@@ -7,7 +7,7 @@ tags:
 - Matt Bader
 podcast: outsourcing-oasis
 title: 'OO 005: Evolving an App with Matt Bader'
-date: 2020-04-22T18:00:00Z
+date: 2020-04-21T10:00:00Z
 episode_number: '005'
 duration: '50:11'
 audio_url: https://media.devchat.tv/outsourcing-oasis/OO_005_Matt_Bader.mp3
