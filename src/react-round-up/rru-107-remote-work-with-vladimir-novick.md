@@ -29,6 +29,8 @@ answer4: ''
 
 # [May 13th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
+Vladimir Novick is a work from home veteran. He talks through the situation with COVID-19, having kids at home, and working from home. The rest of the panel chimes in and discusses their experience—some short and some long—working from home.
+
 ### **Panel**
 
 * Charles Max Wood
