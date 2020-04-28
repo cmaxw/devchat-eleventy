@@ -10,9 +10,10 @@ tags:
 - 'Angular '
 - Angular 9
 - 'Scully '
+- adv_in_angular
 layout: layouts/post.njk
 title: 'AiA 280: Where is Angular Headed? with Tracy Lee'
-date: 2020-04-28T09:00:00+0000
+date: 2020-04-28T09:00:00.000+00:00
 episode_number: '280'
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA_280_Tracy_Lee.mp3
 duration: '50:10'
