@@ -1,5 +1,5 @@
 ---
-podcast: adv-in-angular
+podcast: js-jabber
 tags:
 - podcast
 - js_jabber
