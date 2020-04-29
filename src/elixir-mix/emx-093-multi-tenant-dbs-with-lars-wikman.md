@@ -9,7 +9,7 @@ tags:
 - Lars Wikman
 layout: layouts/post.njk
 title: 'EMx 093: Multi-Tenant DBs with Lars Wikman'
-date: 2020-04-28T10:00:00+0000
+date: 2020-04-28T10:00:00.000+00:00
 episode_number: '93'
 audio_url: https://media.devchat.tv/elixir-mix/EMx_093_Lars_Wikman.mp3
 duration: '48:08'
@@ -27,7 +27,7 @@ answer4: ''
 
 # [May 13th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
-Tracy Lee joins the adventure to talk about where the panel thinks Angular is headed. The conversation ranges from features of Angular 9 and Ivy to Scully to what we all thing the next thing will be.
+We catch up with Lars Wikman to talk about what he’s learned along his journey with Elixir and multi-tenant databases. We cover what multi-tenant means, multiple ways to do it and where it may or may not make sense. We learn about dynamic repos, query prefixes, and how to deal with migrations, testing, and much more!
 
 ### **Panelists**
 
