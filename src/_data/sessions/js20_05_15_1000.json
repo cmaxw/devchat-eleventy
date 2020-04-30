@@ -1,6 +1,6 @@
 {
-  "title": "TBD",
-  "description": "TBD",
-  "speaker": "js20_base",
+  "title": "Back to the future! Where offline web apps don't exist anymore",
+  "description": "Progressive Web Apps are the state of art of modern web solutions. In an increasingly mobile first world, optimising the load time of our web app can be the success key for our project. It is nowadays possible to overcome the PWAs limits and create a truly seamless experience: our users won't have any perception of being online or not while using our web application. Let's dive together into the amazing world of PWAs, discovering all their benefits and how to provide a rich, engaging and offline-ready users experience.",
+  "speaker": "js20_francesco_leardini",
   "start_time": "10:00 AM MDT"
 }
