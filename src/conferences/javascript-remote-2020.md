@@ -44,6 +44,8 @@ my_speakers:
   - js20_tim_jung
   - js20_avichay_eyal
   - js20_steve_edwards
+  - js20_francesco_leardini
+  - js20_benjamin_gruenbaum
   - js20_mike_amundsen
   - js20_bryan_horn
   - js20_mark_hasara
