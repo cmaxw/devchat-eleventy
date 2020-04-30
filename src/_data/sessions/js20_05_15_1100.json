@@ -1,6 +1,6 @@
 {
-  "title": "Benjamin Gruenbaum",
-  "description": "Selenium, Puppeteer or Playwright: How to Choose",
+  "title": "Selenium, Puppeteer or Playwright: How to Choose",
+  "description": "Puppeteer is getting a lot of buzz as a way for JS developers to create E2E/UI tests. But is it better than Selenium? Not to be outdone, Microsoft forked and released a new version of Puppeteer, called Playwright, with added capabilities. What are the distinctions and how do you choose?   In this talk, we will compare those test automation platforms, demonstrating the differences. You will learn some of the key limitations and benefits of each platform to better inform your decision. You can also try the playground yourself to verify that tests will meet your needs",
   "speaker": "js20_benjamin_gruenbaum",
   "start_time": "11:00 AM MDT"
 }
