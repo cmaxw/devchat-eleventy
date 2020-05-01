@@ -5,10 +5,10 @@ tags:
 - podcast
 - Vladimir Novick
 - Charles Max Wood
-- Paige Neidringhaus
 - TJ VanToll
 - Remote work
 - 'GraphQL '
+- Paige Niedringhaus
 layout: layouts/post.njk
 title: 'RRU 107: Remote Work with Vladimir Novick'
 date: 2020-04-28T09:00:00.000+00:00
@@ -34,7 +34,7 @@ Vladimir Novick is a work from home veteran. He talks through the situation with
 ### **Panel**
 
 * Charles Max Wood
-* Paige Neidringhaus
+* Paige Niedringhaus
 * TJ VanToll
 
 ### **Guest**
@@ -71,7 +71,7 @@ Vladimir Novick is a work from home veteran. He talks through the situation with
 * [ASUS 15.6" Full HD 1920x1080 IPS USB Portable Monitor](https://amzn.to/2yKOQKG)
 * [The Chronicles of Narnia Adult Box Set Audiobookm](https://www.audible.com/pd/The-Chronicles-of-Narnia-Adult-Box-Set-Audiobook/0061999881)
 
-**Paige Neidringhaus:**
+**Paige Niedringhaus:**
 
 * [ShiftIt for Mac](https://download.cnet.com/ShiftIt/3000-2072_4-76063682.html)
 * [Tiger King on Netflix](https://www.netflix.com/title/81115994)
