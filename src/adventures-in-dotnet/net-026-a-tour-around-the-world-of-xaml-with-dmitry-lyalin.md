@@ -5,12 +5,15 @@ tags:
 - adventures_in_dotnet
 - XAML
 - Dmitry Lyalin
+- Shawn Clabough
+- Caleb Wells​
+- Wai Liu
 layout: layouts/post.njk
 title: ".NET 026: A Tour Around the World of XAML with Dmitry Lyalin"
 date: 2020-05-12T09:00:00+0000
 episode_number: '026'
-audio_url: https://media.devchat.tv/adventures-in-dotnet/
-duration: ''
+audio_url: https://media.devchat.tv/adventures-in-dotnet/NET_026_Dmitry_Lyalin.mp3
+duration: '59:59'
 question1: ''
 answer1: ''
 question2: ''
