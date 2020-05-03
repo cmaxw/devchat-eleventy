@@ -63,8 +63,8 @@ We spend time with Dmitry discussing all the great things going on in the XAML s
 
 **Caleb Wells:**
 
+* Caleb's Website > [DataWells](http://datawells.us/)
 * [Metahuman by Deepak Chopra](https://www.penguinrandomhouse.com/books/27415/metahuman-by-deepak-chopra-md/)
-* [DataWells](http://datawells.us/)
 
 **Wai Liu:**
 
