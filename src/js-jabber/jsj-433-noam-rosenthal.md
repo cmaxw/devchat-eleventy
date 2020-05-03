@@ -16,6 +16,9 @@ duration: ''
 audio_url: https://media.devchat.tv/js-jabber/
 
 ---
+# [JavaScript Remote Conf 2020](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+# [May 13th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+
 ### **Panel**
 
 * AJ O’Neal
