@@ -12,10 +12,10 @@ tags:
 - Steve Edwards
 - Joe Karlsson
 title: 'JSJ 432: Internet of Things (IoT) with Joe Karlsson'
-date: 2020-05-05T09:00:00Z
+date: 2020-05-05T09:00:00.000+00:00
 episode_number: 432
-duration: ''
-audio_url: ''
+duration: '57:41'
+audio_url: https://media.devchat.tv/js-jabber/
 
 ---
 # [JavaScript Remote Conf 2020](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
