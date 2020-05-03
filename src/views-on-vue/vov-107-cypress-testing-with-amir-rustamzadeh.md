@@ -3,6 +3,11 @@ podcast: views-on-vue
 tags:
 - podcast
 - views_on_vue
+- Steve Edwards
+- Lindsay Wardell
+- Austin Gil
+- Amir Rustamzadeh
+- Cypress.io
 layout: layouts/post.njk
 title: 'VoV 107: Cypress Testing with Amir Rustamzadeh'
 date: 2020-05-19T09:00:00+0000
