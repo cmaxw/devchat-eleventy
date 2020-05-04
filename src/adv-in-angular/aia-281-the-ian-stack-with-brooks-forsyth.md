@@ -22,7 +22,10 @@ answer4: ''
 
 ---
 # [JavaScript Remote Conf 2020](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+
 # [May 13th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+
+Brooks Forsyth is an Ionic and Angular developer who has coined a new stack called the IAN stack. The panel discusses the pros and cons of using a combination of Ionic, Angular, and NestJS to build mobile apps and their supporting APIs
 
 ### **Panel**
 
@@ -34,15 +37,12 @@ answer4: ''
 
 * Brooks Forsyth
 
-
 > **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood is now available on Amazon.**[ **Get Your Copy Today!**](https://www.amazon.com/gp/product/B081MBL5C9/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=devchattv-20&linkId=9d61363241636e2546ef46abba198746&language=en_US)
-
 
 ### **Links**
 
 * [nestjs/nest](https://github.com/nestjs/nest)
 * [LoopBack](https://loopback.io/)
-
 
 ### **Picks**
 
@@ -54,21 +54,17 @@ answer4: ''
 **Shai Reznik:**
 
 * [https://TestAngular.com](https://TestAngular.com)
-* [Demystifying Dependency Injection: Angular vs NestJS \- Kamil Mysliwiec](https://www.youtube.com/watch?v=vYFhHVMetPg)
-
+* [Demystifying Dependency Injection: Angular vs NestJS - Kamil Mysliwiec](https://www.youtube.com/watch?v=vYFhHVMetPg)
 
 **Chris Ford:**
 
 * [Green Lantern](https://www.imdb.com/title/tt1133985/)
 * [Ionic 5](https://ionicframework.com/)
 
-
 **Brooks Forsyth:**
 
 * Follow Brooks on Twitter [@brooks_forsyth](https://twitter.com/brooks_forsyth?lang=en)
 * “Pizza is an investment in your future”
 * [IAN Stack](http://ianstack.com/)
-
-
 
 Follow Adventures in Angular on Twitter > [@angularpodcast](https://twitter.com/angularpodcast)
