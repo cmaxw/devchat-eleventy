@@ -9,15 +9,18 @@ tags:
 - Aimee Knight
 - Steve Edwards
 - Dan Shappir
-title: 'JSJ 433: Noam Rosenthal'
+title: 'JSJ 433: Understanding the Browser Layer with Noam Rosenthal'
 date: 2020-05-12T09:00:00Z
 episode_number: 433
-duration: ''
-audio_url: https://media.devchat.tv/js-jabber/
+duration: '52:48'
+audio_url: https://media.devchat.tv/js-jabber/JSJ_433_Noam_Rosenthal.mp3
 
 ---
 # [JavaScript Remote Conf 2020](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+
 # [May 13th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
+
+Noam Rosenthal has worked in both web and native technologies. He leads off with a discussion of the history of the web, browsers, and specifically webkit. The panel then goes into how browsers and built and discuss the differences between the different browsers.
 
 ### **Panel**
 
@@ -30,10 +33,7 @@ audio_url: https://media.devchat.tv/js-jabber/
 
 * Noam Rosenthal
 
-### **Sponsors**
-
-* 
-* 
+### 
 
 > **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood is now available on Amazon.**[ **Get Your Copy Today!**](https://www.amazon.com/gp/product/B081MBL5C9/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=devchattv-20&linkId=9d61363241636e2546ef46abba198746&language=en_US)
 
