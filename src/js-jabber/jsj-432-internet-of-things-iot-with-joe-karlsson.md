@@ -12,10 +12,10 @@ tags:
 - Steve Edwards
 - Joe Karlsson
 title: 'JSJ 432: Internet of Things (IoT) with Joe Karlsson'
-date: 2020-05-05T09:00:00Z
+date: 2020-05-05T09:00:00.000+00:00
 episode_number: 432
-duration: ''
-audio_url: ''
+duration: '57:41'
+audio_url: https://media.devchat.tv/js-jabber/JSJ_432_Joe_Karlsson.mp3
 
 ---
 # [JavaScript Remote Conf 2020](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
@@ -64,7 +64,7 @@ Joe Karlsson is a developer advocate at MongoDB. He and the panel walk through t
 
 * [MicroPython \- Python for microcontrollers](https://micropython.org/)
 * [Raspberry Pi Reverse Emulator (Part 1)](https://www.youtube.com/watch?v=ar9WRwCiSr0) 
-* [(Part 2)](https://youtu.be/hTlNVUmBA28)
+* [Raspberry Pi Reverse Emulator (Part 2)](https://youtu.be/hTlNVUmBA28)
 * [Arduino With Python: How to Get Started – Real Python](https://realpython.com/arduino-python/)
 * [Duktape](https://duktape.org/)
 * [How to Diagnose and Fix Everything Electronic](https://amzn.to/2XCxGJw)

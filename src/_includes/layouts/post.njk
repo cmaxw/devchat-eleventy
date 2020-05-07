@@ -259,13 +259,14 @@ layout: layouts/base.njk
 					</div>
 
 					{% include "subscribe.njk" %}
-					{% include "social_links.njk" %}
 
-					{% if podcast %}
+          {% if podcast %}
 						{% include podcasts[ podcast ].sponsor_layout %}
 					{% else %}
 						{% include "sitewide_sidebar_sponsors.njk" %}
 					{% endif %}
+
+					{% include "social_links.njk" %}
 
           <div class="post-list-item widgets">
             <!-- Nav tabs -->

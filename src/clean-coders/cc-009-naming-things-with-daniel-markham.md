@@ -25,6 +25,8 @@ answer4: ''
 
 # [May 13th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
+Daniel Markham is writing a book about coding practices. One of the chapters he's been writing is about naming things in your code. He walks through several strategies and answers questions Chuck poses about how to make sure that your code communicates and functions in ways that keeps the code maintainable.
+
 ### **Host**
 
 * Charles Max Wood
