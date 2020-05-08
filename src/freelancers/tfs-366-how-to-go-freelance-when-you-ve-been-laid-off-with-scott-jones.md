@@ -28,7 +28,7 @@ answer4: ''
 
 # [May 13th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
 
-The panelists discuss different business approaches for freelancing, and how moving from a model where most of your time is spent implementing for clients into a model where most of your time is spent marketing your business has pros and cons and unexpected challenges.
+Scott Jones is the author of The Free Agent Mindset. He talks us through building a list of your skills and building a brand to find clients if you've been laid off and decide to go freelance. We also go into other strategies behind building up your new freelance practice.
 
 ### **Panelists**
 
