@@ -10,7 +10,7 @@ tags:
 - Wai Liu
 layout: layouts/post.njk
 title: ".NET 026: A Tour Around the World of XAML with Dmitry Lyalin"
-date: 2020-05-12T09:00:00+0000
+date: 2020-05-12T09:00:00.000+00:00
 episode_number: '026'
 audio_url: https://media.devchat.tv/adventures-in-dotnet/NET_026_Dmitry_Lyalin.mp3
 duration: '59:59'
@@ -55,7 +55,7 @@ We spend time with Dmitry discussing all the great things going on in the XAML s
 
 **Dmitry Lyalin:**
 
-* Follow Dmitry on Twitter [@LyalinDotCom](https://twitter.com/LyalinDotCom)
+* Follow Dmitry on Twitter > [@LyalinDotCom](https://twitter.com/LyalinDotCom)
 * [Red Rising](https://www.amazon.com/Red-Rising-Trilogy-Book/dp/B0159URANK)
 
 **Shawn Clabough:**
