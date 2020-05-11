@@ -58,7 +58,7 @@ Gil Tayar gave a presentation recently on ES modules in Node. He joins the panel
 
 * [Dr. Erickson COVID video](https://www.youtube.com/watch?v=ndL0uSmKTQU&t=8s)
 * [Zelda: Breath of the Wild](https://amzn.to/3cUZxZN)
-* [75HARD: A 75-Day Tactical Guide to Winning the War With Yourself, with - Andy Frisella](https://andyfrisella.com/blogs/mfceo-project-podcast/75hard-a-75-day-tactical-guide-to-winning-the-war-with-yourself-with-andy-frisella-mfceo291)
+* [75HARD](https://andyfrisella.com/blogs/mfceo-project-podcast/75hard-a-75-day-tactical-guide-to-winning-the-war-with-yourself-with-andy-frisella-mfceo291)
 
 **Steve Edwards:**
 
@@ -73,8 +73,8 @@ Gil Tayar gave a presentation recently on ES modules in Node. He joins the panel
 
 **Gil Tayar:**
 
-* Follow Gil on Twitter [@giltayar](https://twitter.com/giltayar), [Github](), [LinkedIn]()
+* Follow Gil on Twitter > [@giltayar](https://twitter.com/giltayar)
 * [Sunset Blvd](https://www.imdb.com/title/tt0043014/?ref_=fn_al_tt_1)
-* \[Node v14.0.0 \](https://nodejs.org/en/blog/release/v14.0.0/)
+* [Node v14.0.0](https://nodejs.org/en/blog/release/v14.0.0/)
 
 Follow JavaScript Jabber on Twitter > [@JSJabber](https://twitter.com/JSJabber)
