@@ -7,7 +7,7 @@ tags:
 - Brooks Forsyth
 layout: layouts/post.njk
 title: 'AiA 281: The IAN Stack with Brooks Forsyth'
-date: 2020-05-12T09:00:00+0000
+date: 2020-05-12T09:00:00.000+00:00
 episode_number: '281'
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA_281_Brooks_Forsyth.mp3
 duration: '38:19'
@@ -53,7 +53,7 @@ Brooks Forsyth is an Ionic and Angular developer who has coined a new stack call
 
 **Shai Reznik:**
 
-* [https://TestAngular.com](https://TestAngular.com)
+* [http://TestAngular.com](http://testangular.com)
 * [Demystifying Dependency Injection: Angular vs NestJS - Kamil Mysliwiec](https://www.youtube.com/watch?v=vYFhHVMetPg)
 
 **Chris Ford:**
