@@ -63,7 +63,7 @@ Brooks Forsyth is an Ionic and Angular developer who has coined a new stack call
 
 **Brooks Forsyth:**
 
-* Follow Brooks on Twitter [@brooks_forsyth](https://twitter.com/brooks_forsyth?lang=en)
+* Follow Brooks on Twitter > [@brooks_forsyth](https://twitter.com/brooks_forsyth?lang=en)
 * “Pizza is an investment in your future”
 * [IAN Stack](http://ianstack.com/)
 
