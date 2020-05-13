@@ -3,6 +3,9 @@ podcast: adventures-in-devops
 tags:
 - podcast
 - adventures_in_devops
+- Nell Shamrell-Harrington
+- Scott Nixon
+- Tyler Bird
 layout: layouts/post.njk
 title: 'DevOps 035: Rapid Infrastructure Automation with AWS CDK'
 date: 2020-05-19T10:00:00+0000
@@ -19,7 +22,7 @@ question4: ''
 answer4: ''
 
 ---
-Join panelists Nell Shamrell-Harrington, Scott Nixon, Tyler Bird, and special guest Joe Garber to discuss what a digital transformation is, how it’s different from company to company, where to start your transformation and what to do when it gets hard, as well as how organizations across industries are harnessing AI/ML to power their transformations. Also hear us discuss why a digital transformation is never “done” and why that is a good thing!
+Panelist Scott Nixon, DevOps Automation Engineer at Stelligent, leads the Nell and Tyler in a discussion about AWS Cloud Development Kit (CDK). They discuss the evolution of Infrastructure-as-Code on AWS from using the SDKs, CloudFormation, and now CDK.
 
 ### **Panelists**
 
