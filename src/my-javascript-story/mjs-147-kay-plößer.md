@@ -3,6 +3,8 @@ podcast: my-javascript-story
 tags:
 - podcast
 - my_javascript_story
+- Charles Max Wood
+- Kay Plößer
 layout: layouts/post.njk
 title: 'MJS 147: Kay Plößer'
 date: 2020-05-12T10:00:00+0000
