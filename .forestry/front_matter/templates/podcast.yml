@@ -82,3 +82,5 @@ fields:
     schema:
       format: markdown
   label: 'Answer #4'
+pages:
+- src/outsourcing-oasis/oo-007-how-to-hire-developers-without-tech-skills.md
