@@ -37,7 +37,7 @@ Scott Jones is the author of The Free Agent Mindset. He talks us through buildin
 * Petra Manos
 * Brooks Forsyth
 
-### **Panelists**
+### **Guest**
 
 * Scott Jones
 
