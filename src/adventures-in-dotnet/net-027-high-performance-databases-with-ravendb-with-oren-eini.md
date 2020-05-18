@@ -11,7 +11,7 @@ layout: layouts/post.njk
 title: ".NET 027: High performance databases with RavenDB with Oren Eini"
 date: 2020-05-26T09:00:00+0000
 episode_number: '027'
-audio_url: ''
+audio_url: https://media.devchat.tv/adventures-in-dotnet/
 duration: ''
 question1: ''
 answer1: ''
