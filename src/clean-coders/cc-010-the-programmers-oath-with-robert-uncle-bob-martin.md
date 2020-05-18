@@ -6,7 +6,7 @@ tags:
 - Uncle Bob Martin
 - Charles Max Wood
 layout: layouts/post.njk
-title: 'CC 010: Robert "Uncle Bob" Martin'
+title: 'CC 010: The Programmer''s Oath with Robert "Uncle Bob" Martin'
 date: 2020-05-19T09:00:00+0000
 episode_number: '010'
 audio_url: https://media.devchat.tv/clean-coders/CC_010_Robert_Uncle_Bob_Martin.mp3
@@ -21,13 +21,15 @@ question4: ''
 answer4: ''
 
 ---
+Robert "Uncle Bob" Martin rejoins the podcast to discuss the Programmer's Oath. Bob wrote the Programmer's Oath in 2015. The conversation covers the first 4 points of the Programmer's Oath and the ethics involved in writing software that builds and runs our world.
+
 ### **Host**
 
 * Charles Max Wood
 
 ### **Guest**
 
-* Uncle Bob Martin
+* Robert "Uncle Bob" Martin
 
 > **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood is now available on Amazon.**[ **Get Your Copy Today!**](https://www.amazon.com/gp/product/B081MBL5C9/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=devchattv-20&linkId=9d61363241636e2546ef46abba198746&language=en_US)
 
