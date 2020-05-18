@@ -12,7 +12,7 @@ layout: layouts/post.njk
 title: 'AiA 282: Fauna and Cloud Databases with Evan Weaver'
 date: 2020-05-26T09:00:00+0000
 episode_number: '282'
-audio_url: ''
+audio_url: https://media.devchat.tv/adventures-in-angular/
 duration: ''
 question1: ''
 answer1: ''
