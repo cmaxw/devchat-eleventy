@@ -20,7 +20,6 @@ fields:
   template: podcast
   label: Podcast Fields
 pages:
-- src/adventures-in-dotnet/.net-027-high-performance-databases-with-ravendb-with-oren-eini.md
 - src/adventures-in-dotnet/net-017-finding-your-focus.md
 - src/adventures-in-dotnet/net-018-fun-and-development-with-unit-testing-graphql-and-firebase-auth.md
 - src/adventures-in-dotnet/net-019-the-history-of-net-with-richard-campbell.md
@@ -31,4 +30,5 @@ pages:
 - src/adventures-in-dotnet/net-024-net-tools-and-azure-for-net-developers-with-tim-heuer.md
 - src/adventures-in-dotnet/net-025-c-sharp-nodatime-versioning-and-diversity-with-jon-skeet-pt2.md
 - src/adventures-in-dotnet/net-026-a-tour-around-the-world-of-xaml-with-dmitry-lyalin.md
+- src/adventures-in-dotnet/net-027-high-performance-databases-with-ravendb-with-oren-eini.md
 - src/views-on-vue/vov-102-components-from-the-ground-up.md
