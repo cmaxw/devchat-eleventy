@@ -20,7 +20,6 @@ fields:
   template: podcast
   label: Podcast Fields
 pages:
-- src/adventures-in-dotnet/.net-027-high-performance-databases-with-ravendb-with-oren-eini-1.md
 - src/adventures-in-dotnet/.net-027-high-performance-databases-with-ravendb-with-oren-eini.md
 - src/adventures-in-dotnet/net-017-finding-your-focus.md
 - src/adventures-in-dotnet/net-018-fun-and-development-with-unit-testing-graphql-and-firebase-auth.md
