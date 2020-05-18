@@ -14,7 +14,7 @@ tags:
 title: 'JSJ 434: Understanding and Using ES Modules in Node with Gil Tayar'
 date: 2020-05-19T09:00:00Z
 episode_number: 434
-duration: '1:21:21'
+duration: '1:21:36'
 audio_url: https://media.devchat.tv/js-jabber/JSJ_434_Gil_Tayar.mp3
 
 ---
