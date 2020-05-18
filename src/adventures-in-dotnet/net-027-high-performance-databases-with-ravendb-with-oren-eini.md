@@ -46,10 +46,10 @@ Guest, Oren Eini joins the panelists of Adventures in .NET to share on the commo
 
 * Follow Oren on Twitter [@](), [Github](), [LinkedIn](), oren@ravendb.net
 * [Designing Data-Intensive Applications (DDIA) — book by Martin Kleppmann](http://dataintensive.net/)
+* [Database Internals](https://www.databass.dev/)
 
 **Shawn Clabough:**
 
-* [Database Internals](https://www.databass.dev/)
 * [.NET Careers](https://dotnet.careers/)
 * Follow Shawn on Twitter > [@DotNetSuperhero](https://twitter.com/DotNetSuperhero)
 
