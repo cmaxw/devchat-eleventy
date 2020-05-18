@@ -4,11 +4,14 @@ tags:
 - react_round_up
 - podcast
 - Elizabet Oliviera
+- Paige Neidringhaus
+- TJ VanToll
+- Carl Mungazi
 layout: layouts/post.njk
 title: 'RRU 109: SVGS in React with Elizabet Oliviera'
 date: 2020-05-26T09:00:00+0000
 episode_number: '109'
-audio_url: ''
+audio_url: https://media.devchat.tv/reactroundup/
 duration: ''
 question1: ''
 answer1: ''
