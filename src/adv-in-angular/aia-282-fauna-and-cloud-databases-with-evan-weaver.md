@@ -3,6 +3,11 @@ podcast: adv-in-angular
 tags:
 - podcast
 - adv_in_angular
+- Evan Weaver
+- FaunaDb
+- Brooks Forsyth
+- Chris Ford
+- Eddie Hinkle
 layout: layouts/post.njk
 title: 'AiA 282: Fauna and Cloud Databases with Evan Weaver'
 date: 2020-05-26T09:00:00+0000
@@ -23,6 +28,7 @@ Evan Weaver is the CEO and founder at Fauna. He starts out talking about the pro
 
 ### **Panel**
 
+* Charles Max Wood
 * Brooks Forsyth
 * Chris Ford
 * Eddie Hinkle
