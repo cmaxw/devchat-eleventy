@@ -46,7 +46,7 @@ Evan Weaver is the CEO and founder at Fauna. He starts out talking about the pro
 
 **Brooks Forsyth:**
 
-* [Git-backed CMS for Gatsby, Gridsome, Eleventy, Hugo, VuePress, Jekyll, etc. | Forestry.io](https://forestry.io/)
+* [Forestry.io](https://forestry.io/)
 
 **Chris Ford:**
 
