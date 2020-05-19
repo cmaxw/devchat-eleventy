@@ -10,7 +10,7 @@ tags:
 - Cypress.io
 layout: layouts/post.njk
 title: 'VoV 107: Cypress Testing with Amir Rustamzadeh'
-date: 2020-05-19T09:00:00+0000
+date: 2020-05-19T09:00:00.000+00:00
 episode_number: '107'
 audio_url: https://media.devchat.tv/viewsonvue/VoV_107_Amir_Rustamzadeh.mp3
 duration: '1:00:59'
@@ -24,9 +24,6 @@ question4: ''
 answer4: ''
 
 ---
-# [JavaScript Remote Conf 2020](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
-# [May 13th to 15th - register now!](https://devchat.tv/conferences/javascript-remote-2020/ "JavaScript Remote Conf 2020")
-
 In this episode, we talk to Amir Rustamzadeh about the end-to-end testing framework Cypress. We discuss what it is, what it's useful for, and how to test a Vue application. We also discuss mocking APIs, and how easy it is to get started with Cypress.
 
 ### **Panel**
