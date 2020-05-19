@@ -7,7 +7,7 @@ tags:
 - Charles Max Wood
 layout: layouts/post.njk
 title: 'CC 010: The Programmer''s Oath with Robert "Uncle Bob" Martin'
-date: 2020-05-19T09:00:00+0000
+date: 2020-05-19T09:00:00.000+00:00
 episode_number: '010'
 audio_url: https://media.devchat.tv/clean-coders/CC_010_Robert_Uncle_Bob_Martin.mp3
 duration: ''
@@ -39,4 +39,4 @@ Robert "Uncle Bob" Martin rejoins the podcast to discuss the Programmer's Oath. 
 * [X-Plane 11 Flight Simulator](https://www.x-plane.com/)
 * [ForeFlight](https://foreflight.com/)
 
-Follow Uncle Bob on Twitter > @unclebobmartin (https://twitter.com/unclebobmartin)
+Follow Uncle Bob on Twitter > [@unclebobmartin](https://twitter.com/unclebobmartin)
