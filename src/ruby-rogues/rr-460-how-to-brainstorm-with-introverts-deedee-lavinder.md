@@ -7,8 +7,8 @@ tags:
 - John Epperson
 - Luke Stutters
 layout: layouts/post.njk
-title: 'RR 460: How to Brainstorm with Introverts DeeDee Lavinder'
-date: 2020-05-19T09:00:00+0000
+title: 'RR 460: How to Brainstorm Introverts with DeeDee Lavinder'
+date: 2020-05-19T09:00:00.000+00:00
 episode_number: '460'
 audio_url: https://media.devchat.tv/ruby-rogues/RR_460_DeeDee_Lavinder.mp3
 duration: '1:10:01'
