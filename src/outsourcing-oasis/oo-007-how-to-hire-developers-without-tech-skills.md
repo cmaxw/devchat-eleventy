@@ -1,10 +1,10 @@
 ---
 layout: layouts/post.njk
 title: 'OO 007: How to Hire Developers without Tech Skills'
-date: 2020-05-19T10:00:00+0000
+date: 2020-05-19T10:00:00.000+00:00
 episode_number: 7
 audio_url: https://media.devchat.tv/outsourcing-oasis/OO_007_Panel.mp3
-duration: '55:37'
+duration: '55:59'
 question1: ''
 answer1: ''
 question2: ''
@@ -18,7 +18,7 @@ tags:
 - outsourcing_oasis
 - David Hemmat
 - Charles Max Wood
-podcast: 'outsourcing-oasis'
+podcast: outsourcing-oasis
 
 ---
 David and Charles break down the challenges of finding outsourced or in house developers that can help build your first version of your project even if you don't have tech skills. They discuss the scenario of technical founders too. They open up the process of finding and hiring developers who will get you started on the right foot.
