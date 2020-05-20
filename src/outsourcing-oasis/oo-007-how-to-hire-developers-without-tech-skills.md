@@ -18,7 +18,7 @@ tags:
 - outsourcing_oasis
 - David Hemmat
 - Charles Max Wood
-podcast: ''
+podcast: 'outsourcing-oasis'
 
 ---
 David and Charles break down the challenges of finding outsourced or in house developers that can help build your first version of your project even if you don't have tech skills. They discuss the scenario of technical founders too. They open up the process of finding and hiring developers who will get you started on the right foot.
