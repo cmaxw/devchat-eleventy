@@ -243,6 +243,11 @@ layout: layouts/base.njk
 				</div>
 				<!-- col end -->
 				<div class="col-lg-3">
+          {% if podcast %}
+						{% include podcasts[ podcast ].sponsor_layout %}
+					{% else %}
+						{% include "sitewide_sidebar_sponsors.njk" %}
+					{% endif %}
 					<div class="widgets widgets-item">
 						<h3 class="widgets-title">
 							<span>Suggestion Box</span>
@@ -259,12 +264,6 @@ layout: layouts/base.njk
 					</div>
 
 					{% include "subscribe.njk" %}
-
-          {% if podcast %}
-						{% include podcasts[ podcast ].sponsor_layout %}
-					{% else %}
-						{% include "sitewide_sidebar_sponsors.njk" %}
-					{% endif %}
 
 					{% include "social_links.njk" %}
 
