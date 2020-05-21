@@ -28,4 +28,7 @@ pages:
 - src/adventures-in-dotnet/net-022-using-dotvvm-for-migrating-webforms-applications-to-net-core-with-tomas-herceg.md
 - src/adventures-in-dotnet/net-023-c-sharp-nodatime-versioning-and-diversity-with-jon-skeet-pt1.md
 - src/adventures-in-dotnet/net-024-net-tools-and-azure-for-net-developers-with-tim-heuer.md
+- src/adventures-in-dotnet/net-025-c-sharp-nodatime-versioning-and-diversity-with-jon-skeet-pt2.md
+- src/adventures-in-dotnet/net-026-a-tour-around-the-world-of-xaml-with-dmitry-lyalin.md
+- src/adventures-in-dotnet/net-027-high-performance-databases-with-ravendb-with-oren-eini.md
 - src/views-on-vue/vov-102-components-from-the-ground-up.md

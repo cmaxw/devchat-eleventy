@@ -40,27 +40,26 @@ In this episode, Lindsay and Steve talk with Gwen Faraday about Vue component li
 ### **Sponsors**
 
 * Cloudways | [Use promo code "DEVCHAT" for 30% off for 3 months on all plans](https://www.cloudways.com/en/?id=546951&chan=Devchat&data1=Vue-show&data2=Podcast-8)
-## **____________________________________________________________**
 
+## 
 
 > **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood is now available on Amazon.**[ **Get Your Copy Today!**](https://www.amazon.com/gp/product/B081MBL5C9/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=devchattv-20&linkId=9d61363241636e2546ef46abba198746&language=en_US)
 
-## **____________________________________________________________**
+## 
 
 ### **Links**
 
-* [VoV 079: Why Vue\.js is the Best Framework Ever with Gwendolyn Faraday](https://devchat.tv/views-on-vue/vov-079-why-vue-js-is-the-best-framework-ever-with-gwendolyn-faraday/)
+* [VoV 079: Why Vue.js is the Best Framework Ever with Gwendolyn Faraday](https://devchat.tv/views-on-vue/vov-079-why-vue-js-is-the-best-framework-ever-with-gwendolyn-faraday/)
 * [The Vue JS Bootcamp](https://scrimba.com/g/gvue)
 * [Foundation](https://get.foundation/)
 * [Faraday Academy](https://www.youtube.com/channel/UCxA99Yr6P_tZF9_BgtMGAWA)
 * [Ecamm Live](https://www.ecamm.com/mac/ecammlive/)
 
-
 ### **Picks**
 
 **Lindsay Wardell:**
 
-* [Delta\-V by Daniel Suarez](https://www.goodreads.com/book/show/40859000-delta-v)
+* [Delta-V by Daniel Suarez](https://www.goodreads.com/book/show/40859000-delta-v)
 * [Lindsay Wardell](https://www.lindsaykwardell.com/)
 * [Cartographers' Guild](https://www.cartographersguild.com/content.php?s=1d4afba3b843a76d56f236e2117d0a9a)
 
@@ -73,6 +72,5 @@ In this episode, Lindsay and Steve talk with Gwen Faraday about Vue component li
 * Follow Gwendolyn on Twitter > [@gwen_faraday](https://twitter.com/gwen_faraday?lang=en)
 * [Best Asimov Books](https://www.goodreads.com/list/show/5526.Best_Asimov_Books)
 * [Nine Tomorrows by Isaac Asimov](https://www.goodreads.com/book/show/724666.Nine_Tomorrows)
-
 
 Follow Views on Vue on Twitter > [@viewsonvue](https://twitter.com/viewsonvue)

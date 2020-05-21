@@ -1,6 +1,6 @@
 {
-  "title": "TBD",
-  "description": "TBD",
-  "speaker": "js20_base",
+  "title": "The Naked Web Developer: Your Browser is Your Framework",
+  "description": "Developers love the idea of having safety nets when they work. The feeling that a stable framework, backed by top software companies and supported by community developers, will ensure they can't go wrong. There is one excellent framework everybody forgets: the web browser. Using modern web standards, we can add new features/powers into the browser in a snap. Is this too good to be true? Can it be that we are actually at the point where all the shiny component frameworks are disposable? Can we all be freed from the framework fatigue? The opinionated session will cover the basic ideas of messaging, data binding, component authoring, routing - without dependencies - and compare them with the same features provided by the browser. DYI approach with real code will be presented and compared with features that simply cannot be provided without external tooling.",
+  "speaker": "js20_avichay_eyal",
   "start_time": "2:30 PM MDT"
 }

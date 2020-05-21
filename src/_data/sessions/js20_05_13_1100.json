@@ -1,6 +1,6 @@
 {
-  "title": "JavaScript as a build target",
-  "description": "Browsers only speak JavaScript, so we are forced to use this language. Or are we? Maybe we can just change the perspective and stop thinking of JavaScript as a programming language but rather as an environment or a “build target”.  During this talk, I'm going to explore our options for having JavaScript without writing JavaScript. I will walk you through statically typed JavaScript flavors and tell why would we want to use any of them.",
-  "speaker": "js20_aleksandra_sikora",
+  "title": "The Road to Reliable React Performance Monitoring",
+  "description": "Every one of your users has a different setup, different habits, and a different workflow of your webapp. This makes monitoring performance difficult. Modern browsers provide tools to debug JavaScript performance issues but with two important caveats: it’s  manual, and it only provides insight into your JavaScript code, which is hard to translate into making your React code faster. In this talk, I'll explain how—through first instrumenting the new React APIs for Profiling and then using reproducible acceptance tests—I've been able to automate the detection of performance regressions, and how this can be integrated into a CI/CD pipeline.",
+  "speaker": "js20_adrien_trauth",
   "start_time": "11:00 AM MDT"
 }
