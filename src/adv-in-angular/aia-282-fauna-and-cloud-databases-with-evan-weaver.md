@@ -10,10 +10,10 @@ tags:
 - Eddie Hinkle
 layout: layouts/post.njk
 title: 'AiA 282: Fauna and Cloud Databases with Evan Weaver'
-date: 2020-05-26T09:00:00+0000
+date: 2020-05-26T09:00:00.000+00:00
 episode_number: '282'
-audio_url: https://media.devchat.tv/adventures-in-angular/
-duration: ''
+audio_url: https://media.devchat.tv/adventures-in-angular/AiA_282_Evan_Weaver.mp3
+duration: '45:18'
 question1: ''
 answer1: ''
 question2: ''
