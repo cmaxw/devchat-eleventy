@@ -3,6 +3,8 @@ podcast: my-javascript-story
 tags:
 - podcast
 - my_javascript_story
+- Farzad Yousefzadehr
+- Charles Max Wood
 layout: layouts/post.njk
 title: 'MJS 148: Farzad Yousefzadehr'
 date: 2020-05-26T10:00:00+0000
