@@ -9,10 +9,10 @@ tags:
 - RavenDB
 layout: layouts/post.njk
 title: ".NET 027: High performance databases with RavenDB with Oren Eini"
-date: 2020-05-26T09:00:00+0000
+date: 2020-05-26T09:00:00.000+00:00
 episode_number: '027'
-audio_url: https://media.devchat.tv/adventures-in-dotnet/
-duration: ''
+audio_url: https://media.devchat.tv/adventures-in-dotnet/NET_027_Oren_Eini.mp3
+duration: '1:06:02'
 question1: ''
 answer1: ''
 question2: ''
