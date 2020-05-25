@@ -9,10 +9,10 @@ tags:
 - Carl Mungazi
 layout: layouts/post.njk
 title: 'RRU 109: SVGS in React with Elizabet Oliviera'
-date: 2020-05-26T09:00:00+0000
+date: 2020-05-26T09:00:00.000+00:00
 episode_number: '109'
-audio_url: https://media.devchat.tv/reactroundup/
-duration: ''
+audio_url: https://media.devchat.tv/reactroundup/RRU_109_Elizabet_Oliveira.mp3
+duration: '42:46'
 question1: ''
 answer1: ''
 question2: ''
@@ -35,6 +35,9 @@ If you’ve tried using SVGs in your application, chances are you’ve found it 
 
 * Elizabet Oliveira
 
+### **Sponsors**
+
+* [G2i | Enjoy the luxuries of freelancing](https://www.g2i.co/?utm_source=React_Roundup&utm_medium=Podcast&utm_campaign=DevChat)
 > **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood is now available on Amazon.**[ **Get Your Copy Today!**](https://www.amazon.com/gp/product/B081MBL5C9/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=devchattv-20&linkId=9d61363241636e2546ef46abba198746&language=en_US)
 
 ### **Links**
