@@ -32,7 +32,7 @@ The panelists talk to Alex Chalkias, a product manager at Ubuntu, about tools an
 
 ### **Guest**
 
-* Alex Chalikias
+* Alex Chalkias
 
 ### **Sponsors**
 
