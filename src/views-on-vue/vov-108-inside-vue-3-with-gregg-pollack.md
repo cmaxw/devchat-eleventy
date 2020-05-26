@@ -11,7 +11,7 @@ layout: layouts/post.njk
 title: 'VoV 108: Inside Vue 3 with Gregg Pollack'
 date: 2020-06-02T09:00:00+0000
 episode_number: '108'
-audio_url: https://media.devchat.tv/viewsonvue/
+audio_url: https://media.devchat.tv/viewsonvue/VoV_108_Gregg_Pollack.mp3
 duration: '57:12'
 question1: ''
 answer1: ''
