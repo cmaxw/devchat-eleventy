@@ -5,11 +5,11 @@ tags:
 - adventures_in_devops
 - Nell Shamrell-Harrington
 - Scott Nixon
-- Alex Chalikias
+- Alex Chalkias
 layout: layouts/post.njk
 title: 'DevOps 036: An Overview of MicoK8s, Charmed K8s, and Other Ubuntu Infrastructure
-  Tools with Alex Chalikias'
-date: 2020-05-26T10:00:00+0000
+  Tools with Alex Chalkias'
+date: 2020-05-26T10:00:00.000+00:00
 episode_number: '36'
 audio_url: https://media.devchat.tv/adventures-in-devops/ADO_036_Alex_Chalikias.mp3
 duration: '51:46'
