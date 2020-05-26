@@ -64,7 +64,7 @@ Evan Weaver is the CEO and founder at Fauna. He starts out talking about the pro
 
 **Evan Weaver:**
 
-* Follow Evan on Twitter > [@evan](https://twitter.com/evan), [Fauna.com]((https://fauna.com/))
+* Follow Evan on Twitter > [@evan](https://twitter.com/evan), [Fauna.com](https://fauna.com)
 * [Quick start - jwt-auth](https://jwt-auth.readthedocs.io/en/docs/quick-start/)
 
 Follow Adventures in Angular on Twitter > [@angularpodcast](https://twitter.com/angularpodcast)
