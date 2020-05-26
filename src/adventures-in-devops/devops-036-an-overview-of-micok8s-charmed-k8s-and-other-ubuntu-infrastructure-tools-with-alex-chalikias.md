@@ -66,7 +66,7 @@ The panelists talk to Alex Chalkias, a product manager at Ubuntu, about tools an
 
 * [YouTube Premium](https://www.youtube.com/premium)
 
-**Alex Chalikias:**
+**Alex Chalkias:**
 
 * [AsciiCinema](https://asciinema.org/)
 * [Don't Make Me Think](https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758/ref=sr_1_2?dchild=1&keywords=don%27t+make+me+think&qid=1587743811&sr=8-2)
