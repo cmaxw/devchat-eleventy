@@ -8,7 +8,7 @@ tags:
 - Jacob Eiting
 layout: layouts/post.njk
 title: 'iPS 291: App Store Subscriptions with Jacob Eiting'
-date: 2020-05-26T10:00:00+0000
+date: 2020-05-26T10:00:00.000+00:00
 episode_number: '291'
 audio_url: https://media.devchat.tv/iphreaks/iPS_291_Jacob_Eiting.mp3
 duration: '1:11:22'
@@ -31,7 +31,7 @@ Jacob Eiting, CEO and co-founder of RevenueCat joins Soojin and Chuck to talk ab
 
 ### **Guest**
 
-* jacob Eiting
+* Jacob Eiting
 
 ### **Sponsors**
 
