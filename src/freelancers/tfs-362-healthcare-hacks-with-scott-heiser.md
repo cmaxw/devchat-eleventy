@@ -12,7 +12,7 @@ layout: layouts/post.njk
 title: 'TFS 362: Healthcare Hacks with Scott Heiser'
 date: 2020-04-14T10:00:00.000+00:00
 episode_number: '362'
-audio_url: https://media.devchat.tv/freelancers/_362_Scott_Heiser.mp3
+audio_url: https://media.devchat.tv/freelancers/TFS_362_Scott_Heiser.mp3
 duration: '50:21'
 question1: ''
 answer1: ''
