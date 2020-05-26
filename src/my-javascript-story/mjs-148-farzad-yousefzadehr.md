@@ -21,6 +21,8 @@ question4: ''
 answer4: ''
 
 ---
+In this week's episode of My JavaScript Story, Charles Max Wood interviews Farzad Yousefzadehr, who was a guest on the React Round Up show. As a Senior Software Engineer, Farzad has the cool job of designing and refactoring existing games at Epic Games. He currently lives in Helsinki, Finland, with his lovely wife and cat.
+
 **Host:** Charles Max Wood
 
 **Joined By Special Guest:** Farzad Yousefzadehr
