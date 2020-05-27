@@ -12,7 +12,7 @@ layout: layouts/post.njk
 title: 'RRU 110: Game Development in React & Typescript with Maksim Ivanov'
 date: 2020-06-09T09:00:00+0000
 episode_number: '110'
-audio_url: https://media.devchat.tv/reactroundup/RRU_110 _Maksim_Ivanov.mp3
+audio_url: https://media.devchat.tv/reactroundup/RRU_110_Maksim_Ivanov.mp3
 duration: '1:01:29'
 question1: ''
 answer1: ''
