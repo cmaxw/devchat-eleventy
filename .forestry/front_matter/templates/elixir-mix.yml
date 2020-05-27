@@ -29,3 +29,4 @@ pages:
 - src/elixir-mix/emx-091-managing-change-with-ecto-with-david-bernheisel.md
 - src/elixir-mix/emx-092-elixir-and-python-interoperability-with-alvise-susmel.md
 - src/elixir-mix/emx-093-multi-tenant-dbs-with-lars-wikman.md
+- src/elixir-mix/emx-094-writing-custom-credo-check-with-devon-estes.md
