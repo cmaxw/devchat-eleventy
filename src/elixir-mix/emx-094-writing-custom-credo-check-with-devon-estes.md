@@ -9,7 +9,7 @@ tags:
 - Devon Estes
 layout: layouts/post.njk
 title: 'EMx 094: Writing Custom Credo Check with Devon Estes'
-date: 2020-05-27T10:00:00+0000
+date: 2020-05-26T10:00:00+0000
 episode_number: '94'
 audio_url: https://media.devchat.tv/elixir-mix/EMx_094_Devon_Estes.mp3
 duration: '37:06'
