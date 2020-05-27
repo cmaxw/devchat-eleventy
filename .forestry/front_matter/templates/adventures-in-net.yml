@@ -20,6 +20,7 @@ fields:
   template: podcast
   label: Podcast Fields
 pages:
+- src/adventures-in-dotnet/.net-028-modern-identity-from-internal-directories-to-cross-domain-identity-over-the-public-internet-with-bobby-johnson.md
 - src/adventures-in-dotnet/net-017-finding-your-focus.md
 - src/adventures-in-dotnet/net-018-fun-and-development-with-unit-testing-graphql-and-firebase-auth.md
 - src/adventures-in-dotnet/net-019-the-history-of-net-with-richard-campbell.md
