@@ -7,7 +7,7 @@ tags:
 - Scott Nixon
 - Alex Chalkias
 layout: layouts/post.njk
-title: 'DevOps 036: An Overview of MicoK8s, Charmed K8s, and Other Ubuntu Infrastructure
+title: 'DevOps 036: An Overview of MicroK8s, Charmed K8s, and Other Ubuntu Infrastructure
   Tools with Alex Chalkias'
 date: 2020-05-26T10:00:00.000+00:00
 episode_number: '36'
@@ -68,6 +68,6 @@ The panelists talk to Alex Chalkias, a product manager at Ubuntu, about tools an
 
 **Alex Chalkias:**
 
-* [AsciiCinema](https://asciinema.org/)
+* [asciinema](https://asciinema.org/)
 * [Don't Make Me Think](https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758/ref=sr_1_2?dchild=1&keywords=don%27t+make+me+think&qid=1587743811&sr=8-2)
 * [The Last Dance](https://www.espn.com/nba/story/_/id/28973557/the-last-dance-updates-untold-story-michael-jordan-chicago-bulls)
