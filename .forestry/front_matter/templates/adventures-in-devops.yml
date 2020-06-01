@@ -37,3 +37,4 @@ pages:
 - src/adventures-in-devops/devops-034-digital-darwinism-how-digital-transformation-is-evolving-business-with-joe-garber.md
 - src/adventures-in-devops/devops-035-rapid-infrastructure-automation-with-aws-cdk.md
 - src/adventures-in-devops/devops-036-an-overview-of-micok8s-charmed-k8s-and-other-ubuntu-infrastructure-tools-with-alex-chalkias.md
+- src/adventures-in-devops/devops-037-monitoring-your-applications-with-prometheus-with-bjorn-rabenstein.md
