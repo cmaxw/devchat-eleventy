@@ -9,7 +9,7 @@ layout: layouts/post.njk
 title: 'EMx 095: Adopting Elixir at FindHotel with Fernando Hamasaki de Amorim'
 date: 2020-06-02T10:00:00+0000
 episode_number: '95'
-audio_url: https://media.devchat.tv/EMx_095_Fernando_Hamasaki_de_Amorim.mp3
+audio_url: https://media.devchat.tv/elixir-mix/EMx_095_Fernando_Hamasaki_de_Amorim.mp3
 duration: '43:24'
 question1: ''
 answer1: ''
