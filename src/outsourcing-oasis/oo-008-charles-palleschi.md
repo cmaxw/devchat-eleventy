@@ -7,7 +7,7 @@ tags:
 - Charles Max Wood
 podcast: ''
 title: 'OO 008: Charles Palleschi'
-date: 2020-06-02T10:00:00Z
+date: 
 episode_number: 8
 duration: '47:27'
 audio_url: https://media.devchat.tv/outsourcing-oasis/OO_008_Charles_Palleschi.mp3
