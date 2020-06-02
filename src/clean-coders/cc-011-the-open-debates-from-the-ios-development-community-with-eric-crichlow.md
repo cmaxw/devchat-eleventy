@@ -10,7 +10,7 @@ title: 'CC 011: The Open Debates from the iOS Development Community with Eric Cr
 date: 2020-06-02T09:00:00+0000
 episode_number: '011'
 audio_url: https://media.devchat.tv/clean-coders/CC_011_Eric_Crichlow.mp3
-duration: '40:17'
+duration: '48:06'
 question1: ''
 answer1: ''
 question2: ''
