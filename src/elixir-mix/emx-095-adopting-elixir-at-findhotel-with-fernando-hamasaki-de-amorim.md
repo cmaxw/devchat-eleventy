@@ -7,7 +7,7 @@ tags:
 - Fernando Hamasaki de Amorim
 layout: layouts/post.njk
 title: 'EMx 095: Adopting Elixir at FindHotel with Fernando Hamasaki de Amorim'
-date: 2020-06-02T10:00:00+0000
+date: 2020-06-02T10:00:00.000+00:00
 episode_number: '95'
 audio_url: https://media.devchat.tv/elixir-mix/EMx_095_Fernando_Hamasaki_de_Amorim.mp3
 duration: '43:24'
@@ -42,7 +42,7 @@ Mark talks with Fernando Hamasaki de Amorim about his experience adopting Elixir
 * [Adopting Elixir at FindHotel](https://blog.findhotel.net/2019/11/adopting-elixir-at-findhotel/)
 * [FindHotel](https://www.findhotel.net/)
 * [Dependencies and umbrella projects](https://elixir-lang.org/getting-started/mix-otp/dependencies-and-umbrella-projects.html)
-* [Elixir in Action](https://www.manning.com/books/elixir-in-action)
+* [Elixir in Action](https://www.manning.com/books/elixir-in-action-second-edition)
 * [GitHub Fernando Hamasaki de Amorim](https://github.com/prodis)
 * [FindHotel Blog](https://blog.findhotel.net)
 * Twitter Fernando Hamasaki de Amorim : [@Prodis](https://twitter.com/prodis)
