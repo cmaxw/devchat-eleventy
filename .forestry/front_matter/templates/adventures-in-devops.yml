@@ -38,3 +38,4 @@ pages:
 - src/adventures-in-devops/devops-035-rapid-infrastructure-automation-with-aws-cdk.md
 - src/adventures-in-devops/devops-036-an-overview-of-micok8s-charmed-k8s-and-other-ubuntu-infrastructure-tools-with-alex-chalkias.md
 - src/adventures-in-devops/devops-037-monitoring-your-applications-with-prometheus-with-bjorn-rabenstein.md
+- src/adventures-in-devops/devops-038-chasing-unicorns-and-narwhals-with-the-unicorn-project.md
