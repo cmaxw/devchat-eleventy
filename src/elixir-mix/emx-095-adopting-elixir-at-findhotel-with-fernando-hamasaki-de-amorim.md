@@ -21,7 +21,7 @@ question4: ''
 answer4: ''
 
 ---
-Mark talks with Fernando Hamasaki de Amorim about his experience adopting Elixir at [findhotels.net](http://findhotels.net/). He shares his strategy of introducing Elixir through hack-a-thons, what kinds of projects work well to start with and tips around learning and building a team. We discuss umbrella projects, pattern matching for data transformation, and learning about managing configuration in Elixir applications and much more!
+Mark talks with Fernando Hamasaki de Amorim about his experience adopting Elixir at [FindHotel](https://findhotel.net). He shares his strategy of introducing Elixir through hack-a-thons, what kinds of projects work well to start with and tips around learning and building a team. We discuss umbrella projects, pattern matching for data transformation, and learning about managing configuration in Elixir applications and much more!
 
 ### **Panelists**
 
@@ -31,11 +31,11 @@ Mark talks with Fernando Hamasaki de Amorim about his experience adopting Elixir
 
 * Fernando Hamasaki de Amorim
 
-## 
+##
 
 > **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood is now available on Amazon.**[ **Get Your Copy Today!**](https://www.amazon.com/gp/product/B081MBL5C9/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=devchattv-20&linkId=9d61363241636e2546ef46abba198746&language=en_US)
 
-## 
+##
 
 ### **Links**
 
