@@ -4,12 +4,13 @@ tags:
 - podcast
 - clean_coders
 - Chris Powers
+- Charles Max Wood
 layout: layouts/post.njk
 title: 'CC 012: Chris Powers'
 date: 2020-06-16T09:00:00+0000
 episode_number: '012'
-audio_url: https://media.devchat.tv/clean-coders/
-duration: ''
+audio_url: https://media.devchat.tv/clean-coders/CC_012_Chris_Powers.mp3
+duration: '54:14'
 question1: ''
 answer1: ''
 question2: ''
