@@ -10,7 +10,7 @@ tags:
 - TJ VanToll
 layout: layouts/post.njk
 title: 'RRU 110: Game Development in React & Typescript with Maksim Ivanov'
-date: 2020-06-09T09:00:00+0000
+date: 2020-06-09T09:00:00.000+00:00
 episode_number: '110'
 audio_url: https://media.devchat.tv/reactroundup/RRU_110_Maksim_Ivanov.mp3
 duration: '1:01:29'
@@ -24,8 +24,6 @@ question4: ''
 answer4: ''
 
 ---
-
-
 Front end developer Maksim Ivanov talks about working for Mojang, the company behind the ridiculously popular game Minecraft. As it turns out, Maksim uses React to build different pieces of the game, and runs the code through a custom renderer to make it work in the game world. In addition to his day job, he also found time to write a book about TypeScript after realizing how much easier getting familiar with new code bases could be if TypeScript was used instead of JavaScript. The panel has used TypeScript to varying degrees themselves, but nobody's gone all in, and they talk about the pros and cons of it, including the initial learning curve and how it can help prevent bugs in the code. Maksim's book covers many aspects of TypeScript in great detail, and it sounds like a good read for anyone just picking up the language.
 
 ### **Panel**
@@ -41,7 +39,7 @@ Front end developer Maksim Ivanov talks about working for Mojang, the company be
 ### **Sponsors**
 
 
-* [G2i | Enjoy the luxuries of freelancing](https://www.g2i.co/?utm_source=React_Roundup&utm_medium=Podcast&utm_campaign=DevCha)t
+* [G2i | Enjoy the luxuries of freelancing](https://www.g2i.co/?utm_source=React_Roundup&utm_medium=Podcast&utm_campaign=DevChat)
 
 
 > **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood is now available on Amazon.**[ **Get Your Copy Today!**](https://www.amazon.com/gp/product/B081MBL5C9/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=devchattv-20&linkId=9d61363241636e2546ef46abba198746&language=en_US)
@@ -93,4 +91,3 @@ Front end developer Maksim Ivanov talks about working for Mojang, the company be
 * [https://rtmccormick.com/2018/01/10/clear-node-modules-folders-recursively-mac-linux/](https://rtmccormick.com/2018/01/10/clear-node-modules-folders-recursively-mac-linux/)
 
 Follow React Round Up on Twitter > [@reactroundup](https://twitter.com/reactroundup)
-
