@@ -4,11 +4,14 @@ tags:
 - podcast
 - views_on_vue
 - John Leider
+- Steve Edwards
+- Lindsay Wardell
+- Vuetify
 layout: layouts/post.njk
 title: 'VoV 110: Vuetify Next with John Leider'
 date: 2020-06-16T09:00:00+0000
 episode_number: '110'
-audio_url: https://media.devchat.tv/viewsonvue/
+audio_url: https://media.devchat.tv/viewsonvue/VoV_110_John_Leider.mp3
 duration: '1:03:15'
 question1: ''
 answer1: ''
