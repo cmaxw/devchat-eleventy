@@ -6,6 +6,9 @@ tags:
 - js_jabber
 - 'MongoDB '
 - Joe Karlsson
+- AJ O’Neal
+- Aimee Knight
+- Steve Edwards
 title: 'JSJ 436: MongoDB Basics with Joe Karlsson'
 date: 2020-06-16T09:00:00Z
 episode_number: 436
