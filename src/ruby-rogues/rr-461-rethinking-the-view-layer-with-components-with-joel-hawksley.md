@@ -8,7 +8,7 @@ tags:
 - Dave Kimura
 - Luke Stutters
 layout: layouts/post.njk
-title: 'RR 461: Joel Hawksley'
+title: 'RR 461: Rethinking the View Layer with Components with Joel Hawksley'
 date: 2020-06-09T09:00:00.000+00:00
 episode_number: '461'
 audio_url: https://media.devchat.tv/ruby-rogues/RR_461_Joel_Hawksley.mp3
@@ -23,6 +23,8 @@ question4: ''
 answer4: ''
 
 ---
+Joel Hawksley is an engineer at Github who works on some of their Rails architecture. He is one of the authors of the view_component gem. He walks the Rogues through the genesis of the project and the pros and cons of using a library like view_component and how it adds testability and easy management to Rails views.
+
 ### **Panel**
 
 * Charles Max Wood
