@@ -9,7 +9,7 @@ tags:
 - Luke Stutters
 layout: layouts/post.njk
 title: 'RR 461: Joel Hawksley'
-date: 2020-06-09T09:00:00+0000
+date: 2020-06-09T09:00:00.000+00:00
 episode_number: '461'
 audio_url: https://media.devchat.tv/ruby-rogues/RR_461_Joel_Hawksley.mp3
 duration: '1:00:34'
