@@ -6,7 +6,7 @@ tags:
 - Chris Powers
 - Charles Max Wood
 layout: layouts/post.njk
-title: 'CC 012: Chris Powers'
+title: 'CC 012: The Practice of Preparedness with Chris Powers'
 date: 2020-06-16T09:00:00+0000
 episode_number: '012'
 audio_url: https://media.devchat.tv/clean-coders/CC_012_Chris_Powers.mp3
@@ -21,6 +21,8 @@ question4: ''
 answer4: ''
 
 ---
+Chris Powers joins the Clean Coders podcast again to talk about how to be ready to seize opportunities and handle trials. Life has given us a huge pile of uncertainty lately. Chris and Chuck discuss how to create some certainty and how to grow during times like this.
+
 ### **Host**
 
 * Charles Max Wood
