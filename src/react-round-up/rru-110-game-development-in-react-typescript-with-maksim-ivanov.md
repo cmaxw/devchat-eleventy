@@ -38,18 +38,15 @@ Front end developer Maksim Ivanov talks about working for Mojang, the company be
 
 ### **Sponsors**
 
-
 * [G2i | Enjoy the luxuries of freelancing](https://www.g2i.co/?utm_source=React_Roundup&utm_medium=Podcast&utm_campaign=DevChat)
 
-
 > **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood is now available on Amazon.**[ **Get Your Copy Today!**](https://www.amazon.com/gp/product/B081MBL5C9/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=devchattv-20&linkId=9d61363241636e2546ef46abba198746&language=en_US)
-
 
 ### **Links**
 
 * [Custom Renderer](https://www.youtube.com/watch?v=CGpMlWVcHok)
-* [react\-game\-engine \- npm](https://www.npmjs.com/package/react-game-engine)
-* [react\-unity\-webgl \- npm](https://www.npmjs.com/package/react-unity-webgl)
+* [react-game-engine - npm](https://www.npmjs.com/package/react-game-engine)
+* [react-unity-webgl - npm](https://www.npmjs.com/package/react-unity-webgl)
 * [gettext](https://www.gnu.org/software/gettext/)
 * [newline](https://www.newline.co/)
 * [@tjfuller • Instagram](https://www.instagram.com/tjfuller/)
@@ -57,13 +54,6 @@ Front end developer Maksim Ivanov talks about working for Mojang, the company be
 * [Cheatsheets for experienced React developers getting started with TypeScript](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
 * [The RSpec Book](https://pragprog.com/book/achbd/the-rspec-book)
 * [TypeStrong](https://github.com/TypeStrong/ts-node)
-
-
-
-
-
-
-
 
 ### **Picks**
 
@@ -74,20 +64,18 @@ Front end developer Maksim Ivanov talks about working for Mojang, the company be
 
 **Charles Max Wood:**
 
-* [Iron druid chronicles](https://amzn.to/3bP8Z0M) 
+* [Iron druid chronicles](https://amzn.to/3bP8Z0M)
 * [Percy Jackson](https://amzn.to/2W8fEwh)
-* [Devchat\.tv Remote meetups](https://devchat.tv/meetups/)
-* [Devchat\.tv Remote Conferences](https://devchat.tv/conferences/) 
+* [Devchat.tv Remote meetups](https://devchat.tv/meetups/)
+* [Devchat.tv Remote Conferences](https://devchat.tv/conferences/)
 
 **Paige Niedringhaus:**
 
 * [The Name of the Wind](https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind)
-* 
-* 
 
 **TJ VanToll:**
 
-* [OmniDiskSweeper, OmniWeb, and OmniPresence \- The Omni Group](https://www.omnigroup.com/more)
+* [OmniDiskSweeper, OmniWeb, and OmniPresence - The Omni Group](https://www.omnigroup.com/more)
 * [https://rtmccormick.com/2018/01/10/clear-node-modules-folders-recursively-mac-linux/](https://rtmccormick.com/2018/01/10/clear-node-modules-folders-recursively-mac-linux/)
 
 Follow React Round Up on Twitter > [@reactroundup](https://twitter.com/reactroundup)
