@@ -23,6 +23,10 @@ question4: ''
 answer4: ''
 
 ---
+# [Rails Remote Conf 2020](https://devchat.tv/conferences/rails-remote-2020/)
+
+## [June 24th to 26th](https://devchat.tv/conferences/rails-remote-2020/)
+
 Joel Hawksley is an engineer at Github who works on some of their Rails architecture. He is one of the authors of the view_component gem. He walks the Rogues through the genesis of the project and the pros and cons of using a library like view_component and how it adds testability and easy management to Rails views.
 
 ### **Panel**
