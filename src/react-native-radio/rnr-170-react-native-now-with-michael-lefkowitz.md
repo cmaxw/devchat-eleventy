@@ -22,6 +22,10 @@ question4: ''
 answer4: ''
 
 ---
+# [React Native Remote Conf 2020 ](https://devchat.tv/conferences/react-native-remote-2020/)
+
+## [July 29th to 31st - register now!](https://devchat.tv/conferences/react-native-remote-2020/)
+
 Michael Lefkowitz joins us to talk about the newsletter he runs React Native Now. We discuss how the newsletter started, the diverse and rich content subscribers can expect to find in the newsletter, and more.
 
 ### **Panelists**
