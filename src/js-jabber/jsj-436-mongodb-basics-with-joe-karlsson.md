@@ -10,12 +10,15 @@ tags:
 - Aimee Knight
 - Steve Edwards
 title: 'JSJ 436: MongoDB Basics with Joe Karlsson'
-date: 2020-06-16T09:00:00Z
+date: 2020-06-16T09:00:00.000+00:00
 episode_number: 436
-duration: '58:46'
+duration: '59:00'
 audio_url: https://media.devchat.tv/js-jabber/JSJ_436_Joe_Karlsson.mp3
 
 ---
+# [React Native Remote Conf](https://reactnativeremoteconf.com/)
+## [July 28th to 31th](https://reactnativeremoteconf.com/)
+
 What is MongoDB? How does it work? How is it different than a standard relational database? How does it fit into a modern web app? This week, the panel gets the answers to these questions and more when they talk to Joe Karlsson, Software Engineer and Developer Advocate at MongoDB.
 
 ### **Panel**
