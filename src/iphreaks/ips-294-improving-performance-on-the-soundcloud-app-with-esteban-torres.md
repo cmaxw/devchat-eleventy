@@ -22,6 +22,8 @@ question4: ''
 answer4: ''
 
 ---
+# [**iOS Dev Remote Conf 2020**](https://devchat.tv/conferences/ios-remote-2020/)
+
 Esteban Torres is an iOS developer at SoundCloud. He walks the iPhreaks through the process of upgrading the performance of their iOS app. Their app started out taking 2 hours to launch when they were testing. They started out fixing their tracking and then worked on one improvement at a time.
 
 ### **Panelists**
