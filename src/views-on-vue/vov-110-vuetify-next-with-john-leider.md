@@ -9,7 +9,7 @@ tags:
 - Vuetify
 layout: layouts/post.njk
 title: 'VoV 110: Vuetify Next with John Leider'
-date: 2020-06-16T09:00:00+0000
+date: 2020-06-16T09:00:00.000+00:00
 episode_number: '110'
 audio_url: https://media.devchat.tv/viewsonvue/VoV_110_John_Leider.mp3
 duration: '1:03:15'
@@ -23,6 +23,8 @@ question4: ''
 answer4: ''
 
 ---
+# [Vue Remote Conf 2020](https://vueremoteconf.com/#schedule)
+## [October 6th to 9th](https://vueremoteconf.com/#schedule)
 In this episode of Views on Vue, we talk to John Leider, the creator of Vuetify. We discuss how he started in programming and web development, and what led to the creation of Vuetify. We also talk about what's coming next with version 3, and how John is able to run an open source project as his business.
 
 ### **Panel**
