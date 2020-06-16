@@ -12,7 +12,7 @@ title: 'VoV 110: Vuetify Next with John Leider'
 date: 2020-06-16T09:00:00.000+00:00
 episode_number: '110'
 audio_url: https://media.devchat.tv/viewsonvue/VoV_110_John_Leider.mp3
-duration: '1:03:15'
+duration: '1:03:25'
 question1: ''
 answer1: ''
 question2: ''
