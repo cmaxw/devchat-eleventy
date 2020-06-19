@@ -21,7 +21,7 @@ question4: ''
 answer4: ''
 
 ---
-In this episode, Charles Max Wood approaches Alex Bush to get questions answered about some of the applications he wants to build for mobile devices. The apps range from things for podcasters to other hobbies Chuck has.
+In this episode the iPhreaks Show, Charles Max Wood approaches Alex Bush to get questions answered about some of the applications he wants to build for mobile devices. The apps range from things for podcasters to other hobbies Chuck has.
 
 ### **Panelists**
 
