@@ -6,8 +6,8 @@ tags:
 - Alex Bush
 - Charles Max Wood
 layout: layouts/post.njk
-title: 'iPS 293: iOS Developer Interview Questions and Answers'
-date: 2020-06-09T10:00:00+0000
+title: 'iPS 293: Questions Every iOS Developer Should Be Able to Answer'
+date: 2020-06-09T10:00:00.000+00:00
 episode_number: '293'
 audio_url: https://media.devchat.tv/iphreaks/iPS_293_Panel.mp3
 duration: '1:00:31'
@@ -21,7 +21,7 @@ question4: ''
 answer4: ''
 
 ---
-Alex has written a page listing interview questions that could be asked at an iOS interview. He and Chuck dive in and discuss the ins and outs of each topic and answer the interview questions.
+In this episode, Charles Max Wood approaches Alex Bush to get questions answered about some of the applications he wants to build for mobile devices. The apps range from things for podcasters to other hobbies Chuck has.
 
 ### **Panelists**
 
