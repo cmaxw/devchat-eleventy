@@ -18,7 +18,6 @@ duration: '1:24:54'
 audio_url: https://media.devchat.tv/js-jabber/JSJ_437_Jonathan_Sampson.mp3
 
 ---
-
 # [React Native Remote Conf](https://reactnativeremoteconf.com/)
 
 ## [July 28th to 31th](https://reactnativeremoteconf.com/)
@@ -37,13 +36,7 @@ Jonathan Sampson hops into the Jabber session to talk about the Brave Browser. H
 
 * Jonathan Sampson
 
-
-### **Sponsors**
-
-* [Remote Work: Get a Job or Make a Career Working From Home](https://amzn.to/3cvYyj2)
-
 > **"The MaxCoders Guide to Finding Your Dream Developer Job" by Charles Max Wood is now available on Amazon.**[ **Get Your Copy Today!**](https://www.amazon.com/gp/product/B081MBL5C9/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=devchattv-20&linkId=9d61363241636e2546ef46abba198746&language=en_US)
-
 
 ### **Picks**
 
@@ -64,7 +57,6 @@ Jonathan Sampson hops into the Jabber session to talk about the Brave Browser. H
 * [What Is BGP?](https://www.cloudflare.com/learning/security/glossary/what-is-bgp/)
 * [8Greens](https://8greens.com/)
 
-
 **Charles Max Wood:**
 
 * [Traffic Secrets](https://trafficsecrets.com/ts-free-book?affiliate_id=2438659&cf_affiliate_id=2438659)
@@ -79,7 +71,6 @@ Jonathan Sampson hops into the Jabber session to talk about the Brave Browser. H
 
 * [Web Vitals](https://web.dev/vitals/)
 * [JSJ 428: The Alphabet Soup of Performance Measurements](https://devchat.tv/js-jabber/jsj-428-the-alphabet-soup-of-performance-measurements/)
-* [What's New in Lighthouse 6\.0](https://web.dev/lighthouse-whats-new-6.0/)
-
+* [What's New in Lighthouse 6.0](https://web.dev/lighthouse-whats-new-6.0/)
 
 Follow JavaScript Jabber on Twitter > [@JSJabber](https://twitter.com/JSJabber)
