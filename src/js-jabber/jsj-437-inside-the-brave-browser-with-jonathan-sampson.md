@@ -6,6 +6,11 @@ tags:
 - js_jabber
 - 'Brave Browser '
 - Jonathan Sampson
+- AJ O’Neal
+- Aimee Knight
+- Charles Max Wood
+- Steve Edwards
+- Dan Shappir
 title: 'JSJ 437: Inside the Brave Browser with Jonathan Sampson'
 date: 2020-06-23T09:00:00Z
 episode_number: 437
