@@ -5,6 +5,9 @@ tags:
 - adv_in_angular
 - Maxim Salnikov
 - PWA
+- Younes Jaaidi
+- Brooks Forsyth
+- Chris Ford
 layout: layouts/post.njk
 title: 'AiA 284: Progressive Web Apps using Angular with Maxim Salnikov'
 date: 2020-06-23T09:00:00+0000
