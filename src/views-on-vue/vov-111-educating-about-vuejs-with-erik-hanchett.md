@@ -4,6 +4,8 @@ tags:
 - podcast
 - views_on_vue
 - Erik Hanchett
+- Steve Edwards
+- Lindsay Wardell
 layout: layouts/post.njk
 title: 'VoV 111: Educating about VueJS with Erik Hanchett'
 date: 2020-06-23T09:00:00+0000
