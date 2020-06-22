@@ -4,6 +4,10 @@ tags:
 - react_round_up
 - podcast
 - Brice Ayres
+- Charles Max Wood
+- Paige Niedringhaus
+- TJ VanToll
+- Carl Mungazi
 layout: layouts/post.njk
 title: 'RRU 111: React Tools, Codebase Management, and More with Brice Ayres'
 date: 2020-06-23T09:00:00+0000
