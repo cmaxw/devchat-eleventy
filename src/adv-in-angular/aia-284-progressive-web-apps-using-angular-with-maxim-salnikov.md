@@ -10,7 +10,7 @@ tags:
 - Chris Ford
 layout: layouts/post.njk
 title: 'AiA 284: Progressive Web Apps using Angular with Maxim Salnikov'
-date: 2020-06-23T09:00:00+0000
+date: 2020-06-23T09:00:00.000+00:00
 episode_number: '284'
 audio_url: https://media.devchat.tv/adventures-in-angular/AiA_284_Maxim_Salnikov.mp3
 duration: '1:05:25'
@@ -24,7 +24,7 @@ question4: ''
 answer4: ''
 
 ---
-# [Angular Native Remote Conf](https://angularremoteconf.com/)
+# [Angular Remote Conf](https://angularremoteconf.com/)
 
 ## [August 25th to 28th](https://angularremoteconf.com/)
 
