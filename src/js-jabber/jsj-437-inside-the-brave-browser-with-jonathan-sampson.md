@@ -12,9 +12,9 @@ tags:
 - Steve Edwards
 - Dan Shappir
 title: 'JSJ 437: Inside the Brave Browser with Jonathan Sampson'
-date: 2020-06-23T09:00:00Z
+date: 2020-06-23T09:00:00.000+00:00
 episode_number: 437
-duration: '1:24:54'
+duration: '1:25:01'
 audio_url: https://media.devchat.tv/js-jabber/JSJ_437_Jonathan_Sampson.mp3
 
 ---
