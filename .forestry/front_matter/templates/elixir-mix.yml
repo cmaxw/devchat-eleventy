@@ -32,3 +32,4 @@ pages:
 - src/elixir-mix/emx-094-writing-custom-credo-check-with-devon-estes.md
 - src/elixir-mix/emx-095-adopting-elixir-at-findhotel-with-fernando-hamasaki-de-amorim.md
 - src/elixir-mix/emx-096-sharing-protobuf-schemas-with-andrea-leopardi.md
+- src/elixir-mix/emx-097-real-time-phoenix-tenant-data-and-user-auth-with-steve-bussey.md
