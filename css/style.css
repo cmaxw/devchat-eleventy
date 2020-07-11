@@ -282,6 +282,12 @@ section, .section {
 .ts-youtube a i {
   background: #f33220; }
 
+.ts-website a i {
+  background: #007bb6; }
+
+.ts-instagram a i {
+  background: #f33220; }
+
 /* defailt title setting */
 .ts-title {
   font-size: 20px;
@@ -2016,6 +2022,15 @@ img.sidebar-img {
     background: #f33220; }
     .ts-block-social-list li.ts-youtube a i {
       background: #ce3425; }
+.ts-block-social-list li.ts-website a {
+  background: #8cbfd8; }
+.ts-block-social-list li.ts-website a i {
+  background: #749db2; }
+
+.ts-block-social-list li.ts-instagram a {
+  background: #f33220; }
+.ts-block-social-list li.ts-instagram a i {
+  background: #ce3425; }
 
 .widget-title {
   font-size: 20px;
