@@ -43,7 +43,7 @@ Chris Ferdinandi
 - [https://learnvanillajs.com/](https://learnvanillajs.com/)
 Tim Caswell
 - [https://www.magicleap.com/](https://www.magicleap.com/)
-- [https://textonascreen.rocks/](https://textonascreen.rocks/)
+- [https://textonascreen.rocks/](https://textonascreen-rocks.web.app/)
 - [https://history.lds.org/saints](https://history.lds.org/saints)
 
 
